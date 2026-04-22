@@ -4,6 +4,8 @@
 between activity stations, meet each other, and chat in English using a
 locally trained Markov dialogue model.
 
+<img width="1000" height="229" alt="" src="https://github.com/user-attachments/assets/7757cc4a-6dc5-42e2-a10e-14361469c2ce" />
+
 ## TL;DR
 
 - Build: `make all`
