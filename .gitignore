@@ -1,0 +1,29 @@
+# Build outputs
+dist/
+build/
+web/bolklets_code.trial.*.png
+
+# Downloaded / cached training data — but keep the curated seed bank
+corpus/*
+!corpus/golden_seeds
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor (optional — remove if you want these in the repo)
+.idea/
+
+# Local env / secrets
+.env
+.env.*
+

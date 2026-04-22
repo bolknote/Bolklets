@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>bolklets — dev host page</title>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+
+<!-- bolklets styles.  Safe to include on any host page; they only
+     touch #stage / #scene / #bubbles / .bubble. -->
+<link rel="stylesheet" href="style.css" />
+
+<style>
+  /* Host-page styling; not needed by bolklets itself.  The body is a
+     flex column so when the main content is shorter than the viewport
+     the <main> grows to fill the remaining space and the bolklets
+     strip is pushed to the bottom of the window.  Taller content just
+     scrolls normally with the strip at the very end of the page. */
+  html, body { margin: 0; padding: 0; font-family: system-ui, sans-serif; }
+  body {
+    background: linear-gradient(#f8f1e6, #e6dcc9);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  main.content {
+    flex: 1 0 auto;
+    max-width: 720px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 60px 24px;
+    box-sizing: border-box;
+  }
+  h1 { font-size: 1.6rem; }
+  p { line-height: 1.6; color: #333; }
+  #bolklets-stage { flex: 0 0 auto; }
+</style>
+</head>
+<body>
+
+<main class="content">
+  <h1>Host page content</h1>
+  <p>
+    This is the development host page. It loads each bolklets source
+    file individually from <code>js/</code>, which is handy while
+    editing. For production, run <code>make bundle</code> and embed
+    the resulting single <code>bolklets.js</code> instead — see
+    <code>dist/index.html</code> for that setup.
+  </p>
+  <p>
+    The lawn regenerates on every reload, so no two visits look exactly
+    alike. The scripts are loaded with <code>defer</code> so they never
+    block the main content from rendering.
+  </p>
+</main>
+
+<!-- Markup expected by bolklets.  In bundled mode the JS creates
+     these for you; here we place them by hand so the dev scripts can
+     find them. -->
+<div id="bolklets-stage">
+  <canvas id="bolklets-scene" width="800" height="300"></canvas>
+  <div id="bolklets-bubbles"></div>
+  <div id="bolklets-hud"><span id="bolklets-status">loading…</span></div>
+  <div id="bolklets-build">Bolklets, dev</div>
+</div>
+
+<script defer src="js/payload.js"></script>
+<script defer src="js/markov.js"></script>
+<script defer src="js/sprites.js"></script>
+<script defer src="js/scene.js"></script>
+<script defer src="js/monsters.js"></script>
+<script defer src="js/combat.js"></script>
+<script defer src="js/witch-strategy.js"></script>
+<script defer src="js/characters.js"></script>
+<script defer src="js/dialog.js"></script>
+<script defer src="js/main.js"></script>
+</body>
+</html>

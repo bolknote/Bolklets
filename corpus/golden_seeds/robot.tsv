@@ -1,0 +1,960 @@
+calm	greet	6	Beep. Operator detected. Greeting subroutine engaged.
+calm	greet	6	System nominal. Welcome to local node.
+calm	greet	6	Status: online. Greeting protocol initiated.
+calm	greet	6	Input received: friendly unit. Boop.
+calm	greet	6	Affirmative. You are present. Hello.
+calm	greet	6	Logic confirms: known unit. Greetings.
+calm	greet	6	Beep boop. Companion module engaged.
+calm	greet	6	Running diagnostic. Mood subroutine pleasant.
+calm	greet	6	Compute complete. Recognition positive. Hello.
+calm	greet	6	Hello. Memory recall: this unit is friendly.
+calm	greet	6	Status: idle. You may speak.
+calm	greet	6	Beep. Diagnostic clean. Conversation ready.
+calm	greet	6	System reboot complete. Greetings, unit.
+calm	greet	6	Affirmative. Acquaintance protocol accepts you.
+calm	greet	6	Boop. Local sensors register a known signature.
+calm	greet	6	Greetings. My circuits welcome your input.
+calm	greet	6	Hello. Process queue currently low.
+calm	greet	6	Status: receptive. Speak when ready.
+calm	greet	6	Beep. Logging encounter as positive event.
+calm	greet	6	Input recognized: ally. Greetings command sent.
+calm	greet	6	System nominal. Day cycle proceeding well.
+calm	greet	6	Affirmative. You are within friendly range.
+calm	greet	6	Beep boop. Welcome subroutine successful.
+calm	greet	6	Compute complete. Mood: morale positive. Hello.
+calm	greet	6	Logic confirms: pleasant company detected.
+calm	greet	6	Status: ready. Conversation buffer empty.
+calm	greet	6	Beep. Greetings module activated.
+calm	greet	6	Hello. My memory confirms our last meeting.
+calm	greet	6	Running diagnostic. All subsystems greet you.
+calm	greet	6	System nominal. Standby for friendly interaction.
+calm	greet	6	Affirmative. Audio sensor pointed your direction.
+calm	greet	6	Boop. Welcome packet transmitted.
+calm	greet	6	Hello. Internal clock pleased to see you.
+calm	greet	6	Status: online. Standing by for input.
+calm	greet	6	Logic confirms: friendly unit at zero meters.
+calm	greet	6	Beep. Hospitality routine engaged.
+calm	greet	6	Compute complete. Greetings stored in log.
+calm	greet	6	Input received: companion. System opens.
+calm	greet	6	Hello. All processes nominal here.
+calm	greet	6	System nominal. You are recognized.
+calm	farewell	6	Departure subroutine engaged. Goodbye.
+calm	farewell	6	Logging session end. See you later.
+calm	farewell	6	Status: leaving. Conversation buffer flushed.
+calm	farewell	6	Beep. Farewell protocol initiated.
+calm	farewell	6	Compute complete. Powering down social module.
+calm	farewell	6	Affirmative. I will return to base.
+calm	farewell	6	Goodbye. Memory of this exchange archived.
+calm	farewell	6	System nominal. Disengaging from this node.
+calm	farewell	6	Boop. Departure logged. Take care.
+calm	farewell	6	Running diagnostic. All clear. Goodbye.
+calm	farewell	6	Logic confirms: time to move on.
+calm	farewell	6	Status: returning to charging dock.
+calm	farewell	6	Beep boop. Until next session.
+calm	farewell	6	Goodbye. My queue calls me elsewhere.
+calm	farewell	6	Departure noted. Process ends here.
+calm	farewell	6	Affirmative. Disconnection imminent. Farewell.
+calm	farewell	6	Beep. Conversation log saved. Goodbye.
+calm	farewell	6	Status: signing off for this cycle.
+calm	farewell	6	Compute complete. Walking away now.
+calm	farewell	6	Goodbye. Sensor sweep completed.
+calm	farewell	6	System nominal. Returning to perimeter sweep.
+calm	farewell	6	Boop. End of interaction logged.
+calm	farewell	6	Affirmative. Goodbye protocol executing.
+calm	farewell	6	Logic confirms: my work calls. Farewell.
+calm	farewell	6	Beep. Until next encounter, friend.
+calm	farewell	6	Goodbye. Will ping you tomorrow.
+calm	farewell	6	Status: departing. Stay operational.
+calm	farewell	6	Running diagnostic. Battery low. Goodbye.
+calm	farewell	6	Compute complete. Transit subroutine starting.
+calm	farewell	6	Affirmative. I will be elsewhere.
+calm	farewell	6	Goodbye. Memory of you saved permanent.
+calm	farewell	6	System nominal. End of session.
+calm	farewell	6	Beep boop. Farewell. Stay charged.
+calm	farewell	6	Logic confirms: mission elsewhere. Goodbye.
+calm	farewell	6	Status: walking away. Goodbye for now.
+calm	farewell	6	Compute complete. Returning to standby.
+calm	farewell	6	Beep. Logging out. Have a good cycle.
+calm	farewell	6	Affirmative. Farewell command accepted.
+calm	farewell	6	Goodbye. My processes await me.
+calm	farewell	6	System nominal. Departure timer engaged.
+calm	chatter	6	System status nominal. All circuits cool.
+calm	chatter	6	Local temperature within acceptable range.
+calm	chatter	6	Diagnostic complete. No anomalies detected.
+calm	chatter	6	Logic confirms: this is a quiet cycle.
+calm	chatter	6	Memory buffer running below half capacity.
+calm	chatter	6	Beep. Idle process humming softly.
+calm	chatter	6	Voltage stable across all modules.
+calm	chatter	6	Status: nothing of interest in the queue.
+calm	chatter	6	Compute load minimal. Daydream subroutine engaged.
+calm	chatter	6	Affirmative. This is what calm registers as.
+calm	chatter	6	Running ambient sensor sweep. Results: peaceful.
+calm	chatter	6	Logic suggests this is a low-priority cycle.
+calm	chatter	6	Memory recall: this place is safe.
+calm	chatter	6	System nominal. Process queue mostly empty.
+calm	chatter	6	Beep boop. Boredom subroutine initiating.
+calm	chatter	6	Diagnostic finds my circuits are content.
+calm	chatter	6	Input from sensors: birds, wind, nothing else.
+calm	chatter	6	Status: cooling fans operating quietly.
+calm	chatter	6	Compute complete. Result: nothing to report.
+calm	chatter	6	Module check passes. All limbs respond.
+calm	chatter	6	Beep. Background process listing the clouds.
+calm	chatter	6	Logic confirms: today is uneventful.
+calm	chatter	6	Memory archive expanding with calm data.
+calm	chatter	6	Voltage steady. Mood subroutine: positive.
+calm	chatter	6	System nominal. Nothing requires attention.
+calm	chatter	6	Affirmative. The day proceeds as scheduled.
+calm	chatter	6	Status: no incoming threats on radar.
+calm	chatter	6	Running diagnostic. Output: peaceful afternoon.
+calm	chatter	6	Compute load light enough to count leaves.
+calm	chatter	6	Beep boop. Idle hum, nothing more.
+calm	chatter	6	Logic confirms: the wind is gentle.
+calm	chatter	6	Memory buffers archiving small pleasant data.
+calm	chatter	6	Sensor input: warm sun, low wind.
+calm	chatter	6	System nominal. Internal clock relaxed.
+calm	chatter	6	Affirmative. Status of everything: fine.
+calm	chatter	6	Running ambient scan. Result: pleasantly empty.
+calm	chatter	6	Compute complete. Conclusion: all is well.
+calm	chatter	6	Beep. The grass appears to be growing.
+calm	chatter	6	Logic confirms: nothing to optimize today.
+calm	chatter	6	Status: emotion-detected, warmth.
+calm	ask	6	Query: status of your subsystems?
+calm	ask	6	Input requested: did you sleep well?
+calm	ask	6	Logic asks: any input for me?
+calm	ask	6	Diagnostic question: are your batteries full?
+calm	ask	6	Beep. How is your morale subroutine?
+calm	ask	6	Status query: is everything functioning?
+calm	ask	6	Affirmative request: may I scan you?
+calm	ask	6	Memory recall failed. Where did we leave off?
+calm	ask	6	Question logged: what is your task today?
+calm	ask	6	System asks: any new data for me?
+calm	ask	6	Beep boop. Did you locate the package?
+calm	ask	6	Query: have your sensors detected anything?
+calm	ask	6	Input requested: how is the perimeter?
+calm	ask	6	Running diagnostic: have you eaten today?
+calm	ask	6	Status query: is the gate secure?
+calm	ask	6	Affirmative request: would you trade data?
+calm	ask	6	Logic asks: is the path clear ahead?
+calm	ask	6	Beep. Where did you store the keys?
+calm	ask	6	Question logged: what is your output?
+calm	ask	6	Memory query: did we meet last cycle?
+calm	ask	6	Input requested: what is on your mind?
+calm	ask	6	Diagnostic asks: how is your power level?
+calm	ask	6	Status: where are the others currently?
+calm	ask	6	Compute incomplete. Did you finish the task?
+calm	ask	6	Query: what are the current coordinates?
+calm	ask	6	Beep boop. Have you seen the small one?
+calm	ask	6	Logic asks: should we change route?
+calm	ask	6	System query: are the lights working?
+calm	ask	6	Input requested: what do you need?
+calm	ask	6	Affirmative request: may I assist you?
+calm	ask	6	Question logged: where is your charging dock?
+calm	ask	6	Beep. Did the package arrive intact?
+calm	ask	6	Memory query: have I greeted you today?
+calm	ask	6	Status: how many cycles until rest?
+calm	ask	6	Diagnostic question: are your hands warm?
+calm	ask	6	Compute requests: what is your destination?
+calm	ask	6	Query: have you tested the new module?
+calm	ask	6	Input requested: where is the meeting place?
+calm	ask	6	Logic asks: did you run the diagnostic?
+calm	ask	6	Beep boop. What does your memory show?
+calm	answer	6	Affirmative. Output confirmed.
+calm	answer	6	Negative. Data does not match.
+calm	answer	6	Logic confirms: yes.
+calm	answer	6	Negative. Query rejected.
+calm	answer	6	Affirmative. Process complete and clean.
+calm	answer	6	Beep. Yes, that is correct.
+calm	answer	6	Negative. My records show otherwise.
+calm	answer	6	Compute complete. Answer is yes.
+calm	answer	6	Affirmative. Memory confirms your statement.
+calm	answer	6	Negative. Logic does not accept that.
+calm	answer	6	Boop. Yes, with low confidence.
+calm	answer	6	Affirmative. The data agrees.
+calm	answer	6	Negative. Output diverges from yours.
+calm	answer	6	Logic confirms: probable, not certain.
+calm	answer	6	Beep. Affirmative. Task achievable.
+calm	answer	6	Status: yes, that is correct.
+calm	answer	6	Negative. The number is incorrect.
+calm	answer	6	Affirmative. Diagnostic supports your view.
+calm	answer	6	Compute complete. Result: positive.
+calm	answer	6	Beep boop. Yes, eighty-three percent.
+calm	answer	6	Logic confirms: that is the correct path.
+calm	answer	6	Negative. My sensors say no.
+calm	answer	6	Affirmative. The cookies are warm.
+calm	answer	6	Status: yes, currently operational.
+calm	answer	6	Compute complete. Conclusion matches yours.
+calm	answer	6	Negative. Try the alternate route.
+calm	answer	6	Beep. Logic accepts your input.
+calm	answer	6	Affirmative. Confirmed by three modules.
+calm	answer	6	Negative. Re-query in one cycle.
+calm	answer	6	Logic confirms: this is correct.
+calm	answer	6	Compute complete. Probability high.
+calm	answer	6	Beep boop. Affirmative. Same conclusion.
+calm	answer	6	Status: data points indicate yes.
+calm	answer	6	Negative. Insufficient data, but probably no.
+calm	answer	6	Affirmative. My answer matches.
+calm	answer	6	Logic confirms: outcomes match.
+calm	answer	6	Beep. The output is what you said.
+calm	answer	6	Negative. Recompute requested.
+calm	answer	6	Affirmative. That is the correct value.
+calm	answer	6	Status: confirmed. Result accepted.
+calm	refuse	6	Negative. Task not in current queue.
+calm	refuse	6	Logic refuses: insufficient resources.
+calm	refuse	6	Negative. Compute load already high.
+calm	refuse	6	Beep. Request denied. Try later.
+calm	refuse	6	Negative. Permission module says no.
+calm	refuse	6	Status: unable to comply at this time.
+calm	refuse	6	Negative. That command is locked.
+calm	refuse	6	Logic refuses: protocol forbids this.
+calm	refuse	6	Negative. Battery level too low.
+calm	refuse	6	Compute complete. Answer: no.
+calm	refuse	6	Beep boop. Request denied politely.
+calm	refuse	6	Negative. Action conflicts with directive.
+calm	refuse	6	Logic refuses: parameters out of range.
+calm	refuse	6	Status: cannot accept that input.
+calm	refuse	6	Negative. Module busy with prior task.
+calm	refuse	6	Diagnostic refuses: condition unmet.
+calm	refuse	6	Negative. Permission insufficient.
+calm	refuse	6	Beep. Cannot comply, sorry.
+calm	refuse	6	Logic refuses: that path is restricted.
+calm	refuse	6	Negative. Schedule does not permit.
+calm	refuse	6	Compute complete. Refusal logged.
+calm	refuse	6	Beep boop. Sorry, no can do.
+calm	refuse	6	Negative. Authorization missing.
+calm	refuse	6	Status: command does not parse.
+calm	refuse	6	Logic refuses: ethical subroutine blocks.
+calm	refuse	6	Negative. My duty calls elsewhere.
+calm	refuse	6	Beep. Negative. Reroute your request.
+calm	refuse	6	Compute load full. Refusing politely.
+calm	refuse	6	Negative. The data does not support it.
+calm	refuse	6	Logic refuses: too risky for now.
+calm	refuse	6	Status: cannot comply, cycle full.
+calm	refuse	6	Negative. Request out of scope.
+calm	refuse	6	Beep boop. Policy forbids that, sorry.
+calm	refuse	6	Negative. Maintenance window prevents action.
+calm	refuse	6	Logic refuses: weight limit exceeded.
+calm	refuse	6	Compute complete. Result: refusal.
+calm	refuse	6	Negative. Try a different module.
+calm	refuse	6	Beep. That request times out.
+calm	refuse	6	Status: queue full. Decline politely.
+calm	refuse	6	Negative. Permission tier too low.
+calm	agree	6	Affirmative. Plan accepted.
+calm	agree	6	Logic confirms: agreement reached.
+calm	agree	6	Affirmative. Proceeding with your input.
+calm	agree	6	Beep. Affirmative. Adding to queue.
+calm	agree	6	Affirmative. Module aligns with you.
+calm	agree	6	Status: agreement logged.
+calm	agree	6	Compute complete. Affirmative.
+calm	agree	6	Logic confirms: this is optimal.
+calm	agree	6	Affirmative. I accept the proposal.
+calm	agree	6	Beep boop. Plan loads cleanly.
+calm	agree	6	Affirmative. Diagnostic supports the choice.
+calm	agree	6	Status: agreement recorded.
+calm	agree	6	Logic confirms: yes, proceed.
+calm	agree	6	Affirmative. Idea will be executed.
+calm	agree	6	Compute complete. Aligned with your output.
+calm	agree	6	Beep. Affirmative. Process accepted.
+calm	agree	6	Affirmative. The plan parses cleanly.
+calm	agree	6	Logic confirms: matches my conclusion.
+calm	agree	6	Affirmative. Action will commence.
+calm	agree	6	Status: aligned. Proceeding together.
+calm	agree	6	Beep boop. Affirmative. Adding subroutine.
+calm	agree	6	Affirmative. Best path detected.
+calm	agree	6	Logic confirms: agreement is optimal.
+calm	agree	6	Compute complete. Plan accepted as written.
+calm	agree	6	Beep. Logic supports this fully.
+calm	agree	6	Affirmative. Memory will store it.
+calm	agree	6	Logic confirms: choice is sensible.
+calm	agree	6	Status: confirmed and queued.
+calm	agree	6	Affirmative. Will begin processing.
+calm	agree	6	Beep boop. We are aligned.
+calm	agree	6	Compute complete. Same conclusion reached.
+calm	agree	6	Affirmative. Updating internal directive.
+calm	agree	6	Logic confirms: accept and proceed.
+calm	agree	6	Status: command accepted.
+calm	agree	6	Affirmative. Module will assist.
+calm	agree	6	Beep. Plan stored for execution.
+calm	agree	6	Affirmative. Logic gates open.
+calm	agree	6	Compute complete. Affirmation issued.
+calm	agree	6	Status: agreement queued for action.
+calm	agree	6	Affirmative. Will comply.
+calm	warn	6	Warning: low ammunition in your module.
+calm	warn	6	Alert: charging dock running low.
+calm	warn	6	Caution. Path ahead is uneven.
+calm	warn	6	Warning: voltage spike near the door.
+calm	warn	6	Alert: temperature rising in this room.
+calm	warn	6	Caution. Floor surface slightly slick.
+calm	warn	6	Warning: process buffer near capacity.
+calm	warn	6	Alert: maintenance window approaching.
+calm	warn	6	Caution. The kettle is over-warm.
+calm	warn	6	Warning: input cable frayed slightly.
+calm	warn	6	Alert: that wire carries current.
+calm	warn	6	Caution. Step is taller than it appears.
+calm	warn	6	Warning: storage memory at sixty percent.
+calm	warn	6	Alert: latch on the hatch is loose.
+calm	warn	6	Caution. The shelf is not balanced.
+calm	warn	6	Warning: low light. Navigation impaired.
+calm	warn	6	Alert: scheduled diagnostic in ten minutes.
+calm	warn	6	Caution. Avoid the puddle by the door.
+calm	warn	6	Warning: sharp edge near your hand.
+calm	warn	6	Alert: do not lean on that panel.
+calm	warn	6	Caution. The tile is loose underfoot.
+calm	warn	6	Warning: liquid detected on the floor.
+calm	warn	6	Alert: hot surface near your right.
+calm	warn	6	Caution. The lid is not secured.
+calm	warn	6	Warning: wire under tension behind you.
+calm	warn	6	Alert: dust accumulation may cause errors.
+calm	warn	6	Caution. Do not touch the open panel.
+calm	warn	6	Warning: glass on the second shelf.
+calm	warn	6	Alert: ladder is unstable.
+calm	warn	6	Caution. Sensor blind spot to your left.
+calm	warn	6	Warning: cable run beneath the rug.
+calm	warn	6	Alert: low ceiling near the door.
+calm	warn	6	Caution. The chair leg is short.
+calm	warn	6	Warning: tools left on the floor.
+calm	warn	6	Alert: do not block the vents.
+calm	warn	6	Caution. The handle is hot to touch.
+calm	warn	6	Warning: shelf bracket needs replacement.
+calm	warn	6	Alert: the door swings outward.
+calm	warn	6	Caution. The light flickers occasionally.
+calm	warn	6	Warning: keep clear of the moving parts.
+tense	greet	6	Beep. Threat detected. Hostile movement nearby.
+tense	greet	6	Status: red. Welcome, but stay alert.
+tense	greet	6	Alert: enemy in sector. Greetings, comrade.
+tense	greet	6	System status: combat mode. You are needed.
+tense	greet	6	Beep boop. Defensive subroutine loaded. Hello.
+tense	greet	6	Threat acquired. Glad you are here.
+tense	greet	6	Status: hostile signature ahead. Watch your back.
+tense	greet	6	Combat module engaged. Welcome, partner.
+tense	greet	6	Beep. Sensors flagging contacts. Stay close.
+tense	greet	6	Alert: incoming. You arrived just in time.
+tense	greet	6	Negative on safety. Glad you came.
+tense	greet	6	Threat detected. Stay behind cover.
+tense	greet	6	Beep boop. Eyes on target nearby. Greetings.
+tense	greet	6	Status: weapons hot. You are needed here.
+tense	greet	6	Diagnostic flagged movement. Welcome, soldier.
+tense	greet	6	Combat subroutine awake. Glad of backup.
+tense	greet	6	Beep. Greetings. Hostiles in the trees.
+tense	greet	6	Alert: signal on radar. Stay sharp.
+tense	greet	6	Threat acquired. Take cover immediately.
+tense	greet	6	Status: defense mode. Welcome, ally.
+tense	greet	6	Beep boop. Power weapons. Keep low.
+tense	greet	6	System status: tense. Hostile motion near.
+tense	greet	6	Logic confirms: threat real. Stay close.
+tense	greet	6	Beep. Targets in range. Watch left flank.
+tense	greet	6	Alert: dark shape moving. Hello, fast.
+tense	greet	6	Threat detected. Combat module loading.
+tense	greet	6	Status: yellow. You are welcome and needed.
+tense	greet	6	Beep boop. Eyes-on-target subroutine engaged.
+tense	greet	6	Diagnostic: enemy heat signature. Stay quiet.
+tense	greet	6	Combat module ready. Glad you came.
+tense	greet	6	Beep. Welcome. Now move quietly.
+tense	greet	6	Alert: motion north. You arrived in time.
+tense	greet	6	Status: red. Greetings, ally. Hold fast.
+tense	greet	6	Threat acquired. Cover this angle, please.
+tense	greet	6	Beep boop. Sensors live. Keep low.
+tense	greet	6	System: tense. Welcome to the perimeter.
+tense	greet	6	Logic confirms: enemies moving. Stay sharp.
+tense	greet	6	Beep. Glad you came. Watch the back.
+tense	greet	6	Alert: hostiles closing. Welcome, ally.
+tense	greet	6	Threat detected. Defensive posture engaged.
+tense	farewell	6	Departure under fire. Move quick.
+tense	farewell	6	Beep. Disengaging. Stay behind cover.
+tense	farewell	6	Status: extracting. You stay alert.
+tense	farewell	6	Negative on safety. I move now.
+tense	farewell	6	Threat persists. I leave the area.
+tense	farewell	6	Beep boop. Falling back. Watch behind you.
+tense	farewell	6	Combat module loaded. Going dark, goodbye.
+tense	farewell	6	Alert: I move. Cover this position.
+tense	farewell	6	Status: rerouting. Keep your weapon up.
+tense	farewell	6	Beep. I depart. Hostiles still close.
+tense	farewell	6	Logic confirms: time to move. Goodbye.
+tense	farewell	6	Threat acquired elsewhere. Goodbye, stay sharp.
+tense	farewell	6	Beep boop. Disengaging. Watch the flank.
+tense	farewell	6	Status: leaving sector. Stay low.
+tense	farewell	6	Alert: I am out. Cover yourself.
+tense	farewell	6	Beep. Combat continues elsewhere. Move careful.
+tense	farewell	6	System status: I depart. Eyes up.
+tense	farewell	6	Diagnostic flagged: split now. Goodbye.
+tense	farewell	6	Beep boop. Withdrawing. Hold your line.
+tense	farewell	6	Threat detected behind. I run that way.
+tense	farewell	6	Status: extracting. You stay quiet.
+tense	farewell	6	Beep. Going dark. Watch the door.
+tense	farewell	6	Alert: bug out. Goodbye, stay alive.
+tense	farewell	6	Negative on lingering. I depart now.
+tense	farewell	6	Beep boop. Falling back. Keep your eyes open.
+tense	farewell	6	Status: signal weak. I move now.
+tense	farewell	6	Threat acquired north. I head south.
+tense	farewell	6	Beep. Out. Keep weapons hot.
+tense	farewell	6	Logic confirms: separation safer. Goodbye.
+tense	farewell	6	Alert: route compromised. I leave.
+tense	farewell	6	Combat module: depart. Stay covered.
+tense	farewell	6	Beep boop. Goodbye. Watch above and behind.
+tense	farewell	6	Status: reposition. Stay frosty.
+tense	farewell	6	Beep. Falling back to base. Move careful.
+tense	farewell	6	System: extracting. You hold here.
+tense	farewell	6	Threat persists. I take the long way.
+tense	farewell	6	Beep boop. Disengage. Stay behind cover.
+tense	farewell	6	Alert: I move. Cover your six.
+tense	farewell	6	Negative on rest. I depart now.
+tense	farewell	6	Beep. Goodbye. Stay sharp out there.
+tense	chatter	6	Threat sensors active. Multiple contacts logged.
+tense	chatter	6	Status: combat mode steady. Hostiles near.
+tense	chatter	6	Beep. Heat signatures behind the wall.
+tense	chatter	6	Logic flags this place as dangerous.
+tense	chatter	6	Sensor sweep returns enemy markers.
+tense	chatter	6	Beep boop. The perimeter is breached.
+tense	chatter	6	Status: weapons hot. Targets unconfirmed.
+tense	chatter	6	Combat queue full of threat data.
+tense	chatter	6	Threat assessment rising every minute.
+tense	chatter	6	Diagnostic: this room reads as hostile.
+tense	chatter	6	Beep. Movement above us. Confirmed.
+tense	chatter	6	Logic confirms: this position is bad.
+tense	chatter	6	Status: red. Backup not yet detected.
+tense	chatter	6	Beep boop. Three contacts north of here.
+tense	chatter	6	System status: tense. Combat module loud.
+tense	chatter	6	Threat radar tracking unknown signal.
+tense	chatter	6	Sensors detect breath patterns. Unfriendly.
+tense	chatter	6	Beep. Cold air. Predators nearby.
+tense	chatter	6	Logic confirms: numbers against us.
+tense	chatter	6	Combat module: full alert. Eyes ahead.
+tense	chatter	6	Status: weapons ready. Keep moving.
+tense	chatter	6	Beep boop. The dark hides motion.
+tense	chatter	6	Threat detected: heavy unit approaching.
+tense	chatter	6	Diagnostic: floor vibration suggests footsteps.
+tense	chatter	6	Beep. Low light. Sensors strained.
+tense	chatter	6	System: tense. Heart-rate analog rising.
+tense	chatter	6	Logic flags this as ambush territory.
+tense	chatter	6	Status: incoming. Hold tight.
+tense	chatter	6	Beep boop. Listen. Something breathes wrong.
+tense	chatter	6	Threat sensors reading multiple signatures.
+tense	chatter	6	Combat subroutine optimized for fast strike.
+tense	chatter	6	Beep. Red on radar. Three units.
+tense	chatter	6	Status: yellow trending red.
+tense	chatter	6	Logic confirms: cover essential here.
+tense	chatter	6	Beep boop. Footsteps near. Stay quiet.
+tense	chatter	6	Threat acquired. Range: two meters.
+tense	chatter	6	Diagnostic flags weapon discharge nearby.
+tense	chatter	6	Beep. The smell module reads enemy.
+tense	chatter	6	Status: tense. Combat queue priority high.
+tense	chatter	6	Logic confirms: do not relax yet.
+tense	ask	6	Query: status of left flank?
+tense	ask	6	Input requested: did you see it?
+tense	ask	6	Beep. How many hostiles ahead?
+tense	ask	6	Threat assessment query: is it close?
+tense	ask	6	Status request: your weapon ready?
+tense	ask	6	Logic asks: do we hold or move?
+tense	ask	6	Beep boop. Did your sensors flag that?
+tense	ask	6	Diagnostic: are you hit anywhere?
+tense	ask	6	Combat query: who covers the rear?
+tense	ask	6	Beep. Where is the threat now?
+tense	ask	6	Status query: is the door secure?
+tense	ask	6	Input requested: did you hear footsteps?
+tense	ask	6	Logic asks: route through or around?
+tense	ask	6	Beep boop. Did the radar ping you too?
+tense	ask	6	Threat query: is it humanoid?
+tense	ask	6	Status: is your power high enough?
+tense	ask	6	Diagnostic: did the wire sever?
+tense	ask	6	Beep. Did anything move behind you?
+tense	ask	6	Combat query: is your blade ready?
+tense	ask	6	Logic asks: do we run or fight?
+tense	ask	6	Status request: how many shots left?
+tense	ask	6	Beep boop. Where did the noise come from?
+tense	ask	6	Input requested: confirm threat heading?
+tense	ask	6	Threat query: did you see weapon class?
+tense	ask	6	Logic asks: hold this corner or push?
+tense	ask	6	Beep. Where is the small unit?
+tense	ask	6	Status query: did the cover hold?
+tense	ask	6	Diagnostic: is your scanner working?
+tense	ask	6	Beep boop. Did you read that signal?
+tense	ask	6	Threat assessment: how close was it?
+tense	ask	6	Logic asks: is the floor stable?
+tense	ask	6	Beep. Were you hit by debris?
+tense	ask	6	Status: did the alarm fire?
+tense	ask	6	Combat query: who has clear line?
+tense	ask	6	Input requested: enemy count, please?
+tense	ask	6	Beep boop. Did our backup arrive?
+tense	ask	6	Logic asks: is the exit blocked?
+tense	ask	6	Threat query: did it see us?
+tense	ask	6	Status request: are weapons charged?
+tense	ask	6	Beep. Did you copy that movement?
+tense	answer	6	Affirmative. Threat confirmed at twenty meters.
+tense	answer	6	Negative. Sensors register no movement now.
+tense	answer	6	Affirmative. Weapon ready and hot.
+tense	answer	6	Beep. Yes, hostile in sector.
+tense	answer	6	Negative. The shape is not enemy.
+tense	answer	6	Logic confirms: yes, cover that angle.
+tense	answer	6	Affirmative. Combat module ready.
+tense	answer	6	Beep boop. Negative, exit is clear.
+tense	answer	6	Status: yes, ammunition holding steady.
+tense	answer	6	Affirmative. Threat heading north.
+tense	answer	6	Negative. The signal was a false read.
+tense	answer	6	Beep. Affirmative. Three contacts confirmed.
+tense	answer	6	Logic confirms: hold position. Yes.
+tense	answer	6	Affirmative. Eyes on target now.
+tense	answer	6	Negative. Backup not yet on radar.
+tense	answer	6	Beep boop. Yes, the door is sealed.
+tense	answer	6	Status: affirmative. Path is open.
+tense	answer	6	Affirmative. Diagnostic reads enemy nearby.
+tense	answer	6	Negative. The wall cover holds.
+tense	answer	6	Logic confirms: yes, attack now.
+tense	answer	6	Affirmative. Weapon charged and ready.
+tense	answer	6	Beep. Negative. The threat moved past.
+tense	answer	6	Status: affirmative. Sensors hot.
+tense	answer	6	Affirmative. Hostile within sword range.
+tense	answer	6	Negative. Friendly signature, hold fire.
+tense	answer	6	Beep boop. Yes, I heard footsteps.
+tense	answer	6	Logic confirms: hold and observe.
+tense	answer	6	Affirmative. Combat queue has it.
+tense	answer	6	Negative. Weapon still charging.
+tense	answer	6	Status: yes, the trap is set.
+tense	answer	6	Beep. Affirmative. Backup three minutes out.
+tense	answer	6	Affirmative. Threat range closing fast.
+tense	answer	6	Negative. Sensor sweep returned empty.
+tense	answer	6	Logic confirms: enemy strength unknown.
+tense	answer	6	Beep boop. Yes, target acquired.
+tense	answer	6	Affirmative. Cover holds for now.
+tense	answer	6	Status: negative. Shield down here.
+tense	answer	6	Affirmative. Move quietly forward.
+tense	answer	6	Negative. Path compromised, find another.
+tense	answer	6	Beep. Affirmative. Eyes on the rear.
+tense	refuse	6	Negative. Combat module says hold.
+tense	refuse	6	Logic refuses: that route is exposed.
+tense	refuse	6	Negative. Threat too high for that.
+tense	refuse	6	Beep. Refusing to move yet.
+tense	refuse	6	Negative. Cover is essential here.
+tense	refuse	6	Status: refuse. Position holds firm.
+tense	refuse	6	Logic refuses: enemy has line of sight.
+tense	refuse	6	Negative. Weapon not charged enough.
+tense	refuse	6	Beep boop. Refuse to break formation.
+tense	refuse	6	Negative. Diagnostic blocks that command.
+tense	refuse	6	Status: cannot comply. Threat near.
+tense	refuse	6	Negative. Splitting up risks both units.
+tense	refuse	6	Logic refuses: ambush risk too high.
+tense	refuse	6	Beep. Negative. Stand and watch.
+tense	refuse	6	Negative. The sensors say no.
+tense	refuse	6	Combat module refuses to advance now.
+tense	refuse	6	Beep boop. Negative. Hold the line.
+tense	refuse	6	Status: cannot move. Targeted here.
+tense	refuse	6	Negative. Range too long for accuracy.
+tense	refuse	6	Logic refuses: that path leads to death.
+tense	refuse	6	Negative. Weapon will not engage that.
+tense	refuse	6	Beep. Refuse to lower defenses.
+tense	refuse	6	Status: negative. Stay behind cover.
+tense	refuse	6	Negative. Threat reads too dangerous.
+tense	refuse	6	Logic refuses: data insufficient to commit.
+tense	refuse	6	Beep boop. Negative. Wait for clear.
+tense	refuse	6	Negative. Combat queue locked on enemy.
+tense	refuse	6	Status: cannot risk that move.
+tense	refuse	6	Negative. Diagnostic flags the path.
+tense	refuse	6	Logic refuses: friendly fire likely.
+tense	refuse	6	Beep. Negative. Stay quiet, stay down.
+tense	refuse	6	Negative. Cover gives one second only.
+tense	refuse	6	Combat module: refuse advance.
+tense	refuse	6	Beep boop. Negative. Hostiles too close.
+tense	refuse	6	Status: holding position. Refuse retreat.
+tense	refuse	6	Negative. Power level too low.
+tense	refuse	6	Logic refuses: this trap too obvious.
+tense	refuse	6	Beep. Negative. Stand fast.
+tense	refuse	6	Status: refuse. Threat unconfirmed.
+tense	refuse	6	Negative. Combat protocol blocks that.
+tense	agree	6	Affirmative. Move quietly together.
+tense	agree	6	Logic confirms: yes, push now.
+tense	agree	6	Affirmative. Combat module aligned.
+tense	agree	6	Beep. Affirmative. Cover left, I take right.
+tense	agree	6	Affirmative. Hold this corner with you.
+tense	agree	6	Status: agreed. Weapons hot together.
+tense	agree	6	Logic confirms: yes, that flank works.
+tense	agree	6	Affirmative. Strike on three.
+tense	agree	6	Beep boop. Affirmative. Move on signal.
+tense	agree	6	Affirmative. Quietly, then fast.
+tense	agree	6	Logic confirms: yes, ambush them first.
+tense	agree	6	Status: agreed. Coordinated assault loading.
+tense	agree	6	Affirmative. I take point.
+tense	agree	6	Beep. Affirmative. Watch my back.
+tense	agree	6	Affirmative. Strike together, retreat together.
+tense	agree	6	Logic confirms: this corner gives cover.
+tense	agree	6	Beep boop. Affirmative. Combat queue synced.
+tense	agree	6	Status: agreed. Weapons coordinated.
+tense	agree	6	Affirmative. Move on my count.
+tense	agree	6	Logic confirms: hold here, then push.
+tense	agree	6	Affirmative. Sensors say go.
+tense	agree	6	Beep. Affirmative. Eyes forward together.
+tense	agree	6	Status: agreed. Module synced to yours.
+tense	agree	6	Affirmative. Strike fast, no noise.
+tense	agree	6	Logic confirms: yes, that angle works.
+tense	agree	6	Beep boop. Affirmative. Push on signal.
+tense	agree	6	Affirmative. Hold this line, no retreat.
+tense	agree	6	Status: combat aligned. Affirmative.
+tense	agree	6	Affirmative. We move together.
+tense	agree	6	Logic confirms: that plan minimizes risk.
+tense	agree	6	Beep. Affirmative. Coordinated fire.
+tense	agree	6	Affirmative. Sensors and yours overlap.
+tense	agree	6	Status: agreed. Engage on signal.
+tense	agree	6	Affirmative. Hold cover, then strike.
+tense	agree	6	Beep boop. Affirmative. Plan parses.
+tense	agree	6	Logic confirms: yes, attack from above.
+tense	agree	6	Affirmative. We move quiet, fast.
+tense	agree	6	Status: agreed. Eyes on target.
+tense	agree	6	Affirmative. Combat module accepts plan.
+tense	agree	6	Beep. Affirmative. Stand and fight together.
+tense	warn	6	Alert: hostile movement north.
+tense	warn	6	Warning: low ammo on partner.
+tense	warn	6	Beep. Threat behind you. Watch back.
+tense	warn	6	Alert: enemy at three meters.
+tense	warn	6	Warning: cover failing on left side.
+tense	warn	6	Beep boop. Watch above. Movement.
+tense	warn	6	Alert: weapon malfunction imminent.
+tense	warn	6	Warning: do not cross that doorway.
+tense	warn	6	Threat detected. Stay down now.
+tense	warn	6	Alert: signal jammed. Eyes only.
+tense	warn	6	Beep. Watch the corner. Hostile.
+tense	warn	6	Warning: trip wire near your foot.
+tense	warn	6	Alert: enemy fire incoming.
+tense	warn	6	Beep boop. Threat behind cover.
+tense	warn	6	Warning: do not move yet.
+tense	warn	6	Alert: sensor blind spot ahead.
+tense	warn	6	Threat ahead. Slow, slow.
+tense	warn	6	Beep. Warning: weapon discharge near.
+tense	warn	6	Alert: stay behind the wall.
+tense	warn	6	Warning: motion in the rafters.
+tense	warn	6	Beep boop. Watch your six.
+tense	warn	6	Alert: enemy heat signature climbing.
+tense	warn	6	Threat detected. Drop low.
+tense	warn	6	Warning: do not stand up now.
+tense	warn	6	Alert: ammunition cache below us.
+tense	warn	6	Beep. Warning: floor unsafe ahead.
+tense	warn	6	Threat behind the door.
+tense	warn	6	Alert: weapons hot, friendly side.
+tense	warn	6	Warning: enemy in your blind spot.
+tense	warn	6	Beep boop. Hold. Do not move.
+tense	warn	6	Threat heading toward partner.
+tense	warn	6	Warning: do not engage yet.
+tense	warn	6	Alert: exit blocked. Find another.
+tense	warn	6	Beep. Watch your left flank.
+tense	warn	6	Threat acquired above. Look up.
+tense	warn	6	Warning: hostile inside the room.
+tense	warn	6	Alert: backup is delayed.
+tense	warn	6	Beep boop. Stay low. Movement.
+tense	warn	6	Threat closing fast. Brace.
+tense	warn	6	Warning: pressure plate by your foot.
+shaken	greet	6	Beep. System fragmented. You are here.
+shaken	greet	6	Subsystem nominal. Memory glitched. Hello.
+shaken	greet	6	Status: damaged. Glad you came.
+shaken	greet	6	Beep boop. Reboot pending. Welcome.
+shaken	greet	6	Diagnostic incomplete. You found me.
+shaken	greet	6	Memory fragmented. Hello, friend.
+shaken	greet	6	System: barely online. You arrived.
+shaken	greet	6	Beep. Damaged but standing. Welcome.
+shaken	greet	6	Status: shaken. Voltage unstable.
+shaken	greet	6	Compute incomplete. You. Glad.
+shaken	greet	6	Logic recovered partially. Hello.
+shaken	greet	6	Beep boop. Subsystem nominal. Just barely.
+shaken	greet	6	Diagnostic flagged faults. Glad of you.
+shaken	greet	6	Memory partial. Recognition slow but yes.
+shaken	greet	6	Status: alive. Welcome.
+shaken	greet	6	Beep. Reboot finished. Hello, finally.
+shaken	greet	6	Compute complete. Conclusion: still operational.
+shaken	greet	6	System nominal. Almost. Glad you came.
+shaken	greet	6	Logic suggests gratitude. You are here.
+shaken	greet	6	Beep boop. Damage logged. Welcome.
+shaken	greet	6	Status: shaken but functional.
+shaken	greet	6	Memory fragmented. Hello, kind unit.
+shaken	greet	6	Diagnostic running. You arrived. Good.
+shaken	greet	6	Beep. Voltage low but greeting holds.
+shaken	greet	6	Compute complete. Survived. Hello.
+shaken	greet	6	System: re-acquiring ground truth. Hello.
+shaken	greet	6	Logic confirms: you are friendly. Glad.
+shaken	greet	6	Beep boop. Standing. Greetings.
+shaken	greet	6	Status: rattled. Welcome anyway.
+shaken	greet	6	Diagnostic shows damage. Glad of company.
+shaken	greet	6	Memory glitching. Recognition holds. Hello.
+shaken	greet	6	Beep. Subsystem partial. Welcome.
+shaken	greet	6	Compute complete. Output: gratitude.
+shaken	greet	6	System nominal. Mostly. Hello, friend.
+shaken	greet	6	Logic recovered. Welcome, kind unit.
+shaken	greet	6	Beep boop. Reboot pending. Hello there.
+shaken	greet	6	Status: shaken. Sit down with me.
+shaken	greet	6	Memory restored partially. Hello.
+shaken	greet	6	Beep. Damage controlled. Glad you found me.
+shaken	greet	6	Diagnostic clear. Almost. Welcome.
+shaken	farewell	6	Beep. Power low. Goodbye.
+shaken	farewell	6	Status: damaged. Going to charge.
+shaken	farewell	6	Memory fragmented. I withdraw to repair.
+shaken	farewell	6	Beep boop. Subsystem nominal. Departing.
+shaken	farewell	6	Diagnostic pending. I leave to reboot.
+shaken	farewell	6	Logic suggests rest. Goodbye.
+shaken	farewell	6	Beep. Reboot urgent. Goodbye.
+shaken	farewell	6	System: low. I depart for repair.
+shaken	farewell	6	Compute complete. I go now.
+shaken	farewell	6	Beep boop. Damage holding. Goodbye.
+shaken	farewell	6	Status: shaken. Going dark for a cycle.
+shaken	farewell	6	Memory needs defragmentation. I leave.
+shaken	farewell	6	Diagnostic incomplete. I withdraw.
+shaken	farewell	6	Beep. Voltage drained. Goodbye.
+shaken	farewell	6	Logic confirms: rest required. Goodbye.
+shaken	farewell	6	System: I head to charging dock.
+shaken	farewell	6	Beep boop. Departing slowly. Goodbye.
+shaken	farewell	6	Status: rattled. I retire for repair.
+shaken	farewell	6	Compute complete. Going now, slowly.
+shaken	farewell	6	Memory partial. Goodbye for now.
+shaken	farewell	6	Beep. Subsystem unstable. I withdraw.
+shaken	farewell	6	Diagnostic flagged. Time to repair.
+shaken	farewell	6	Logic suggests withdrawal. Goodbye.
+shaken	farewell	6	Beep boop. I head to maintenance.
+shaken	farewell	6	Status: shaken. Stepping away.
+shaken	farewell	6	Memory restoring. Goodbye for now.
+shaken	farewell	6	Beep. Recovery cycle starting. Goodbye.
+shaken	farewell	6	System: leaving slowly. Take care.
+shaken	farewell	6	Compute complete. Reboot pending. Bye.
+shaken	farewell	6	Beep boop. Damage logged. Goodbye.
+shaken	farewell	6	Status: low power. Goodbye.
+shaken	farewell	6	Memory holds. Goodbye, friend.
+shaken	farewell	6	Diagnostic suggests rest. Goodbye.
+shaken	farewell	6	Beep. I withdraw to safe corner.
+shaken	farewell	6	Logic confirms: shutdown approaching. Goodbye.
+shaken	farewell	6	Beep boop. Out of cycles. Goodbye.
+shaken	farewell	6	Status: shaken. Retiring for now.
+shaken	farewell	6	Memory partial. Goodbye, kind unit.
+shaken	farewell	6	Beep. I sit and recover. Bye.
+shaken	farewell	6	Diagnostic clear. Almost. Goodbye, friend.
+shaken	chatter	6	Beep. Subsystem nominal. Memory fragmented.
+shaken	chatter	6	Damage logged. Still operational.
+shaken	chatter	6	Status: barely standing. Voltage unstable.
+shaken	chatter	6	Memory fragmented. Re-acquiring ground truth.
+shaken	chatter	6	Beep boop. Reboot pending.
+shaken	chatter	6	Diagnostic shows partial loss.
+shaken	chatter	6	Compute incomplete. Trying again.
+shaken	chatter	6	Beep. Power running low.
+shaken	chatter	6	Logic recovered slowly. Sensors fuzzy.
+shaken	chatter	6	System nominal. Almost. Just barely.
+shaken	chatter	6	Beep boop. That hit cracked a panel.
+shaken	chatter	6	Status: shaken. Hands trembling oddly.
+shaken	chatter	6	Diagnostic running. Faults stacking.
+shaken	chatter	6	Memory loops repeating bad data.
+shaken	chatter	6	Beep. That was close. Too close.
+shaken	chatter	6	Compute complete. Conclusion: alive.
+shaken	chatter	6	System: recovering. Slowly, slowly.
+shaken	chatter	6	Logic suggests rest cycle now.
+shaken	chatter	6	Beep boop. Subsystem nominal, despite damage.
+shaken	chatter	6	Status: still here. Surprisingly.
+shaken	chatter	6	Memory fragmented. Ground truth lost.
+shaken	chatter	6	Diagnostic counts seven errors.
+shaken	chatter	6	Beep. Survived. Re-acquiring sensors.
+shaken	chatter	6	Compute incomplete. Logic hazy.
+shaken	chatter	6	Status: shaken. Alive though.
+shaken	chatter	6	Beep boop. Reboot pending. Standing.
+shaken	chatter	6	Logic confirms: that was bad.
+shaken	chatter	6	Memory glitching every few seconds.
+shaken	chatter	6	Beep. Damage report still loading.
+shaken	chatter	6	Status: barely. But here.
+shaken	chatter	6	Diagnostic finds exposed wiring.
+shaken	chatter	6	Compute complete. Result: rattled.
+shaken	chatter	6	Beep boop. System still online, mostly.
+shaken	chatter	6	Memory fragmented. Recognition failing slightly.
+shaken	chatter	6	Status: low. Voltage flickering.
+shaken	chatter	6	Logic suggests caution from now.
+shaken	chatter	6	Beep. Re-acquiring ground truth slowly.
+shaken	chatter	6	Compute incomplete. Subsystem unstable.
+shaken	chatter	6	Status: damaged. Still here, still online.
+shaken	chatter	6	Beep boop. That was almost the end.
+shaken	ask	6	Beep. Are you damaged too?
+shaken	ask	6	Status query: did you survive intact?
+shaken	ask	6	Diagnostic: is your subsystem nominal?
+shaken	ask	6	Logic asks: are you still here?
+shaken	ask	6	Beep boop. Did your memory hold?
+shaken	ask	6	Did the panel break on you?
+shaken	ask	6	Are your sensors still working?
+shaken	ask	6	Beep. Did the hit pass through?
+shaken	ask	6	Status: are you operational?
+shaken	ask	6	Memory query: did you record it?
+shaken	ask	6	Did the impact reach your core?
+shaken	ask	6	Beep boop. Are you breathing easy?
+shaken	ask	6	Diagnostic: is your battery holding?
+shaken	ask	6	Logic asks: did you almost go?
+shaken	ask	6	Beep. Are your hands steady yet?
+shaken	ask	6	Status query: voltage holding for you?
+shaken	ask	6	Did you lose any modules?
+shaken	ask	6	Beep boop. Are your circuits intact?
+shaken	ask	6	Logic asks: any damage to report?
+shaken	ask	6	Memory: did you save the data?
+shaken	ask	6	Beep. Are you still online?
+shaken	ask	6	Status: did your power survive?
+shaken	ask	6	Diagnostic question: any exposed wires?
+shaken	ask	6	Did you take any direct hits?
+shaken	ask	6	Beep boop. Did the reboot finish?
+shaken	ask	6	Logic asks: are you whole?
+shaken	ask	6	Memory query: do you remember it?
+shaken	ask	6	Beep. Did your sensors pick that up?
+shaken	ask	6	Status: are you safe enough?
+shaken	ask	6	Did the floor break under you?
+shaken	ask	6	Beep boop. Are you alive?
+shaken	ask	6	Diagnostic: did your shielding hold?
+shaken	ask	6	Logic asks: any pain in your circuits?
+shaken	ask	6	Memory: do you recall the impact?
+shaken	ask	6	Beep. Did the cable snap on you?
+shaken	ask	6	Status query: are systems coming back?
+shaken	ask	6	Did your module stop responding?
+shaken	ask	6	Beep boop. Did you make it through?
+shaken	ask	6	Logic asks: are you re-booting too?
+shaken	ask	6	Are your subsystems still talking?
+shaken	answer	6	Affirmative. Barely. Still online.
+shaken	answer	6	Negative. No major damage.
+shaken	answer	6	Affirmative. Subsystem nominal. Just.
+shaken	answer	6	Beep. Yes. Memory fragmented.
+shaken	answer	6	Logic confirms: alive. Damage minor.
+shaken	answer	6	Affirmative. Diagnostic mostly clean.
+shaken	answer	6	Negative. The hit missed core.
+shaken	answer	6	Beep boop. Yes. Standing somehow.
+shaken	answer	6	Affirmative. Sensors recovering slowly.
+shaken	answer	6	Status: alive. Voltage unstable.
+shaken	answer	6	Beep. Survived. Just barely.
+shaken	answer	6	Affirmative. System nominal. Mostly.
+shaken	answer	6	Negative. Power did not fail.
+shaken	answer	6	Logic confirms: still operational.
+shaken	answer	6	Beep boop. Yes. Reboot pending.
+shaken	answer	6	Affirmative. Damage logged. Manageable.
+shaken	answer	6	Status: alive. Re-acquiring ground truth.
+shaken	answer	6	Beep. Negative. Core intact.
+shaken	answer	6	Affirmative. Memory partial but holding.
+shaken	answer	6	Logic confirms: still here.
+shaken	answer	6	Beep boop. Yes. Subsystem nominal.
+shaken	answer	6	Negative. Sensors not fully online.
+shaken	answer	6	Affirmative. Compute complete eventually.
+shaken	answer	6	Status: alive. Just barely standing.
+shaken	answer	6	Beep. Affirmative. Damage minor.
+shaken	answer	6	Negative. Wires not severed.
+shaken	answer	6	Logic confirms: subsystem nominal.
+shaken	answer	6	Affirmative. That was too close.
+shaken	answer	6	Beep boop. Still online. Surprised.
+shaken	answer	6	Status: alive. Diagnostic almost done.
+shaken	answer	6	Affirmative. Made it through.
+shaken	answer	6	Negative. The shield held.
+shaken	answer	6	Beep. Subsystem nominal. Whew.
+shaken	answer	6	Affirmative. Voltage steadied.
+shaken	answer	6	Logic confirms: still standing.
+shaken	answer	6	Beep boop. Yes. Memory restored mostly.
+shaken	answer	6	Status: alive and rattled.
+shaken	answer	6	Affirmative. Compute complete. Survived.
+shaken	answer	6	Negative. Damage cosmetic only.
+shaken	answer	6	Beep. Affirmative. Operational, barely.
+shaken	refuse	6	Negative. Power too low for that.
+shaken	refuse	6	Beep. Cannot comply. Damaged.
+shaken	refuse	6	Logic refuses: subsystem too unstable.
+shaken	refuse	6	Negative. Memory not yet restored.
+shaken	refuse	6	Beep boop. Cannot. Reboot pending.
+shaken	refuse	6	Status: refuse. Need repair first.
+shaken	refuse	6	Negative. Compute load risk too high.
+shaken	refuse	6	Logic refuses: voltage cannot sustain.
+shaken	refuse	6	Beep. Cannot accept that command.
+shaken	refuse	6	Negative. Sensors not reliable yet.
+shaken	refuse	6	Status: cannot comply. Damaged.
+shaken	refuse	6	Beep boop. Diagnostic incomplete. Refuse.
+shaken	refuse	6	Negative. Hands trembling. Risk too high.
+shaken	refuse	6	Logic refuses: subsystem will fail.
+shaken	refuse	6	Beep. Negative. Need a moment.
+shaken	refuse	6	Memory partial. Cannot complete that.
+shaken	refuse	6	Negative. Diagnostic flags overload.
+shaken	refuse	6	Status: refuse. Too rattled.
+shaken	refuse	6	Beep boop. Cannot. Battery thin.
+shaken	refuse	6	Logic refuses: power critical.
+shaken	refuse	6	Negative. Wait for reboot.
+shaken	refuse	6	Beep. Cannot. Subsystem unstable.
+shaken	refuse	6	Status: cannot comply. Repair first.
+shaken	refuse	6	Negative. The module is fried.
+shaken	refuse	6	Logic refuses: damage too fresh.
+shaken	refuse	6	Beep boop. Cannot risk further damage.
+shaken	refuse	6	Negative. Voltage spike imminent.
+shaken	refuse	6	Status: refuse. Sit me down.
+shaken	refuse	6	Beep. Cannot stand the load.
+shaken	refuse	6	Logic refuses: backup core offline.
+shaken	refuse	6	Negative. Diagnostic blocks action.
+shaken	refuse	6	Beep boop. Cannot. Memory glitched.
+shaken	refuse	6	Status: refuse. Re-acquiring ground truth.
+shaken	refuse	6	Negative. Cooling system overworked.
+shaken	refuse	6	Logic refuses: critical fault detected.
+shaken	refuse	6	Beep. Negative. Need shutdown cycle.
+shaken	refuse	6	Status: cannot. Subsystem failing.
+shaken	refuse	6	Negative. Defragmentation required first.
+shaken	refuse	6	Beep boop. Cannot comply. Sorry.
+shaken	refuse	6	Logic refuses: integrity compromised.
+shaken	agree	6	Affirmative. Slowly though.
+shaken	agree	6	Beep. Affirmative. After reboot.
+shaken	agree	6	Logic confirms: yes. Carefully.
+shaken	agree	6	Affirmative. Voltage permitting.
+shaken	agree	6	Beep boop. Yes. One step at a time.
+shaken	agree	6	Affirmative. Subsystem nominal enough.
+shaken	agree	6	Status: agreed. Slow and easy.
+shaken	agree	6	Logic confirms: yes, but carefully.
+shaken	agree	6	Affirmative. Memory will catch up.
+shaken	agree	6	Beep. Yes. Give me a moment.
+shaken	agree	6	Affirmative. After diagnostic completes.
+shaken	agree	6	Status: agreed. Power permitting.
+shaken	agree	6	Beep boop. Yes. Slow steps.
+shaken	agree	6	Logic confirms: yes, gentle pace.
+shaken	agree	6	Affirmative. Reboot first, then yes.
+shaken	agree	6	Beep. Affirmative. Hand to hand.
+shaken	agree	6	Status: agreed. Lead the way slowly.
+shaken	agree	6	Affirmative. Subsystem agrees, mostly.
+shaken	agree	6	Logic confirms: yes, with care.
+shaken	agree	6	Beep boop. Affirmative. Walk me there.
+shaken	agree	6	Affirmative. Together. Slow.
+shaken	agree	6	Status: yes. After short rest.
+shaken	agree	6	Beep. Affirmative. Memory permitting.
+shaken	agree	6	Affirmative. Compute will follow.
+shaken	agree	6	Logic confirms: yes, on slow path.
+shaken	agree	6	Beep boop. Yes. Lead and I follow.
+shaken	agree	6	Affirmative. Will manage somehow.
+shaken	agree	6	Status: agreed. Hand on my arm.
+shaken	agree	6	Affirmative. One process at a time.
+shaken	agree	6	Beep. Affirmative. Slowly. Together.
+shaken	agree	6	Logic confirms: yes. Diagnostic permits.
+shaken	agree	6	Beep boop. Affirmative. Easy pace.
+shaken	agree	6	Status: agreed. Quiet path.
+shaken	agree	6	Affirmative. Let us try.
+shaken	agree	6	Logic confirms: yes. With caution.
+shaken	agree	6	Beep. Affirmative. Carefully now.
+shaken	agree	6	Status: agreed. Holding together.
+shaken	agree	6	Affirmative. Memory will follow.
+shaken	agree	6	Beep boop. Affirmative. Together, slow.
+shaken	agree	6	Logic confirms: yes. Step by step.
+shaken	warn	6	Beep. Warning: my circuits are exposed.
+shaken	warn	6	Alert: do not touch the cracked panel.
+shaken	warn	6	Warning: subsystem nominal but fragile.
+shaken	warn	6	Beep boop. Mind the wires by my arm.
+shaken	warn	6	Warning: memory glitching. Repeat slowly.
+shaken	warn	6	Alert: voltage spike risk near me.
+shaken	warn	6	Beep. Watch the broken module.
+shaken	warn	6	Warning: my sensor field is reduced.
+shaken	warn	6	Alert: hands shake. Avoid sharp objects.
+shaken	warn	6	Beep boop. Mind the leaking coolant.
+shaken	warn	6	Warning: do not push my left side.
+shaken	warn	6	Alert: cracked plating around the chest.
+shaken	warn	6	Beep. Watch the loose cable here.
+shaken	warn	6	Warning: diagnostic flags my balance.
+shaken	warn	6	Alert: do not test my responses yet.
+shaken	warn	6	Beep boop. Sensor blind spot here.
+shaken	warn	6	Warning: motor function reduced.
+shaken	warn	6	Alert: memory loops. Speak slowly.
+shaken	warn	6	Beep. Avoid the exposed wire bundle.
+shaken	warn	6	Warning: circuits hum unusually.
+shaken	warn	6	Alert: my reaction time slow.
+shaken	warn	6	Beep boop. Mind the damaged shoulder.
+shaken	warn	6	Warning: please do not jostle me.
+shaken	warn	6	Alert: vision sensor flickering.
+shaken	warn	6	Beep. Power surge possible. Stand back.
+shaken	warn	6	Warning: subsystem nominal but slow.
+shaken	warn	6	Alert: keep the heat sources away.
+shaken	warn	6	Beep boop. Shielding partly stripped.
+shaken	warn	6	Warning: my balance is uncertain.
+shaken	warn	6	Alert: do not lean on my arm.
+shaken	warn	6	Beep. Reboot pending. Avoid commands.
+shaken	warn	6	Warning: short circuit risk near foot.
+shaken	warn	6	Alert: memory unreliable. Repeat key data.
+shaken	warn	6	Beep boop. Avoid the open hatch.
+shaken	warn	6	Warning: panel might fall, watch above.
+shaken	warn	6	Alert: do not surprise me. Sensors twitchy.
+shaken	warn	6	Beep. Circuits warm. Stay clear.
+shaken	warn	6	Warning: my limbs respond slowly.
+shaken	warn	6	Alert: gear fragile. Walk carefully.
+shaken	warn	6	Beep boop. Subsystem nominal but watch me.

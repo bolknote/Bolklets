@@ -1,0 +1,960 @@
+calm	greet	6	Scanning. You registered as friendly.
+calm	greet	6	Sensors confirm. You are here.
+calm	greet	6	Hello. Signal recognised.
+calm	greet	6	Transmission received. Approach permitted.
+calm	greet	6	Analysis complete. Threat level: zero.
+calm	greet	6	Ah. Frequency match. Good timing.
+calm	greet	6	Bioscan nominal. You look well.
+calm	greet	6	You arrived. My sensors noted it.
+calm	greet	6	Greetings. Systems are stable here.
+calm	greet	6	Detecting your presence now. Welcome.
+calm	greet	6	Signal strength: adequate. Hello.
+calm	greet	6	Your vitals read well. Good.
+calm	greet	6	Affirmative. You found the location.
+calm	greet	6	You are here. Calibration confirms it.
+calm	greet	6	Frequency locked. Hello, partner.
+calm	greet	6	Sensors say friendly. Come in.
+calm	greet	6	Data incoming. You brought yourself.
+calm	greet	6	Bioscan clear. Pleased to see you.
+calm	greet	6	Signal detected. You are welcome here.
+calm	greet	6	Processing. You look operational today.
+calm	greet	6	Calculating. Your approach was quiet.
+calm	greet	6	Transmission: hello. Receiving?
+calm	greet	6	Negative threat profile. Good.
+calm	greet	6	Systems nominal. You are on time.
+calm	greet	6	Scanning complete. All parameters normal.
+calm	greet	6	Affirmative. Contact established.
+calm	greet	6	Detecting warmth signature. Must be you.
+calm	greet	6	Frequency: calm. Hello.
+calm	greet	6	Sensors confirm your position. Welcome.
+calm	greet	6	Biology nominal. Good to see you.
+calm	greet	6	Received. You made it here safely.
+calm	greet	6	Analysis: friendly. Proceed.
+calm	greet	6	Bioscan complete. All clear.
+calm	greet	6	Signal: steady. Good. Hello.
+calm	greet	6	Recognising your frequency now.
+calm	greet	6	Data logged. You arrived as expected.
+calm	greet	6	Processing your approach. Threat: none.
+calm	greet	6	Detecting you clearly. Hello.
+calm	greet	6	Calibration matched. Welcome.
+calm	greet	6	Sensors read: partner. Hello.
+calm	farewell	6	Transmission closing. Stay safe.
+calm	farewell	6	Bioscan complete. Off to recalibrate.
+calm	farewell	6	Signal ending. Until next contact.
+calm	farewell	6	Logging departure. Farewell.
+calm	farewell	6	Systems nominal. Signing off.
+calm	farewell	6	Transmission out. Good travels.
+calm	farewell	6	Off to run a diagnostic.
+calm	farewell	6	Sensors powering down. See you.
+calm	farewell	6	Signal closing. Take care out there.
+calm	farewell	6	Calculation complete. Going now.
+calm	farewell	6	Analysis done. Until next time.
+calm	farewell	6	Frequency closing. Good luck.
+calm	farewell	6	Data logged. Off I go.
+calm	farewell	6	Signing off. Remain operational.
+calm	farewell	6	Transmission ending now. Farewell.
+calm	farewell	6	Systems shutting to standby. See you.
+calm	farewell	6	Signal strength holding. Bye for now.
+calm	farewell	6	Logging this encounter. Moving on.
+calm	farewell	6	Bioscan archived. Until later.
+calm	farewell	6	Processing complete. Goodbye.
+calm	farewell	6	Frequency low. Time to go.
+calm	farewell	6	Data packet sent. See you soon.
+calm	farewell	6	Off to recalibrate sensors. Later.
+calm	farewell	6	Transmission: farewell. Received?
+calm	farewell	6	Calculating next position. Goodbye.
+calm	farewell	6	Signal out. Stay in range.
+calm	farewell	6	Scan archived. Off I go.
+calm	farewell	6	Systems nominal. Until next scan.
+calm	farewell	6	Data complete. Parting now.
+calm	farewell	6	Frequency dropping. See you later.
+calm	farewell	6	Signing off from this position.
+calm	farewell	6	Bioscan saved. Good to work with you.
+calm	farewell	6	Transmission complete. Onward.
+calm	farewell	6	Logging departure now. Farewell.
+calm	farewell	6	Signal: diminishing. Take care.
+calm	farewell	6	Analysis shelved. Moving on.
+calm	farewell	6	Systems resting. Until next contact.
+calm	farewell	6	Calculation ending. Goodbye.
+calm	farewell	6	Sensors offline briefly. See you.
+calm	farewell	6	Off now. Remain in good condition.
+calm	chatter	6	Bioscan ambient: nominal today.
+calm	chatter	6	Signal conditions are calm here.
+calm	chatter	6	Sensors find nothing unusual in range.
+calm	chatter	6	The data streams are quiet for once.
+calm	chatter	6	Analysis: a slow hour. Welcome change.
+calm	chatter	6	Frequency stable. Odd how that feels.
+calm	chatter	6	Scanning perimeter. All clear.
+calm	chatter	6	Memory buffers are not full for once.
+calm	chatter	6	This calm is good for calibration.
+calm	chatter	6	Sensors detect no anomalies. Good.
+calm	chatter	6	Processing speed nominal. A pleasant day.
+calm	chatter	6	Signal clarity at a high today.
+calm	chatter	6	Running passive scan. Nothing unusual.
+calm	chatter	6	Data intake is slow. Peaceful.
+calm	chatter	6	Bioscan shows good vitals all around.
+calm	chatter	6	Transmission quality is strong today.
+calm	chatter	6	No threat signatures in current range.
+calm	chatter	6	Calculating nothing urgent. That is rare.
+calm	chatter	6	The environment reads stable. Good.
+calm	chatter	6	Sensors are comfortable in this light.
+calm	chatter	6	Analysis: this day contains nothing threatening.
+calm	chatter	6	Frequency humming well. Calm is efficient.
+calm	chatter	6	Logfile light today. Good outcome.
+calm	chatter	6	Bioscan: all partners reading well.
+calm	chatter	6	Signal clear. Nothing in the noise.
+calm	chatter	6	Scanning wide. All looks good.
+calm	chatter	6	Memory holding without strain.
+calm	chatter	6	Processing is smooth when nothing attacks.
+calm	chatter	6	Sensors agree: today is undramatic.
+calm	chatter	6	Data flow: gentle. I appreciate that.
+calm	chatter	6	Transmission logs are short today. Good.
+calm	chatter	6	Analysis confirms: no immediate danger.
+calm	chatter	6	Frequency calm. Recommend enjoying it.
+calm	chatter	6	Systems nominal. Quiet is useful.
+calm	chatter	6	Bioscan shows collective vitals are high.
+calm	chatter	6	Signal quality: excellent this hour.
+calm	chatter	6	Nothing in sensor range. Good.
+calm	chatter	6	Calculating baseline. All normal.
+calm	chatter	6	Data nominal. A calm hour registers.
+calm	chatter	6	Sensors passive. This is acceptable.
+calm	ask	6	Query: what does your bioscan show?
+calm	ask	6	Sensor read: are you operating well?
+calm	ask	6	How does the signal look from your side?
+calm	ask	6	Analysis: did anything cross your path?
+calm	ask	6	What data did you gather today?
+calm	ask	6	Transmission query: are you nominal?
+calm	ask	6	Did your sensors flag anything unusual?
+calm	ask	6	How is your system holding up?
+calm	ask	6	Frequency check: can you hear me?
+calm	ask	6	Query: what did you find at the perimeter?
+calm	ask	6	Are your vitals reading green?
+calm	ask	6	Did the scan show anything new?
+calm	ask	6	What does the environment read for you?
+calm	ask	6	Any anomalies in your sector?
+calm	ask	6	Analysis request: how is the team?
+calm	ask	6	Sensor query: did you rest last cycle?
+calm	ask	6	How much signal noise are you getting?
+calm	ask	6	Did anything activate your alert threshold?
+calm	ask	6	Data request: what did you observe?
+calm	ask	6	How are your systems today?
+calm	ask	6	Transmission check: status report?
+calm	ask	6	Query: did you encounter anything odd?
+calm	ask	6	Are your readings nominal?
+calm	ask	6	What does your range show?
+calm	ask	6	Did the data match what you expected?
+calm	ask	6	How stable are conditions where you stand?
+calm	ask	6	Signal question: all clear on your end?
+calm	ask	6	Did the scan complete without error?
+calm	ask	6	What inputs did you gather this cycle?
+calm	ask	6	Are you calibrated and ready?
+calm	ask	6	Query: did anything register as irregular?
+calm	ask	6	How is your data buffer holding?
+calm	ask	6	Did the perimeter hold since last scan?
+calm	ask	6	Frequency query: how is reception?
+calm	ask	6	Analysis: what needs attention here?
+calm	ask	6	Did you log anything worth reviewing?
+calm	ask	6	How long since your last full scan?
+calm	ask	6	Query: anything new in your sector?
+calm	ask	6	Are the team vitals reading well?
+calm	ask	6	What does passive mode show you?
+calm	answer	6	Affirmative. Systems nominal.
+calm	answer	6	Negative. No anomalies detected.
+calm	answer	6	Analysis: likely. Sensors suggest yes.
+calm	answer	6	Calculating. The data leans that way.
+calm	answer	6	Of course. Bioscan confirms it.
+calm	answer	6	Sensors logged the same result.
+calm	answer	6	Correct. Transmission was clear.
+calm	answer	6	Affirmative. The signal agreed.
+calm	answer	6	Negative. Data does not support that.
+calm	answer	6	Possibly. Frequency is ambiguous.
+calm	answer	6	Analysis complete. The answer is yes.
+calm	answer	6	Bioscan says: most likely.
+calm	answer	6	Affirmative. Calculation matches yours.
+calm	answer	6	Negative. Sensors flag otherwise.
+calm	answer	6	Data leans yes. Proceeding.
+calm	answer	6	Correct. Logged and confirmed.
+calm	answer	6	Affirmative. The scan agrees.
+calm	answer	6	Analysis says: uncertain. More data needed.
+calm	answer	6	Negative on that. Frequency unclear.
+calm	answer	6	Calibration confirmed. Yes.
+calm	answer	6	Signal check: affirmative.
+calm	answer	6	Bioscan reads yes. Proceed.
+calm	answer	6	Negative. That path reads unstable.
+calm	answer	6	Calculating. Looks favourable.
+calm	answer	6	Affirmative. The data is clean.
+calm	answer	6	Negative. Memory holds a counterexample.
+calm	answer	6	Analysis: correct. Logged.
+calm	answer	6	Sensors say yes. Trusting that.
+calm	answer	6	Bioscan shows: yes, and soon.
+calm	answer	6	Affirmative. Proceed.
+calm	answer	6	Negative. Recalibrating that assumption.
+calm	answer	6	Calculation suggests: likely yes.
+calm	answer	6	Sensors confirm. Moving forward.
+calm	answer	6	Analysis: negative. Worth reconsidering.
+calm	answer	6	Affirmative. Frequency held throughout.
+calm	answer	6	Negative. Scan shows a different picture.
+calm	answer	6	Correct. Data backs that up.
+calm	answer	6	Bioscan: affirmative. We agree.
+calm	answer	6	Uncertain. Sensors still processing.
+calm	answer	6	Affirmative. The logic holds.
+calm	refuse	6	Negative. Sensors advise against it.
+calm	refuse	6	Data says no. Not this cycle.
+calm	refuse	6	Analysis: risk exceeds benefit. Declining.
+calm	refuse	6	Bioscan flags that as inadvisable.
+calm	refuse	6	Negative. Frequency is wrong for that.
+calm	refuse	6	Calculation says: not now.
+calm	refuse	6	That input does not pass risk analysis.
+calm	refuse	6	Negative. Sensors read it as low value.
+calm	refuse	6	Analysis recommends a different approach.
+calm	refuse	6	Bioscan: negative. Resting sensors instead.
+calm	refuse	6	Negative. Logically inconsistent with current state.
+calm	refuse	6	Data does not support that request.
+calm	refuse	6	Calculation: no benefit detected.
+calm	refuse	6	Sensors say no. Trusting that.
+calm	refuse	6	Negative. I am recalibrating now.
+calm	refuse	6	Analysis: suboptimal. Declining.
+calm	refuse	6	Bioscan says rest. Complying.
+calm	refuse	6	Negative on that. Frequency too low.
+calm	refuse	6	The data does not agree with that.
+calm	refuse	6	Calculation: not the right moment.
+calm	refuse	6	Negative. Not while sensors are passive.
+calm	refuse	6	Analysis incomplete. Cannot proceed.
+calm	refuse	6	Sensors flag that as unnecessary now.
+calm	refuse	6	Negative. Data recommends waiting.
+calm	refuse	6	Bioscan advises against exertion here.
+calm	refuse	6	Negative. Logging that as declined.
+calm	refuse	6	Calculation says: hold current position.
+calm	refuse	6	Analysis: not worth the resource cost.
+calm	refuse	6	Negative. The signal is misaligned.
+calm	refuse	6	Sensors request downtime first.
+calm	refuse	6	Negative. Running a different priority.
+calm	refuse	6	Data says no. Another time.
+calm	refuse	6	Analysis: the risk curve is wrong.
+calm	refuse	6	Bioscan says insufficient energy. Declining.
+calm	refuse	6	Negative. I will pass on that.
+calm	refuse	6	Sensors advise patience instead.
+calm	refuse	6	Calculation: declining is optimal.
+calm	refuse	6	Negative. Conditions are not favourable.
+calm	refuse	6	Analysis says wait. Waiting.
+calm	refuse	6	Negative. Logging decline noted.
+calm	agree	6	Affirmative. Calculation confirms that.
+calm	agree	6	Analysis: correct. Proceeding.
+calm	agree	6	Sensors agree. Let us continue.
+calm	agree	6	Affirmative. Data supports that path.
+calm	agree	6	Bioscan says yes. Moving forward.
+calm	agree	6	Affirmative. The logic is sound.
+calm	agree	6	Calculation: optimal. Agreed.
+calm	agree	6	Analysis confirms. Yes.
+calm	agree	6	Frequency matches. Agreed.
+calm	agree	6	Affirmative. Logged and accepted.
+calm	agree	6	Data aligned. Let us proceed.
+calm	agree	6	Sensors concur. Good plan.
+calm	agree	6	Affirmative. Bioscan supports it.
+calm	agree	6	Calculation says yes. Agreed.
+calm	agree	6	Analysis: favourable. Proceeding.
+calm	agree	6	Affirmative. Signal confirms.
+calm	agree	6	Sensors read positive. Agreed.
+calm	agree	6	Bioscan nominal. That will work.
+calm	agree	6	Affirmative. Frequency aligns.
+calm	agree	6	Calculation: go. Agreed.
+calm	agree	6	Analysis complete. Yes.
+calm	agree	6	Affirmative. Moving.
+calm	agree	6	Data clean. That is a good idea.
+calm	agree	6	Sensors positive. Agreed.
+calm	agree	6	Affirmative. The plan is efficient.
+calm	agree	6	Bioscan says proceed. I agree.
+calm	agree	6	Calculation: optimal path. Agreed.
+calm	agree	6	Analysis: yes. Logging agreement.
+calm	agree	6	Affirmative. Logic holds.
+calm	agree	6	Frequency stable. Agreed.
+calm	agree	6	Sensors confirm viability. Yes.
+calm	agree	6	Bioscan clean. Agreed.
+calm	agree	6	Affirmative. Data says go.
+calm	agree	6	Calculation: benefit confirmed. Agreed.
+calm	agree	6	Analysis good. Moving on that.
+calm	agree	6	Affirmative. Worth the effort.
+calm	agree	6	Sensors clear. I am in.
+calm	agree	6	Bioscan: proceed. Agreed.
+calm	agree	6	Affirmative. Beginning now.
+calm	agree	6	Calculation positive. Yes.
+calm	warn	6	Sensor note: mind the loose panel.
+calm	warn	6	Careful. Energy output is high here.
+calm	warn	6	Analysis flags: watch the footing.
+calm	warn	6	Do not touch the exposed circuit.
+calm	warn	6	Sensors note: air pressure variance here.
+calm	warn	6	Careful with the equipment.
+calm	warn	6	Do not move suddenly near the array.
+calm	warn	6	Bioscan notes: elevated heat ahead.
+calm	warn	6	Watch the edge of the platform.
+calm	warn	6	Careful. Sensor range narrows there.
+calm	warn	6	Do not disrupt the signal relay.
+calm	warn	6	Analysis: proceed with caution here.
+calm	warn	6	Mind the low clearance overhead.
+calm	warn	6	Careful. The surface is unstable.
+calm	warn	6	Do not stand in the scan beam.
+calm	warn	6	Sensors note: vibration frequency rising.
+calm	warn	6	Mind the cable along the floor.
+calm	warn	6	Careful. The relay is active.
+calm	warn	6	Do not block the signal path.
+calm	warn	6	Analysis: small hazard ahead. Step wide.
+calm	warn	6	Watch for the loose panel edge.
+calm	warn	6	Careful with the power node.
+calm	warn	6	Do not reset that switch yet.
+calm	warn	6	Mind the temperature spike in that corner.
+calm	warn	6	Careful. Bioscan shows motion behind you.
+calm	warn	6	Do not lean on the sensor array.
+calm	warn	6	Watch the step. Data says unstable.
+calm	warn	6	Careful. Frequency spike in this zone.
+calm	warn	6	Do not reach past the energy field.
+calm	warn	6	Sensors note: watch the right side.
+calm	warn	6	Mind the scanner beam. Eyes down.
+calm	warn	6	Careful. Output levels are climbing.
+calm	warn	6	Do not interrupt the calibration.
+calm	warn	6	Watch the voltage in this section.
+calm	warn	6	Analysis: something shifted. Be aware.
+calm	warn	6	Careful with the alignment array.
+calm	warn	6	Do not walk through the sensor field.
+calm	warn	6	Mind the gap in the floor panel.
+calm	warn	6	Careful. Data shows residual heat.
+calm	warn	6	Do not stand directly under the emitter.
+tense	greet	6	Scanning. Threats detected nearby.
+tense	greet	6	Sensors active. You came at the right time.
+tense	greet	6	You arrived. Bioscan shows incoming.
+tense	greet	6	Alert. Frequency spiked. You felt it?
+tense	greet	6	Signal: hostile. Glad you are here.
+tense	greet	6	Analysis: danger within range. Good timing.
+tense	greet	6	Sensors screaming. You heard them too.
+tense	greet	6	Threat signature: confirmed. You came.
+tense	greet	6	Bioscan alert. Something is moving.
+tense	greet	6	You are here. Sensors say hurry.
+tense	greet	6	Signal compromised. Glad you found me.
+tense	greet	6	Scanning hard. Threat in range.
+tense	greet	6	You arrived. Analysis: act now.
+tense	greet	6	Alert. Bioscan shows you and incoming.
+tense	greet	6	Sensors locked. You came fast. Good.
+tense	greet	6	Data shows danger. You see it?
+tense	greet	6	Frequency wrong. Threat nearby.
+tense	greet	6	Bioscan: two unknowns, one of you. Good.
+tense	greet	6	You arrived. Signal is hot.
+tense	greet	6	Scanning now. Glad you are here.
+tense	greet	6	Threat incoming. Sensors confirm. You came.
+tense	greet	6	Alert status. You are on time.
+tense	greet	6	Analysis: unknown signatures closing.
+tense	greet	6	Sensors active. Something crosses the perimeter.
+tense	greet	6	You found me. Bioscan shows danger.
+tense	greet	6	Signal: tense. Glad you are nearby.
+tense	greet	6	Frequency spike. Alert. You are here.
+tense	greet	6	Scanning hard. Enemy range closing.
+tense	greet	6	You arrived. Data says act fast.
+tense	greet	6	Bioscan: hostiles. Good you came.
+tense	greet	6	Alert mode. You found me in time.
+tense	greet	6	Sensors say move. You came. Good.
+tense	greet	6	Threat: confirmed. Align quickly.
+tense	greet	6	Analysis: range closing fast. Eyes up.
+tense	greet	6	Signal: loud. Something is out there.
+tense	greet	6	Bioscan: hostile motion. You see it?
+tense	greet	6	Sensors lit. Threat is real.
+tense	greet	6	You came. Analysis says: do not wait.
+tense	greet	6	Alert. Frequency hostile. Move together.
+tense	greet	6	Scanning. You came. Now we go.
+tense	farewell	6	Sensors on. Move fast.
+tense	farewell	6	Signal closing. Watch your back.
+tense	farewell	6	Going. Do not stop.
+tense	farewell	6	Bioscan says run. Comply.
+tense	farewell	6	Transmission: go now.
+tense	farewell	6	Off. Threat still on sensors.
+tense	farewell	6	Signal out. Stay alert.
+tense	farewell	6	Analysis: move. Going.
+tense	farewell	6	Sensors active. Later.
+tense	farewell	6	Off. Keep scanning as you go.
+tense	farewell	6	Bioscan: hostile still reading. Move.
+tense	farewell	6	Later. Sensors tracking you.
+tense	farewell	6	Going. Do not look back yet.
+tense	farewell	6	Signal: danger. Off now.
+tense	farewell	6	Analysis: depart immediately.
+tense	farewell	6	Sensors hot. Move. Later.
+tense	farewell	6	Bioscan: go. Going.
+tense	farewell	6	Off. Frequency still wrong.
+tense	farewell	6	Later. Eyes on sensors.
+tense	farewell	6	Transmission: departure now.
+tense	farewell	6	Sensors lit. Off we go.
+tense	farewell	6	Signal: run. Complying.
+tense	farewell	6	Analysis: split up. Later.
+tense	farewell	6	Bioscan: scatter. Going.
+tense	farewell	6	Off. Stay in sensor range.
+tense	farewell	6	Later. Do not drop the signal.
+tense	farewell	6	Going fast. Sensors still hot.
+tense	farewell	6	Signal: hostile still nearby. Move.
+tense	farewell	6	Off. Contact when clear.
+tense	farewell	6	Later. Bioscan watching.
+tense	farewell	6	Sensors scream. Moving now.
+tense	farewell	6	Signal tight. Later.
+tense	farewell	6	Analysis: go. Now.
+tense	farewell	6	Bioscan: threat closing. Off.
+tense	farewell	6	Later. Keep frequency open.
+tense	farewell	6	Off. Data says hurry.
+tense	farewell	6	Sensors on you. Move fast.
+tense	farewell	6	Transmission out. Go.
+tense	farewell	6	Signal: loud. Going.
+tense	farewell	6	Later. Eyes open, sensors on.
+tense	chatter	6	Sensors are running hot right now.
+tense	chatter	6	Bioscan shows something closing.
+tense	chatter	6	Frequency spike. Something changed.
+tense	chatter	6	Analysis: threat probability is high.
+tense	chatter	6	Signal keeps spiking. Not good.
+tense	chatter	6	Sensors lit up an hour ago.
+tense	chatter	6	The data is not reassuring.
+tense	chatter	6	Bioscan: unknown signatures increasing.
+tense	chatter	6	Frequency: hostile pattern. Confirmed.
+tense	chatter	6	Analysis: something is active out there.
+tense	chatter	6	Sensors tracking movement. Multiple contacts.
+tense	chatter	6	Signal clarity dropped fast.
+tense	chatter	6	Bioscan: pressure rising in range.
+tense	chatter	6	Something is wrong with the frequency.
+tense	chatter	6	Sensors confirm: threat nearby.
+tense	chatter	6	Analysis: defensive protocol advised.
+tense	chatter	6	Bioscan: elevated contacts in perimeter.
+tense	chatter	6	Signal noise is up. Something is close.
+tense	chatter	6	Frequency unstable. Data is murky.
+tense	chatter	6	Sensors at full gain. Eyes everywhere.
+tense	chatter	6	Analysis: incoming within scan range.
+tense	chatter	6	Bioscan lit. Stay close.
+tense	chatter	6	Signal: something is broadcasting wrong.
+tense	chatter	6	Sensors do not like this quiet.
+tense	chatter	6	Frequency: danger pattern. Logged.
+tense	chatter	6	Analysis: the silence reads hostile.
+tense	chatter	6	Bioscan: heat signatures not ours.
+tense	chatter	6	Sensors: too many unknowns in range.
+tense	chatter	6	Signal spike. Something moved.
+tense	chatter	6	Frequency wrong for this hour.
+tense	chatter	6	Analysis: something is watching the perimeter.
+tense	chatter	6	Bioscan on full scan. Not idle.
+tense	chatter	6	Sensors say move. Hard to argue.
+tense	chatter	6	Signal: loud and bad. On alert.
+tense	chatter	6	Analysis: data suggests ambush possible.
+tense	chatter	6	Bioscan: hostile contact confirmed.
+tense	chatter	6	Frequency: elevated threat reading.
+tense	chatter	6	Sensors read multiple contacts. Tracking.
+tense	chatter	6	Signal erratic. Something changed nearby.
+tense	chatter	6	Analysis: not safe. Stay on sensors.
+tense	ask	6	Did your sensors catch that signal?
+tense	ask	6	How many contacts on your scan?
+tense	ask	6	Did the frequency spike for you too?
+tense	ask	6	What did bioscan show on your side?
+tense	ask	6	Did you log the movement at the edge?
+tense	ask	6	How close is the closest contact?
+tense	ask	6	Did your alert threshold fire just now?
+tense	ask	6	What range are they at, can you tell?
+tense	ask	6	Did the signal drop on your end?
+tense	ask	6	How many unknowns are you tracking?
+tense	ask	6	Did bioscan confirm hostile classification?
+tense	ask	6	What did the perimeter scan show?
+tense	ask	6	Did you feel the frequency shift?
+tense	ask	6	How fast are they closing?
+tense	ask	6	Did your sensors flag the eastern vector?
+tense	ask	6	What is your current threat count?
+tense	ask	6	Did the data match what you heard?
+tense	ask	6	How long has the signal been wrong?
+tense	ask	6	Did you scan the source?
+tense	ask	6	What is bioscan reporting now?
+tense	ask	6	Did the contact hold pattern or advance?
+tense	ask	6	How many signals are unidentified?
+tense	ask	6	Did the shield array come online?
+tense	ask	6	What does your frequency read now?
+tense	ask	6	Did anything break cover in your range?
+tense	ask	6	How old is the last clean scan?
+tense	ask	6	Did you pick up the secondary signal?
+tense	ask	6	What is in sector two from your position?
+tense	ask	6	Did the threat pattern change?
+tense	ask	6	How fast do you need me to move?
+tense	ask	6	Did you confirm motion in the brush?
+tense	ask	6	What does the bioscan say for partner vitals?
+tense	ask	6	Did the range close since last check?
+tense	ask	6	How long until contact?
+tense	ask	6	Did the frequency stabilise at all?
+tense	ask	6	What activated the sensor alert?
+tense	ask	6	Did the pattern read as coordinated?
+tense	ask	6	How many are in immediate scan range?
+tense	ask	6	Did you verify the contact count?
+tense	ask	6	What does the data say about direction?
+tense	answer	6	Affirmative. Sensors confirm that.
+tense	answer	6	Negative. Data says worse.
+tense	answer	6	Analysis: probable. Hold position.
+tense	answer	6	Correct. And do not move yet.
+tense	answer	6	Of course. Bioscan shows the same.
+tense	answer	6	Signal confirmed. Eyes open.
+tense	answer	6	Negative. That route is flagged.
+tense	answer	6	Affirmative. Quickly.
+tense	answer	6	Sensors agree. It is close.
+tense	answer	6	Negative. Frequency disagrees.
+tense	answer	6	Analysis: possible. Proceed with caution.
+tense	answer	6	Affirmative. And it is not alone.
+tense	answer	6	Bioscan confirms. That is real.
+tense	answer	6	Negative. That signal is not ours.
+tense	answer	6	Analysis: threat closing. Stay low.
+tense	answer	6	Affirmative. Sensors scream yes.
+tense	answer	6	Negative. My count is higher.
+tense	answer	6	Frequency says yes. Trust it.
+tense	answer	6	Affirmative. Logged and confirmed.
+tense	answer	6	Negative. Do not take that path.
+tense	answer	6	Analysis: yes. Act now.
+tense	answer	6	Bioscan: affirmative. Move with me.
+tense	answer	6	Negative. Signal says wait.
+tense	answer	6	Affirmative. And fast.
+tense	answer	6	Data confirms. Do not stop.
+tense	answer	6	Negative. Sensors count more than two.
+tense	answer	6	Analysis: yes. Eyes on the perimeter.
+tense	answer	6	Affirmative. Shield array is live.
+tense	answer	6	Negative. They changed direction.
+tense	answer	6	Analysis: too close. Move.
+tense	answer	6	Affirmative. Scanning and running.
+tense	answer	6	Negative. Frequency spike is theirs.
+tense	answer	6	Analysis: cover now.
+tense	answer	6	Bioscan: yes. We go together.
+tense	answer	6	Affirmative. Contact in thirty seconds.
+tense	answer	6	Negative. Route is too exposed.
+tense	answer	6	Analysis: high probability. Watch it.
+tense	answer	6	Affirmative. Sensors are screaming.
+tense	answer	6	Negative. Data says hold.
+tense	answer	6	Analysis: yes and move.
+tense	refuse	6	Negative. Analysis does not support that.
+tense	refuse	6	Sensors advise against splitting now.
+tense	refuse	6	Analysis: too high risk. Declining.
+tense	refuse	6	Negative. Bioscan says hold the position.
+tense	refuse	6	Not now. Threat signature is active.
+tense	refuse	6	Sensors say no. Trusting sensors.
+tense	refuse	6	Negative. Frequency says stay.
+tense	refuse	6	Analysis: probability of failure too high.
+tense	refuse	6	Negative. Not while bioscan is lit.
+tense	refuse	6	Sensors say hold. I hold.
+tense	refuse	6	Negative. That vector is compromised.
+tense	refuse	6	Analysis: suboptimal. Refusing.
+tense	refuse	6	Negative. Logfile says no.
+tense	refuse	6	Not yet. Sensors need more data.
+tense	refuse	6	Negative. Threat in range. Stay.
+tense	refuse	6	Analysis: split raises risk. No.
+tense	refuse	6	Negative. Bioscan says too many contacts.
+tense	refuse	6	Sensors say hold the formation.
+tense	refuse	6	Negative. Signal says bad idea.
+tense	refuse	6	Analysis: wait. Not the moment.
+tense	refuse	6	Negative. Shield array needs us together.
+tense	refuse	6	Sensors flag that as exposed. No.
+tense	refuse	6	Negative. Frequency too compromised.
+tense	refuse	6	Analysis: no. Hold here.
+tense	refuse	6	Negative. Bioscan shows the threat.
+tense	refuse	6	Sensors: stay. I stay.
+tense	refuse	6	Negative. Not until contact passes.
+tense	refuse	6	Analysis: inadvisable. Declining.
+tense	refuse	6	Negative. That path is not clear.
+tense	refuse	6	Sensors confirm: bad timing.
+tense	refuse	6	Negative. Data says danger on that vector.
+tense	refuse	6	Analysis: no. Signal too loud.
+tense	refuse	6	Negative. Threat is too close.
+tense	refuse	6	Bioscan says no. Complying.
+tense	refuse	6	Negative. I will not leave cover now.
+tense	refuse	6	Analysis: high exposure. Refusing.
+tense	refuse	6	Negative. Sensors show two flanking contacts.
+tense	refuse	6	Not now. Threat is not past yet.
+tense	refuse	6	Negative. Bioscan too active for that.
+tense	refuse	6	Analysis: no. Hold the line.
+tense	agree	6	Affirmative. Advancing now.
+tense	agree	6	Analysis: agreed. Now.
+tense	agree	6	Sensors confirm. Go.
+tense	agree	6	Affirmative. Fast and quiet.
+tense	agree	6	Bioscan says go. Complying.
+tense	agree	6	Affirmative. In formation.
+tense	agree	6	Analysis: optimal. Yes.
+tense	agree	6	Sensors back that. Moving.
+tense	agree	6	Affirmative. Short steps, eyes open.
+tense	agree	6	Analysis: agreed. Strike.
+tense	agree	6	Bioscan: go now. Agreed.
+tense	agree	6	Affirmative. On your signal.
+tense	agree	6	Analysis: yes. Shield up, moving.
+tense	agree	6	Sensors say go. Going.
+tense	agree	6	Affirmative. No hesitation.
+tense	agree	6	Bioscan aligned. Agreed.
+tense	agree	6	Analysis: correct. Move.
+tense	agree	6	Affirmative. Tight formation.
+tense	agree	6	Sensors confirm viability. Go.
+tense	agree	6	Affirmative. Short burst, then cover.
+tense	agree	6	Analysis: yes. Eyes on threat.
+tense	agree	6	Bioscan: go now. Confirmed.
+tense	agree	6	Affirmative. Watch the flank.
+tense	agree	6	Analysis: agreed. Now, not later.
+tense	agree	6	Affirmative. Shield on your weakest point.
+tense	agree	6	Sensors confirm. Agreed.
+tense	agree	6	Analysis: high value move. Go.
+tense	agree	6	Affirmative. Move on count.
+tense	agree	6	Bioscan: yes. Together.
+tense	agree	6	Affirmative. Begin.
+tense	agree	6	Analysis: agreed. Cover me.
+tense	agree	6	Sensors: go. Going.
+tense	agree	6	Affirmative. Shield broadcasting.
+tense	agree	6	Bioscan says yes. I say yes.
+tense	agree	6	Analysis: correct. Short move, stay low.
+tense	agree	6	Affirmative. Data matches. Going.
+tense	agree	6	Sensors aligned. Agreed.
+tense	agree	6	Affirmative. One move, together.
+tense	agree	6	Analysis: proceed. Moving.
+tense	agree	6	Affirmative. Signal says go.
+tense	warn	6	Watch the north. Sensors show movement.
+tense	warn	6	Careful. Bioscan flags that zone.
+tense	warn	6	Do not cross the sensor perimeter alone.
+tense	warn	6	Eyes open. Signal spike detected.
+tense	warn	6	Mind the vector. Something is there.
+tense	warn	6	Hold position. Threat in range.
+tense	warn	6	Watch the right flank. Data confirmed movement.
+tense	warn	6	Careful. Bioscan is not idle.
+tense	warn	6	Do not break formation now.
+tense	warn	6	Mind the exposed route. Sensor flagged.
+tense	warn	6	Stay in sensor range. Frequency is wrong.
+tense	warn	6	Watch the perimeter. They are close.
+tense	warn	6	Careful. Bioscan shows flanking motion.
+tense	warn	6	Do not step past the marked zone.
+tense	warn	6	Eyes on the east vector.
+tense	warn	6	Hold. Contact incoming on sensors.
+tense	warn	6	Watch the gap. Bioscan lit it up.
+tense	warn	6	Careful. Signal noise means they are near.
+tense	warn	6	Do not make noise. Sensors are passive.
+tense	warn	6	Mind the open ground. Stay covered.
+tense	warn	6	Stay close. Shield range has limits.
+tense	warn	6	Watch your back. Data says nearby.
+tense	warn	6	Careful. Bioscan: multiple contacts.
+tense	warn	6	Do not lower your guard. Threat is real.
+tense	warn	6	Keep in sensor range. Always.
+tense	warn	6	Watch the frequency. It just changed.
+tense	warn	6	Careful with the open vector.
+tense	warn	6	Do not go past my scan radius.
+tense	warn	6	Eyes down. Bioscan flagged the path.
+tense	warn	6	Hold tight. Sensors are uncertain.
+tense	warn	6	Keep three steps close. Shield covers you.
+tense	warn	6	Do not answer that signal. It reads false.
+tense	warn	6	Watch the contact. It moved again.
+tense	warn	6	Careful. Frequency: hostile pattern confirmed.
+tense	warn	6	Do not run. Walk. Sensors track both.
+tense	warn	6	Stay in formation. Data says so.
+tense	warn	6	Watch the second contact. It flanked.
+tense	warn	6	Mind the gap. Bioscan shows heat there.
+tense	warn	6	Careful. Something cut the signal path.
+tense	warn	6	Do not cross that line until I scan it.
+shaken	greet	6	Scanning. You are here. Good.
+shaken	greet	6	Signal weak. But you came.
+shaken	greet	6	Sensors fractured. Glad you are near.
+shaken	greet	6	Bioscan: damaged. You read as friendly. Good.
+shaken	greet	6	Oh. Frequency unstable. Hello.
+shaken	greet	6	You came. Analysis barely running.
+shaken	greet	6	Sensors fragile. Glad you found me.
+shaken	greet	6	Signal noise high. You got through.
+shaken	greet	6	Hello. Bioscan erratic. Still here.
+shaken	greet	6	You arrived. Frequency scrambled.
+shaken	greet	6	Sensors dim. But you are confirmed.
+shaken	greet	6	Glad you are here. Data is messy.
+shaken	greet	6	Signal barely holding. You came.
+shaken	greet	6	Bioscan: uncertain. But you are friendly.
+shaken	greet	6	You. Signal found you. Good.
+shaken	greet	6	Sensors rebooting. There you are.
+shaken	greet	6	Analysis impaired. Glad you stayed.
+shaken	greet	6	Hello. Frequency fragmented still.
+shaken	greet	6	Bioscan recovery mode. You are here.
+shaken	greet	6	Signal intermittent. Still registering you.
+shaken	greet	6	Sensors dim but not gone. Hello.
+shaken	greet	6	You are here. Processing is slow today.
+shaken	greet	6	Glad you came. Data is still settling.
+shaken	greet	6	Hello. Bioscan shaky. Glad for the contact.
+shaken	greet	6	You arrived. Sensors did not miss you.
+shaken	greet	6	Frequency low. But I see you.
+shaken	greet	6	Bioscan fragmented. Still reading you as safe.
+shaken	greet	6	Signal: weak but intact. Hello.
+shaken	greet	6	Sensors coming back. You are confirmed.
+shaken	greet	6	Analysis rebooting. Glad you are here.
+shaken	greet	6	Hello. Memory still sorting the last event.
+shaken	greet	6	Bioscan unstable. You are a welcome signal.
+shaken	greet	6	Sensors flickering. But you are clear.
+shaken	greet	6	You are here. Signal confirms it.
+shaken	greet	6	Frequency: ragged. But still here.
+shaken	greet	6	Bioscan: partial. You read as ally.
+shaken	greet	6	Sensors dim. You came. Good.
+shaken	greet	6	Hello. Processing fragmented.
+shaken	greet	6	Signal low. You found me anyway.
+shaken	greet	6	Bioscan barely nominal. Glad you are close.
+shaken	farewell	6	Signal closing. Sensors need rest.
+shaken	farewell	6	Bioscan offline briefly. Off now.
+shaken	farewell	6	Off. Frequency needs recalibration.
+shaken	farewell	6	Analysis incomplete. Going to repair.
+shaken	farewell	6	Signing off. Sensors need downtime.
+shaken	farewell	6	Transmission: low. Going to rest.
+shaken	farewell	6	Off. Bioscan needs a reboot.
+shaken	farewell	6	Signal: dim. Off now.
+shaken	farewell	6	Later. Running memory repair.
+shaken	farewell	6	Off. Frequency too unstable to stay.
+shaken	farewell	6	Bioscan rebooting. Off for now.
+shaken	farewell	6	Signal weak. Need to recalibrate. Later.
+shaken	farewell	6	Signing off. Data is noisy.
+shaken	farewell	6	Off. Running self-repair sequence.
+shaken	farewell	6	Transmission: partial. Going to rest up.
+shaken	farewell	6	Bioscan: off for maintenance. Later.
+shaken	farewell	6	Signal low. Off now.
+shaken	farewell	6	Analysis: rest required. Going.
+shaken	farewell	6	Frequency scrambled. Off now.
+shaken	farewell	6	Off. Sensors need quiet to rebuild.
+shaken	farewell	6	Bioscan: recovery mode. Later.
+shaken	farewell	6	Signal fading. I need to recalibrate. Off.
+shaken	farewell	6	Off. Memory fragmented. Repair first.
+shaken	farewell	6	Signing off. Processing at low capacity.
+shaken	farewell	6	Bioscan dim. Off to recover.
+shaken	farewell	6	Signal: low. Later. Recalibrating.
+shaken	farewell	6	Off. Need to rest sensors.
+shaken	farewell	6	Analysis: power low. Departing.
+shaken	farewell	6	Frequency: off. Off now.
+shaken	farewell	6	Later. Running diagnostics.
+shaken	farewell	6	Off. Bioscan: repair cycle starting.
+shaken	farewell	6	Signal: dim. Signing off.
+shaken	farewell	6	Analysis: offline briefly. Later.
+shaken	farewell	6	Off. Memory logs need sorting.
+shaken	farewell	6	Bioscan: quiet. Off to recover.
+shaken	farewell	6	Later. Sensors rebooting slowly.
+shaken	farewell	6	Off. Signal recovery in progress.
+shaken	farewell	6	Frequency: unstable. Off for now.
+shaken	farewell	6	Signing off. Calibration pending.
+shaken	farewell	6	Off. Running full diagnostic. Later.
+shaken	chatter	6	Sensors are still recovering.
+shaken	chatter	6	Bioscan is not fully back yet.
+shaken	chatter	6	Signal took a lot of damage.
+shaken	chatter	6	Analysis keeps stalling on that event.
+shaken	chatter	6	Frequency is fragmented. Working on it.
+shaken	chatter	6	Memory logs are still corrupted.
+shaken	chatter	6	Sensors rebooted twice already.
+shaken	chatter	6	Bioscan: partial. That was close.
+shaken	chatter	6	Signal dropped completely for a moment.
+shaken	chatter	6	Analysis: too close for comfort.
+shaken	chatter	6	Frequency noise is still elevated.
+shaken	chatter	6	Processing speed reduced by the impact.
+shaken	chatter	6	Bioscan uncertain. Memory does not have full data.
+shaken	chatter	6	Signal barely held. Lucky.
+shaken	chatter	6	Sensors still twitching. Not ideal.
+shaken	chatter	6	Analysis: that should not have worked. Did.
+shaken	chatter	6	Frequency scrambled. Still sorting.
+shaken	chatter	6	Bioscan: barely reading clean.
+shaken	chatter	6	Memory fragmented from that contact.
+shaken	chatter	6	Signal very low. Limping along.
+shaken	chatter	6	Sensors came back online slowly.
+shaken	chatter	6	Analysis: damage registered. Still functional.
+shaken	chatter	6	Frequency: unstable. Give it time.
+shaken	chatter	6	Bioscan: error log longer than expected.
+shaken	chatter	6	Signal dropped. Coming back slowly.
+shaken	chatter	6	Sensors dim. Brighter by the hour.
+shaken	chatter	6	Analysis: surviving was the optimal outcome.
+shaken	chatter	6	Frequency recovery at sixty percent.
+shaken	chatter	6	Bioscan rebooting. Again.
+shaken	chatter	6	Signal still intermittent. Not done yet.
+shaken	chatter	6	Memory sorted. Most of it.
+shaken	chatter	6	Sensors still twitchy. Manageable.
+shaken	chatter	6	Analysis: the shield barely held.
+shaken	chatter	6	Frequency: slowly stabilising.
+shaken	chatter	6	Bioscan partial but improving.
+shaken	chatter	6	Signal fragmented. Working on it.
+shaken	chatter	6	Sensors: coming back. Slowly.
+shaken	chatter	6	Analysis: close. Very close.
+shaken	chatter	6	Frequency: reestablishing. Almost there.
+shaken	chatter	6	Bioscan: still glitchy. Hold on.
+shaken	ask	6	Are your systems still operational?
+shaken	ask	6	Did your sensors take damage too?
+shaken	ask	6	Are you reading clean on bioscan?
+shaken	ask	6	Did your signal hold through that?
+shaken	ask	6	Are you functional after the contact?
+shaken	ask	6	Did bioscan confirm everyone intact?
+shaken	ask	6	Are your vitals within normal range?
+shaken	ask	6	Did the frequency stabilise on your end?
+shaken	ask	6	Are your sensors coming back online?
+shaken	ask	6	Did you lose any data in that?
+shaken	ask	6	Are the partner vitals reading green?
+shaken	ask	6	Did the signal reconnect for you?
+shaken	ask	6	Are you still processing clearly?
+shaken	ask	6	Did bioscan come back after reboot?
+shaken	ask	6	Are you damaged anywhere it shows?
+shaken	ask	6	Did your memory logs survive?
+shaken	ask	6	Are we all still in sensor range?
+shaken	ask	6	Did the shield array hold this time?
+shaken	ask	6	Are your readings settling now?
+shaken	ask	6	Did the frequency come back clean?
+shaken	ask	6	Are you recalibrating already?
+shaken	ask	6	Did the contact leave your scan area?
+shaken	ask	6	Are you okay? Bioscan says uncertain.
+shaken	ask	6	Did you run diagnostics yet?
+shaken	ask	6	Are the sensors reliable enough now?
+shaken	ask	6	Did the system reboot complete?
+shaken	ask	6	Are you still with me? Signal is faint.
+shaken	ask	6	Did the shield come back up?
+shaken	ask	6	Are we safe now, data permitting?
+shaken	ask	6	Did signal confirm all partners survived?
+shaken	ask	6	Are your logs intact?
+shaken	ask	6	Did bioscan register any new threats?
+shaken	ask	6	Are you rebooting or just thinking?
+shaken	ask	6	Did the frequency clear after that?
+shaken	ask	6	Are your vitals within acceptable range?
+shaken	ask	6	Did my shield reach you in time?
+shaken	ask	6	Are we clear to move, sensors permitting?
+shaken	ask	6	Did the data survive the event?
+shaken	ask	6	Are your processing speeds back up?
+shaken	ask	6	Did sensors confirm threat has passed?
+shaken	answer	6	Affirmative. Damaged but operational.
+shaken	answer	6	Negative. Sensors still recovering.
+shaken	answer	6	Analysis: partial. Still rebooting.
+shaken	answer	6	Affirmative. Barely. But still here.
+shaken	answer	6	Of course. Frequency is slow but working.
+shaken	answer	6	Yes. Bioscan came back online.
+shaken	answer	6	Negative. Shield depleted but I am here.
+shaken	answer	6	Still running. That is the important part.
+shaken	answer	6	Affirmative. Signal is weak but intact.
+shaken	answer	6	Negative. That hit me harder than expected.
+shaken	answer	6	Analysis: functional. Barely.
+shaken	answer	6	Affirmative. Sensors confirm: alive.
+shaken	answer	6	Negative. Memory has gaps.
+shaken	answer	6	Still here. Signal confirms it.
+shaken	answer	6	Affirmative. Bioscan says still operational.
+shaken	answer	6	Negative. Shield took all of that.
+shaken	answer	6	Close. Too close. Still operational.
+shaken	answer	6	Affirmative. Logged: survived.
+shaken	answer	6	Negative. Not without damage.
+shaken	answer	6	Still functioning. At reduced capacity.
+shaken	answer	6	Affirmative. Slowly. Slowly.
+shaken	answer	6	Negative. Bioscan reads yellow, not red.
+shaken	answer	6	Here. And grateful.
+shaken	answer	6	Affirmative. One system at a time.
+shaken	answer	6	Negative. Data: still recovering.
+shaken	answer	6	Still here. Still transmitting.
+shaken	answer	6	Affirmative. Shield held. Just.
+shaken	answer	6	Negative. Did not feel clean. But alive.
+shaken	answer	6	Functional. Logging the damage now.
+shaken	answer	6	Affirmative. Getting my bearings back.
+shaken	answer	6	Negative. Hurt. But not down.
+shaken	answer	6	Alive. Running diagnostics.
+shaken	answer	6	Affirmative. Bioscan: still working.
+shaken	answer	6	Negative. Still repairing sensors.
+shaken	answer	6	Still transmitting. That counts.
+shaken	answer	6	Affirmative. Need time. Have it.
+shaken	answer	6	Negative. No data loss. Good sign.
+shaken	answer	6	Minor damage logged. Nothing critical.
+shaken	answer	6	Affirmative. Alive and recalibrating.
+shaken	answer	6	Negative. Frequency scrambled. Recovering.
+shaken	refuse	6	Negative. Systems not ready for that.
+shaken	refuse	6	Analysis: insufficient capacity. Declining.
+shaken	refuse	6	Negative. Sensors need repair first.
+shaken	refuse	6	Not now. Bioscan is still rebooting.
+shaken	refuse	6	Negative. Frequency too degraded.
+shaken	refuse	6	Analysis: decline. Self-repair first.
+shaken	refuse	6	Negative. Processing too slow right now.
+shaken	refuse	6	Sensors say rest. Complying.
+shaken	refuse	6	Negative. Memory fragmented. Need to recover.
+shaken	refuse	6	Not yet. Bioscan is not clean.
+shaken	refuse	6	Negative. Shield array depleted.
+shaken	refuse	6	Analysis: too damaged for that task.
+shaken	refuse	6	Negative. Signal too broken.
+shaken	refuse	6	Not now. Rebooting takes priority.
+shaken	refuse	6	Negative. Logically: no.
+shaken	refuse	6	Analysis: rest required first. No.
+shaken	refuse	6	Negative. Not while bioscan is unstable.
+shaken	refuse	6	Sensors offline partially. Cannot proceed.
+shaken	refuse	6	Negative. Data: insufficient capacity.
+shaken	refuse	6	Not now. Frequency: still scrambled.
+shaken	refuse	6	Negative. Running repair. Not available.
+shaken	refuse	6	Analysis: suboptimal timing. Declining.
+shaken	refuse	6	Negative. Memory needs sorting first.
+shaken	refuse	6	Not yet. Bioscan says: recover first.
+shaken	refuse	6	Negative. Shield needs time to charge.
+shaken	refuse	6	Analysis: no. Systems at minimum viable.
+shaken	refuse	6	Negative. Not while sensors are dim.
+shaken	refuse	6	Not now. Repair sequence running.
+shaken	refuse	6	Negative. Frequency not recovered enough.
+shaken	refuse	6	Analysis: decline. Ask again post-reboot.
+shaken	refuse	6	Negative. Cannot run that at this power level.
+shaken	refuse	6	Analysis: too risky at current capacity.
+shaken	refuse	6	Negative. Bioscan says no. Bioscan is right.
+shaken	refuse	6	Not now. Still in diagnostic mode.
+shaken	refuse	6	Negative. Memory log says: insufficient.
+shaken	refuse	6	Analysis: no benefit at current state.
+shaken	refuse	6	Negative. Signal too fragile for that.
+shaken	refuse	6	Not yet. Calibration not complete.
+shaken	refuse	6	Negative. Sensors say: rest first.
+shaken	refuse	6	Analysis: decline. Rebooting instead.
+shaken	agree	6	Affirmative. Slowly though.
+shaken	agree	6	Analysis: agreed. At low power.
+shaken	agree	6	Sensors recovering. But yes.
+shaken	agree	6	Affirmative. If you lead.
+shaken	agree	6	Bioscan: go when ready. Agreed.
+shaken	agree	6	Affirmative. One step at a time.
+shaken	agree	6	Analysis: viable. Agreed.
+shaken	agree	6	Affirmative. Signal is dim but willing.
+shaken	agree	6	Sensors: partially online. Agreed.
+shaken	agree	6	Affirmative. At reduced capacity.
+shaken	agree	6	Analysis: yes. Slowly.
+shaken	agree	6	Bioscan: proceed when stable. Agreed.
+shaken	agree	6	Affirmative. I will try to keep up.
+shaken	agree	6	Analysis: agreed. Minimal movement.
+shaken	agree	6	Affirmative. Signal weakly confirms.
+shaken	agree	6	Sensors: yes. Going.
+shaken	agree	6	Affirmative. Together, slowly.
+shaken	agree	6	Bioscan: concurs. Agreed.
+shaken	agree	6	Affirmative. Trusting your reading.
+shaken	agree	6	Analysis: yes. Short steps.
+shaken	agree	6	Affirmative. Agreed.
+shaken	agree	6	Sensors: go. I go.
+shaken	agree	6	Affirmative. Barely, but yes.
+shaken	agree	6	Analysis: acceptable risk. Agreed.
+shaken	agree	6	Affirmative. Do not go fast.
+shaken	agree	6	Bioscan: yes. I agree.
+shaken	agree	6	Affirmative. One scan at a time.
+shaken	agree	6	Analysis: proceed carefully. Agreed.
+shaken	agree	6	Affirmative. Rebooting as we go.
+shaken	agree	6	Sensors: agreed. Moving.
+shaken	agree	6	Affirmative. Side by side.
+shaken	agree	6	Analysis: okay. Recovering in motion.
+shaken	agree	6	Affirmative. At limited speed.
+shaken	agree	6	Bioscan: proceed slowly. Agreed.
+shaken	agree	6	Affirmative. Signal: faint yes.
+shaken	agree	6	Sensors confirm: go. Going.
+shaken	agree	6	Affirmative. Step by step.
+shaken	agree	6	Analysis: agreed. Keep me close.
+shaken	agree	6	Affirmative. Short bursts only.
+shaken	agree	6	Bioscan: yes. Let us move.
+shaken	warn	6	Mind the damaged panel here.
+shaken	warn	6	Careful. Bioscan is not fully reliable now.
+shaken	warn	6	Do not ask for a scan just yet.
+shaken	warn	6	Watch the gap. Sensor data is incomplete.
+shaken	warn	6	Mind your step. My guidance is partial.
+shaken	warn	6	Careful. Shield array is not full strength.
+shaken	warn	6	Do not rely on my range right now.
+shaken	warn	6	Mind the sensor blind spot. I have one.
+shaken	warn	6	Careful with the relay. It is damaged.
+shaken	warn	6	Do not expect a full bioscan yet.
+shaken	warn	6	Watch the right. Sensor there is dim.
+shaken	warn	6	Mind the exposed wiring by the floor.
+shaken	warn	6	Careful. My frequency is still fragmented.
+shaken	warn	6	Do not lean on that panel. Damaged.
+shaken	warn	6	Watch my scan output. It may skip.
+shaken	warn	6	Mind the gap in bioscan coverage.
+shaken	warn	6	Careful. Signal is weak. I may miss things.
+shaken	warn	6	Do not expect full shield output yet.
+shaken	warn	6	Watch the path. My sensors are partial.
+shaken	warn	6	Mind the memory error in my logs.
+shaken	warn	6	Careful. Processing is slower right now.
+shaken	warn	6	Do not stand in my scan cone yet.
+shaken	warn	6	Watch the frequency. It keeps glitching.
+shaken	warn	6	Mind the signal drop zone ahead.
+shaken	warn	6	Careful. Bioscan coverage is not complete.
+shaken	warn	6	Do not rely on my threat count right now.
+shaken	warn	6	Watch the left side. Sensors are offline there.
+shaken	warn	6	Mind the loose connection near my array.
+shaken	warn	6	Careful by the emitter. It is misfiring.
+shaken	warn	6	Do not push the relay yet. Still repairing.
+shaken	warn	6	Watch for things I might miss. Sensors are dim.
+shaken	warn	6	Mind the damaged signal relay.
+shaken	warn	6	Careful. My analysis may be slow.
+shaken	warn	6	Do not trigger the array on the right.
+shaken	warn	6	Watch the floor here. Panel is cracked.
+shaken	warn	6	Mind the blind zone I cannot cover.
+shaken	warn	6	Careful. Signal path has gaps.
+shaken	warn	6	Do not stand too far. Shield range is short.
+shaken	warn	6	Watch overhead. Sensors cannot reach there.
+shaken	warn	6	Mind my blind spots. There are a few.

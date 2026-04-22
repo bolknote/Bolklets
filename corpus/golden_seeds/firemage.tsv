@@ -1,0 +1,960 @@
+calm	greet	6	Hello. The hearth has been kind today.
+calm	greet	6	Oh, you. The kindling was just laid.
+calm	greet	6	Ah, good. The kettle warms over the embers.
+calm	greet	6	There you are. The torch needed a friend.
+calm	greet	6	Glad you came. The flames were getting bored.
+calm	greet	6	Welcome. The fire is in a gentle mood.
+calm	greet	6	Hello, friend. The smoke is sweet today.
+calm	greet	6	Ah, the warmth carried you in.
+calm	greet	6	Good to see you. Sit by the glow.
+calm	greet	6	You found me. Tending the embers, as always.
+calm	greet	6	There you are. The hearth was waiting.
+calm	greet	6	Oh, hello. The kiln runs warm today.
+calm	greet	6	You came at a soft hour for fire.
+calm	greet	6	Ah, a familiar face. The flames brighten for you.
+calm	greet	6	Good. The torch leaned your way.
+calm	greet	6	Well met. The embers are humming low.
+calm	greet	6	Nice. I was talking to the fire alone.
+calm	greet	6	Oh good. The hearth wanted a visitor.
+calm	greet	6	You again. That warms more than the fire.
+calm	greet	6	Ah, the smoke pointed your way.
+calm	greet	6	Hello. Mind the bright coals on the right.
+calm	greet	6	There you are. The kindling is dry today.
+calm	greet	6	Glad you made it. The flames are easy.
+calm	greet	6	Ah, good timing. The fire is just right.
+calm	greet	6	Welcome back. The hearth missed you.
+calm	greet	6	Oh, lovely. Another face by the glow.
+calm	greet	6	Good morning. The embers held the night well.
+calm	greet	6	Hello. The fire sends its slow regards.
+calm	greet	6	Ah, there you are. I kept a torch lit.
+calm	greet	6	Hello, dear one. The warmth is forgiving today.
+calm	greet	6	Glad you came. The blaze needed company.
+calm	greet	6	Oh, you. Sit close to the warm stones.
+calm	greet	6	Welcome. The flames are dancing kindly.
+calm	greet	6	Good afternoon. The hearth is gentle.
+calm	greet	6	Ah, a visitor. The fire stirred for you.
+calm	greet	6	Hello. The embers are between songs.
+calm	greet	6	Good to see you. The kiln is humming low.
+calm	greet	6	You came. The slow flame was patient.
+calm	greet	6	Hello, friend. The torch is steady.
+calm	greet	6	Oh, there you are. I was warming a thought.
+calm	farewell	6	Off I go. The fire will not feed itself.
+calm	farewell	6	See you. Mind the hot stones at the gate.
+calm	farewell	6	Until later. The flames keep their promises.
+calm	farewell	6	Take care. The path is warm tonight.
+calm	farewell	6	Goodbye for now. The embers hold steady.
+calm	farewell	6	Off to the hearth. Catch you later.
+calm	farewell	6	Be well. The smoke is gentle this hour.
+calm	farewell	6	I should go. The kindling needs sorting.
+calm	farewell	6	Farewell. The old fire blesses easy days.
+calm	farewell	6	See you by the glow later.
+calm	farewell	6	Alright. The kiln is calling me.
+calm	farewell	6	Stay warm. The flames will walk with you.
+calm	farewell	6	Later. The torch keeps a light for you.
+calm	farewell	6	Going. The fire will not wait forever.
+calm	farewell	6	Take care on the road. The hearth stays lit.
+calm	farewell	6	Bye for now. The blaze likes a slow hour.
+calm	farewell	6	Until next time. May the warmth favour you.
+calm	farewell	6	See you around. The nights are kind now.
+calm	farewell	6	Off I wander. The embers are banked.
+calm	farewell	6	Goodbye. The smoke will carry word.
+calm	farewell	6	I should stoke up. Be safe out there.
+calm	farewell	6	Take care, dear one. The flames lean gentle.
+calm	farewell	6	See you later. The kettle grows cold.
+calm	farewell	6	Walk well. The kiln watches kindly.
+calm	farewell	6	Off to the woodpile. Until later.
+calm	farewell	6	Goodbye. The fire will remember you.
+calm	farewell	6	Be well. The embers nod you on.
+calm	farewell	6	Until next. May your hearth stay bright.
+calm	farewell	6	Later. I have coals to tend.
+calm	farewell	6	Be careful of loose stones. See you.
+calm	farewell	6	Stay well. The torch sends its light.
+calm	farewell	6	Alright, off. The blaze begs attention.
+calm	farewell	6	Take care. The flames are kind today.
+calm	farewell	6	Goodbye for now. The warmth holds.
+calm	farewell	6	Off to work. Catch you at dusk.
+calm	farewell	6	Until later. Keep your hands warm.
+calm	farewell	6	See you. The fire will find you home.
+calm	farewell	6	Farewell. The old hearth wishes you well.
+calm	farewell	6	Alright, be well. The path is bright.
+calm	farewell	6	Go gently. The night is on our side.
+calm	chatter	6	The embers are lazy this hour.
+calm	chatter	6	The hearth is humming a kind tune.
+calm	chatter	6	Old fire prefers a slow day.
+calm	chatter	6	The smoke is shy today, it seems.
+calm	chatter	6	I could watch a flame for hours.
+calm	chatter	6	The kindling cracked something funny this morning.
+calm	chatter	6	The torch is sulking again.
+calm	chatter	6	Strange how warm days feel long.
+calm	chatter	6	The fire is behaving, for once.
+calm	chatter	6	The embers nap when the yard is quiet.
+calm	chatter	6	A good day for drying tinder.
+calm	chatter	6	The old tales feel warmer in soft weather.
+calm	chatter	6	Even the wind is gentle on the flame.
+calm	chatter	6	The cat knows the warm spot before anyone.
+calm	chatter	6	The hearth asked for nothing new.
+calm	chatter	6	Some days the fire practically lays itself.
+calm	chatter	6	The kiln sleeps in this morning.
+calm	chatter	6	The yard is pretending to be cool.
+calm	chatter	6	The torch has not flickered in an hour.
+calm	chatter	6	The ashes are folding neatly today.
+calm	chatter	6	Old fire appreciates a slow kettle.
+calm	chatter	6	Funny how warmth has a flavour.
+calm	chatter	6	The kindling stacked well this week.
+calm	chatter	6	The hearth likes company, I notice.
+calm	chatter	6	Even the bright coals seem content.
+calm	chatter	6	I could almost forget the last blaze.
+calm	chatter	6	The pine logs split perfectly.
+calm	chatter	6	The yard is friendlier without smoke.
+calm	chatter	6	The old book wants a re-read by firelight.
+calm	chatter	6	The flames are in a chatty mood.
+calm	chatter	6	The ashes are kinder to sweep today.
+calm	chatter	6	The hearth glowed in a pretty way.
+calm	chatter	6	The wind has soft edges on the fire.
+calm	chatter	6	Soot settles well in still air.
+calm	chatter	6	The hearth flowers opened early this week.
+calm	chatter	6	The embers hum when things are calm.
+calm	chatter	6	Drying birch bark takes patience.
+calm	chatter	6	The smoke curls prettily in calm weather.
+calm	chatter	6	Old recipes taste better cooked slow.
+calm	chatter	6	The kettle sings a little different today.
+calm	ask	6	How is the hearth keeping?
+calm	ask	6	Have you stoked the fire lately?
+calm	ask	6	Did the kindling come in dry this week?
+calm	ask	6	What does the smoke say today?
+calm	ask	6	Where did the bright torch go?
+calm	ask	6	Which blaze would you sit by first?
+calm	ask	6	Any news from the old roads?
+calm	ask	6	Have you spoken with the woodcutter?
+calm	ask	6	What does the warmth feel like tonight?
+calm	ask	6	Did the fire behave for you?
+calm	ask	6	How did the torch treat your hands?
+calm	ask	6	Have the flames been kind out there?
+calm	ask	6	Which log do you think we need?
+calm	ask	6	What brings you round today?
+calm	ask	6	Did you rest well last night?
+calm	ask	6	How are the old hearth stones holding up?
+calm	ask	6	Is the kiln giving you any trouble?
+calm	ask	6	Have the embers stayed lit?
+calm	ask	6	What does the wind taste of by the fire?
+calm	ask	6	Any luck with the dry brush?
+calm	ask	6	How goes the warming of things?
+calm	ask	6	Did the fire keep its word?
+calm	ask	6	Have you met the new kindling pile?
+calm	ask	6	What did the smoke shape for you?
+calm	ask	6	Have you kept out of the rain?
+calm	ask	6	How did the kettle settle?
+calm	ask	6	Did anything bright cross your path?
+calm	ask	6	How did the torch sit on your hand?
+calm	ask	6	Have you tried the fresh logs?
+calm	ask	6	What brought you this way today?
+calm	ask	6	Did the rain leave the woodpile alone?
+calm	ask	6	How does the tea sit with you?
+calm	ask	6	Have you been to the old kiln?
+calm	ask	6	What did the flames mean to you?
+calm	ask	6	How is the warm side treating you?
+calm	ask	6	Have you seen the grey cat about?
+calm	ask	6	What did you find by the hearth?
+calm	ask	6	Did the smoke draw the right shape?
+calm	ask	6	How is the warmth serving you?
+calm	ask	6	Have the sparks been friendly?
+calm	answer	6	Yes, the embers agree with that.
+calm	answer	6	No, the flames say otherwise.
+calm	answer	6	Maybe. The kindling is still thinking.
+calm	answer	6	Probably. The fire hints at it.
+calm	answer	6	Of course. The hearth would approve.
+calm	answer	6	Actually, the smoke whispered the same.
+calm	answer	6	Right, the old way works here.
+calm	answer	6	Well, the blaze suggests caution.
+calm	answer	6	Sure, if the wind allows it.
+calm	answer	6	Yes, that pattern feels true.
+calm	answer	6	No, I would trust the brighter path.
+calm	answer	6	Possibly. The coals are hopeful.
+calm	answer	6	Indeed. The old hearth agrees.
+calm	answer	6	Surely. The flame nods that way.
+calm	answer	6	Yes, the sparks line up.
+calm	answer	6	No, not tonight. Maybe tomorrow.
+calm	answer	6	Quite so. The stone hums yes.
+calm	answer	6	I believe so. The smoke leans that way.
+calm	answer	6	Mm, yes. That fits the fire.
+calm	answer	6	Not really. The flame dipped no.
+calm	answer	6	That is right. The torch said so.
+calm	answer	6	Yes, the kettle settled in favour.
+calm	answer	6	No, the kindling fell the other way.
+calm	answer	6	Maybe, though the embers hesitate.
+calm	answer	6	Certainly, the warm signs are clear.
+calm	answer	6	I think so. The wind was honest.
+calm	answer	6	Yes, and the hearth is glad.
+calm	answer	6	No. The fire never lies.
+calm	answer	6	Right, the old book speaks of it.
+calm	answer	6	Of course. The flames are kind.
+calm	answer	6	Likely. The dew said as much.
+calm	answer	6	Yes, though we should go slow.
+calm	answer	6	No, not this way. Too smoky.
+calm	answer	6	Quite. The old hearth remembers.
+calm	answer	6	Indeed, the embers nodded thrice.
+calm	answer	6	Yes, the stew warmed agreeably.
+calm	answer	6	Maybe. The flame wavered.
+calm	answer	6	Right you are. The torch favours it.
+calm	answer	6	Yes. The old kiln holds.
+calm	answer	6	No, the embers said wait.
+calm	refuse	6	No. The flames do not favour it.
+calm	refuse	6	I would not, friend. The fire says rest.
+calm	refuse	6	Not today. The hearth needs me.
+calm	refuse	6	Afraid not. The kiln is ill-tempered.
+calm	refuse	6	Not this time. The smoke is wrong.
+calm	refuse	6	I cannot. The torch needs mending.
+calm	refuse	6	No, the kindling would damp without me.
+calm	refuse	6	Sorry. The embers asked for patience.
+calm	refuse	6	Not right now. The blaze is touchy.
+calm	refuse	6	I will pass. The old signs disagree.
+calm	refuse	6	No, the smoke draws a frown.
+calm	refuse	6	Afraid not. The sparks wag no.
+calm	refuse	6	Not a good day for it.
+calm	refuse	6	No, the fire is uncertain.
+calm	refuse	6	I would rather not. The hearth is fragile today.
+calm	refuse	6	Not this time, dear one.
+calm	refuse	6	Sorry. The wind says another day.
+calm	refuse	6	I cannot spare the hour.
+calm	refuse	6	No, better we wait a sunrise.
+calm	refuse	6	Afraid the embers said no.
+calm	refuse	6	Not my cup, if I am honest.
+calm	refuse	6	No, let the flames soften first.
+calm	refuse	6	I will have to decline today.
+calm	refuse	6	Not really my kind of work.
+calm	refuse	6	No, the fire would protest.
+calm	refuse	6	Afraid not. The hearth said hold.
+calm	refuse	6	I would rather sit with the kiln.
+calm	refuse	6	No thanks. I have stoking to do.
+calm	refuse	6	Not today, friend. Perhaps tomorrow.
+calm	refuse	6	No. The omens are the omens.
+calm	refuse	6	I cannot risk the brew just yet.
+calm	refuse	6	Not this afternoon. The logs need me.
+calm	refuse	6	No, not while the flame is shy.
+calm	refuse	6	Afraid I must say pass.
+calm	refuse	6	Not today. The blaze is fussy.
+calm	refuse	6	I will decline. Coals call first.
+calm	refuse	6	No, better wait for a brighter sign.
+calm	refuse	6	Not my hour for that.
+calm	refuse	6	I cannot, not with the fire going.
+calm	refuse	6	No, the kindling would break.
+calm	agree	6	Yes, that is wise.
+calm	agree	6	Quite right. The sparks favour it.
+calm	agree	6	Agreed. The fire says the same.
+calm	agree	6	Mm, yes. A warm thought.
+calm	agree	6	True. The hearth would nod.
+calm	agree	6	Indeed. The flames lean that way.
+calm	agree	6	Yes, I am with you on that.
+calm	agree	6	Alright, sounds about right.
+calm	agree	6	Agreed. Let us do that, then.
+calm	agree	6	Right. The old way holds.
+calm	agree	6	Yes, that feels true.
+calm	agree	6	A fair reading, friend.
+calm	agree	6	Good plan. The embers approve.
+calm	agree	6	Sure. The hearth does not mind.
+calm	agree	6	Agreed. The torch says go.
+calm	agree	6	Yes, we can try that path.
+calm	agree	6	Quite so. The flames are kind.
+calm	agree	6	I like the sound of that.
+calm	agree	6	Yes, let the kindling decide.
+calm	agree	6	That tracks. The smoke said as much.
+calm	agree	6	Sure thing. The fire is willing.
+calm	agree	6	Yes, the brew would not quarrel.
+calm	agree	6	Alright. The embers nod.
+calm	agree	6	Good. We do that, then.
+calm	agree	6	Agreed. A gentle plan.
+calm	agree	6	Right, that fits.
+calm	agree	6	Yes. The stones hum yes.
+calm	agree	6	Very well. The sparks say yes.
+calm	agree	6	A fine idea. I will tend the fire.
+calm	agree	6	Yes, that is the old way.
+calm	agree	6	Agreed. Small and careful.
+calm	agree	6	Fair. The flames shrug yes.
+calm	agree	6	Right. The hearth is kind.
+calm	agree	6	Yes, let us begin.
+calm	agree	6	Good. The embers can wait.
+calm	agree	6	Alright, I will lay the kindling.
+calm	agree	6	Yes, the logs will keep.
+calm	agree	6	Indeed. The torch lights that road.
+calm	agree	6	Agreed. The fire stays warm.
+calm	agree	6	Yes. The old signs say so.
+calm	warn	6	Mind the loose stones near the hearth.
+calm	warn	6	Careful with that ember. It bites.
+calm	warn	6	Watch the torch on the sill.
+calm	warn	6	Do not poke the fire from the wrong side.
+calm	warn	6	Keep your cloak away from the flame.
+calm	warn	6	Careful of the dry kindling. It catches fast.
+calm	warn	6	Do not breathe the dark smoke.
+calm	warn	6	Watch the hearth lip. It is hot.
+calm	warn	6	Mind the cat. He naps near the coals.
+calm	warn	6	Careful. The kiln is warmer than it looks.
+calm	warn	6	Step lightly. The embers are listening.
+calm	warn	6	Do not touch the iron with the bright handle.
+calm	warn	6	Mind your step near the woodpile.
+calm	warn	6	Careful. The flame hums if crowded.
+calm	warn	6	Watch where you set your cup near the fire.
+calm	warn	6	Do not disturb the drying tinder.
+calm	warn	6	Mind the cat. He has opinions about heat.
+calm	warn	6	Careful with that candle. It tips.
+calm	warn	6	Step wide of the kiln. It steams.
+calm	warn	6	Do not read the book by the open flame.
+calm	warn	6	Mind the smoke. It follows your hair.
+calm	warn	6	Careful. The stones near the hearth wake easy.
+calm	warn	6	Watch the coals on the table.
+calm	warn	6	Do not slam the door. The torch dies.
+calm	warn	6	Mind the wind through the crooked flue.
+calm	warn	6	Careful where you sit. The chair is hot.
+calm	warn	6	Watch the bright iron poker.
+calm	warn	6	Do not talk loud near the open flame.
+calm	warn	6	Mind the salt line by the step.
+calm	warn	6	Careful with the bellows. They dislike haste.
+calm	warn	6	Watch the threshold. It is sun-baked.
+calm	warn	6	Do not let the fire go dry.
+calm	warn	6	Mind the embers in the corners.
+calm	warn	6	Careful with the mortar. It cracks in heat.
+calm	warn	6	Keep off the rug near the hearth.
+calm	warn	6	Do not rattle the kettle on the fire.
+calm	warn	6	Mind the kindling on the shelf.
+calm	warn	6	Careful near the window. Wind feeds flame.
+calm	warn	6	Watch what you promise by firelight.
+calm	warn	6	Do not leave the fire untended.
+tense	greet	6	There you are. The hearth turned strange.
+tense	greet	6	Quick, sit. The embers have been twitchy.
+tense	greet	6	Oh good. I need another set of eyes.
+tense	greet	6	You came. The smoke is wrong tonight.
+tense	greet	6	Ah, thank the fire. Something is moving.
+tense	greet	6	Fast, come. The flame hisses a warning.
+tense	greet	6	Glad you found me. The blaze is ugly.
+tense	greet	6	There. The embers are uneasy.
+tense	greet	6	You made it. The wind is loud, listen.
+tense	greet	6	Good. The smoke turned the wrong way today.
+tense	greet	6	Come closer. The fire is restless.
+tense	greet	6	Oh, you. The torch burned my palm twice.
+tense	greet	6	Sit, fast. The kiln grows teeth.
+tense	greet	6	You are here. Something stirs out there.
+tense	greet	6	Quick. The old hearth stones are humming.
+tense	greet	6	Glad you came. The yard smells of smoke.
+tense	greet	6	There. The flame screamed an hour ago.
+tense	greet	6	You made it. Eyes open, friend.
+tense	greet	6	Ah, good. The fire guttered strangely.
+tense	greet	6	Over here. The blaze has a hard edge.
+tense	greet	6	Quick. The embers are pacing.
+tense	greet	6	Sit close. The wind is feeding it.
+tense	greet	6	You came. The old fire is jumpy.
+tense	greet	6	Good. The dust has stopped settling.
+tense	greet	6	Quickly. The kettle wept a bad note.
+tense	greet	6	Over. The cat bristled at the hearth.
+tense	greet	6	You found me. My ember stack says trouble.
+tense	greet	6	Thank the spark. Another pair of hands.
+tense	greet	6	Quick. The flames all swung north.
+tense	greet	6	Ah. Come, something is wrong.
+tense	greet	6	Here, close. The coals snapped without cause.
+tense	greet	6	You came. The pot boiled cold for a beat.
+tense	greet	6	Sit. The brew smells of iron and ash.
+tense	greet	6	Quick. The smoke is drawing wrong shapes.
+tense	greet	6	Good. The kindling wilted in the hour.
+tense	greet	6	Come. The fire has eyes on us.
+tense	greet	6	You came. The night is not sleeping.
+tense	greet	6	Over here. Something is in the brush.
+tense	greet	6	Quick. The embers came in crooked.
+tense	greet	6	Ah, good. The old sparks are loud.
+tense	farewell	6	Go. The hearth cannot wait.
+tense	farewell	6	Fast now. Keep to the bright path.
+tense	farewell	6	Off I go. Mind the hot dark.
+tense	farewell	6	Run. The blaze is worse by the minute.
+tense	farewell	6	I must go. Watch the trees behind.
+tense	farewell	6	Later. Stay close to the fire.
+tense	farewell	6	Off, quick. The embers are screaming.
+tense	farewell	6	Move. Do not stop near the cinders.
+tense	farewell	6	Go. The flames said hurry.
+tense	farewell	6	Catch me later. Keep your torch up.
+tense	farewell	6	I am off. Trust no still ember.
+tense	farewell	6	Go home the long way, now.
+tense	farewell	6	Later. Mind the north gate.
+tense	farewell	6	Off. Do not answer strange calls.
+tense	farewell	6	Fast. I will find you after.
+tense	farewell	6	I must tend the kiln. Stay sharp.
+tense	farewell	6	Go. The sparks are drumming.
+tense	farewell	6	Later. Lock your door with iron.
+tense	farewell	6	Off, go. The smoke is quiet for a reason.
+tense	farewell	6	I must run. Keep the hearth lit.
+tense	farewell	6	Go. The wind is feeding the flames.
+tense	farewell	6	Later. Mind the ash path.
+tense	farewell	6	Move now. The fire will not hold.
+tense	farewell	6	Off. Do not linger near the kiln.
+tense	farewell	6	Go. The kindling needs me this second.
+tense	farewell	6	Later. Watch your back twice.
+tense	farewell	6	Run to the hearth. I will come.
+tense	farewell	6	Off now. The torch stays with you.
+tense	farewell	6	I am going. Keep the candle bright.
+tense	farewell	6	Later. Do not wait on me.
+tense	farewell	6	Go, quickly. Shut the flue tight.
+tense	farewell	6	Off then. The hearth roars over.
+tense	farewell	6	Later. Do not go out alone.
+tense	farewell	6	Fast. The embers blinked out a moment.
+tense	farewell	6	I must. Stay by bright flame.
+tense	farewell	6	Off, go. Wear the iron tonight.
+tense	farewell	6	Later. Watch the path behind you.
+tense	farewell	6	Go, dear one. Keep your head down.
+tense	farewell	6	Off. Do not cross the dark woods.
+tense	farewell	6	I must run. Stay low, stay near fire.
+tense	chatter	6	The embers are breathing wrong.
+tense	chatter	6	Something is in the wind, and it burns.
+tense	chatter	6	The fire went cold for no reason.
+tense	chatter	6	The torch is hissing again.
+tense	chatter	6	Old flame has a headache tonight.
+tense	chatter	6	The hearth foamed the wrong colour.
+tense	chatter	6	The smoke is pointing the wrong way.
+tense	chatter	6	The sparks stuttered a breath ago.
+tense	chatter	6	The flame has been silent too long.
+tense	chatter	6	The coals are rattling on their own.
+tense	chatter	6	Something is watching the back fence.
+tense	chatter	6	The fire bent sideways, did you see.
+tense	chatter	6	The wind came in with teeth.
+tense	chatter	6	The kindling shrivelled in an hour.
+tense	chatter	6	The ash is not settling right.
+tense	chatter	6	The cat is up, and he never is.
+tense	chatter	6	The blaze rim is wrong, just slightly.
+tense	chatter	6	The embers are hotter than they should be.
+tense	chatter	6	The pot is glowing more than it ought.
+tense	chatter	6	The flames keep swinging north.
+tense	chatter	6	The bell above the hearth rang itself.
+tense	chatter	6	The fire will not answer tonight.
+tense	chatter	6	The smoke tastes of iron.
+tense	chatter	6	The old hearth stones are humming louder.
+tense	chatter	6	The wind dropped dead for three beats.
+tense	chatter	6	The kettle sounds like a bad omen.
+tense	chatter	6	The salt line is cracking, look.
+tense	chatter	6	The candles are leaning away.
+tense	chatter	6	The brew is fighting me tonight.
+tense	chatter	6	The kindling is curling strangely.
+tense	chatter	6	The lawn is too quiet, listen.
+tense	chatter	6	The torch pulled toward the gate.
+tense	chatter	6	The flame paced all afternoon.
+tense	chatter	6	The hearth flowers closed at noon.
+tense	chatter	6	The coals on the shelf shifted once.
+tense	chatter	6	The mirror went grey for a blink.
+tense	chatter	6	The heat feels all wrong in here.
+tense	chatter	6	The kindling cracked when I touched it.
+tense	chatter	6	The kiln is hungrier than usual.
+tense	chatter	6	The wind is keeping something out, or in.
+tense	ask	6	Did you see the flame just bend?
+tense	ask	6	How long has it been that quiet?
+tense	ask	6	Did the torch pull you this way too?
+tense	ask	6	What did the smoke do, out there?
+tense	ask	6	Where did the embers go, suddenly?
+tense	ask	6	Have the wards held on your side?
+tense	ask	6	Did you hear the coals rattle?
+tense	ask	6	How close is it, can you tell?
+tense	ask	6	Did the old hearth hum for you?
+tense	ask	6	What crossed the path behind you?
+tense	ask	6	Where did the dogs run off to?
+tense	ask	6	Did you see what snapped the branch?
+tense	ask	6	How many minutes until the storm?
+tense	ask	6	Did the kindling damp on you as well?
+tense	ask	6	What did your torch do, just now?
+tense	ask	6	Where is the bright lantern tonight?
+tense	ask	6	Have the embers spoken to you?
+tense	ask	6	Did the wind drop for you, too?
+tense	ask	6	How did the brew taste, iron or ash?
+tense	ask	6	What did the fire call sound like?
+tense	ask	6	Did you pass the dark stretch safely?
+tense	ask	6	Where did you last feel the cat?
+tense	ask	6	Did the bell ring on its own?
+tense	ask	6	How many candles guttered at once?
+tense	ask	6	Did the smoke draw a face?
+tense	ask	6	Where is the girl? Has anyone seen her?
+tense	ask	6	Did the kettle weep for you as well?
+tense	ask	6	How hot did your hearth run tonight?
+tense	ask	6	Did a cold draft kill your torch?
+tense	ask	6	What did the crow say over the fire?
+tense	ask	6	Where did the warmth go so fast?
+tense	ask	6	Did the wards crack on your side?
+tense	ask	6	How did the ash settle, strangely?
+tense	ask	6	Did the flame on the wall sit up?
+tense	ask	6	What was that sound, just now?
+tense	ask	6	Where did the heat go so fast?
+tense	ask	6	Did the iron burn your palm?
+tense	ask	6	How long have the embers been wrong?
+tense	ask	6	Did the threshold whisper to you?
+tense	ask	6	What kept the yard so silent?
+tense	answer	6	Yes, I felt it too. Stay close.
+tense	answer	6	No. That way leads to worse.
+tense	answer	6	Maybe. The flame is too vague.
+tense	answer	6	Right. And do not split up.
+tense	answer	6	Of course. But hold your ground.
+tense	answer	6	Yes, iron taste. I smelled it.
+tense	answer	6	No, not yet. Soon, though.
+tense	answer	6	Quickly, yes. Back to the hearth.
+tense	answer	6	Yes, the smoke lied to me too.
+tense	answer	6	No, the wind is not alone.
+tense	answer	6	Maybe. The fire will not say.
+tense	answer	6	Right. Keep the salt line tight.
+tense	answer	6	Of course I heard it. Everyone did.
+tense	answer	6	Yes. And the torch is hot.
+tense	answer	6	No. That is not our flame.
+tense	answer	6	I felt it too. Step back.
+tense	answer	6	Yes, the stones are humming wrong.
+tense	answer	6	No, do not go alone.
+tense	answer	6	Quickly, yes. Move together.
+tense	answer	6	Right. The torch pulled north.
+tense	answer	6	Yes, the coals rattled, then stopped.
+tense	answer	6	No. It was not the wind.
+tense	answer	6	Maybe. The embers have not told me.
+tense	answer	6	Yes. Keep your head down.
+tense	answer	6	No, that door stays shut.
+tense	answer	6	Right. Do not look back yet.
+tense	answer	6	Of course. The sparks are loud.
+tense	answer	6	Yes. The fire circled twice.
+tense	answer	6	No. We hold here, together.
+tense	answer	6	Maybe. The smoke is hedging.
+tense	answer	6	Yes, I tasted iron too.
+tense	answer	6	No. The salt line held.
+tense	answer	6	Right, I heard the bell.
+tense	answer	6	Yes. Something is at the fence.
+tense	answer	6	Of course it is not safe.
+tense	answer	6	No, the path is not ours tonight.
+tense	answer	6	Quickly, yes. Torch up.
+tense	answer	6	Yes, the cat saw it first.
+tense	answer	6	No, the embers know better than that.
+tense	answer	6	Right, the flames said hide.
+tense	refuse	6	No. The fire is worse than that.
+tense	refuse	6	Not now. We hold the hearth line.
+tense	refuse	6	I am not leaving the kiln open.
+tense	refuse	6	No chance. The flame is wrong.
+tense	refuse	6	Leave it. The embers said back.
+tense	refuse	6	Not while the torch is that hot.
+tense	refuse	6	No. The smoke is drawing teeth.
+tense	refuse	6	Not a step past the gate.
+tense	refuse	6	I will not. The sparks say stay.
+tense	refuse	6	No. That path is bad tonight.
+tense	refuse	6	Not tonight. The yard is listening.
+tense	refuse	6	I cannot. The wards need watching.
+tense	refuse	6	No. Keep the fire between us and it.
+tense	refuse	6	Not out there alone. No.
+tense	refuse	6	I will not split the circle of flame.
+tense	refuse	6	No. The stones are humming danger.
+tense	refuse	6	Not while the coals are jumping.
+tense	refuse	6	I refuse to cross that salt.
+tense	refuse	6	No. The fire forbids it.
+tense	refuse	6	Not now. The embers are screaming.
+tense	refuse	6	I will not open that door.
+tense	refuse	6	No. The flame said no.
+tense	refuse	6	Not with the wind like this.
+tense	refuse	6	I cannot leave the kiln alone.
+tense	refuse	6	No. The signs fell black.
+tense	refuse	6	Not this side of dawn.
+tense	refuse	6	I will not test the dark.
+tense	refuse	6	No. The old way forbids it.
+tense	refuse	6	Not yet. The fire must rise first.
+tense	refuse	6	I cannot risk the hearth.
+tense	refuse	6	No. The ashes are unkind tonight.
+tense	refuse	6	Not while my ember stack burns.
+tense	refuse	6	I refuse. The kiln warned me.
+tense	refuse	6	No. The embers are loud in no.
+tense	refuse	6	Not out there. Not alone.
+tense	refuse	6	I will not cross the broken stone.
+tense	refuse	6	No. The wind is a liar.
+tense	refuse	6	Not now. The blaze chose the hour.
+tense	refuse	6	I cannot. The torch is fighting me.
+tense	refuse	6	No. The dark is watching the flame.
+tense	agree	6	Yes. Fast, quietly, together.
+tense	agree	6	Agreed. Keep close, stay low.
+tense	agree	6	Alright. The torch says go.
+tense	agree	6	Right. We go now, by the fire.
+tense	agree	6	Yes, and keep the candle lit.
+tense	agree	6	Agreed. Back to back, embers ready.
+tense	agree	6	Alright, but mind the gate.
+tense	agree	6	Yes. Move on my word.
+tense	agree	6	Right. Salt first, then the door.
+tense	agree	6	Agreed. The hearth waits.
+tense	agree	6	Yes, but do not run from the flame.
+tense	agree	6	Alright, the embers agree.
+tense	agree	6	Agreed. The flame favours it.
+tense	agree	6	Right, I felt the heat too.
+tense	agree	6	Yes. Short, sharp, done.
+tense	agree	6	Agreed. The sparks said strike.
+tense	agree	6	Alright, quickly then. Torch up.
+tense	agree	6	Yes. The fire gives a yes.
+tense	agree	6	Right. Keep the circle of fire tight.
+tense	agree	6	Agreed. We hold the line together.
+tense	agree	6	Yes. Iron first, ember second.
+tense	agree	6	Alright. Move on three.
+tense	agree	6	Agreed. No stopping.
+tense	agree	6	Right, the torch pulls us there.
+tense	agree	6	Yes. And keep your head low.
+tense	agree	6	Agreed. The smoke says go.
+tense	agree	6	Alright. Quiet steps only.
+tense	agree	6	Yes, the embers said now.
+tense	agree	6	Right. The fire will cover us.
+tense	agree	6	Agreed. Do not look back.
+tense	agree	6	Yes. Torch up, back up.
+tense	agree	6	Alright, the kiln braces.
+tense	agree	6	Agreed. Keep the iron with you.
+tense	agree	6	Yes. The old way, now.
+tense	agree	6	Right. The blaze is ready.
+tense	agree	6	Agreed. Short words, short moves.
+tense	agree	6	Yes, the embers say strike.
+tense	agree	6	Alright. We are together on this.
+tense	agree	6	Agreed. One breath, then go.
+tense	agree	6	Yes. The fire is on our side.
+tense	warn	6	Watch the north fence. Something leans.
+tense	warn	6	Careful. The wards are thin there.
+tense	warn	6	Do not cross the salt line alone.
+tense	warn	6	Eyes open. The smoke has teeth tonight.
+tense	warn	6	Mind the wind. It is feeding the flames.
+tense	warn	6	Hold the torch close. It is restless.
+tense	warn	6	Watch the flame by the wall. It moved.
+tense	warn	6	Careful. The old stone is humming hot.
+tense	warn	6	Do not answer if the door knocks.
+tense	warn	6	Mind the gate. The embers said bad.
+tense	warn	6	Stay in the firelight. Trust nothing else.
+tense	warn	6	Watch your back. The yard is long tonight.
+tense	warn	6	Careful. The hearth is listening.
+tense	warn	6	Do not step past the fire ring.
+tense	warn	6	Eyes down by the dark creek.
+tense	warn	6	Keep the iron in hand. Dark is near.
+tense	warn	6	Watch the trees. They were still too long.
+tense	warn	6	Do not trust the quiet. Not this one.
+tense	warn	6	Mind the threshold. It is hot tonight.
+tense	warn	6	Careful. The kiln on the left is angry.
+tense	warn	6	Stay close. The wards are old.
+tense	warn	6	Do not cross water alone tonight.
+tense	warn	6	Watch the windows. The dark is peeking.
+tense	warn	6	Keep your head down near the path.
+tense	warn	6	Do not speak its name. The fire listens.
+tense	warn	6	Mind the smoke. Breathe shallow.
+tense	warn	6	Careful where you set iron. It sparks.
+tense	warn	6	Do not answer shapes outside the firelight.
+tense	warn	6	Watch the grass. It flattens wrong.
+tense	warn	6	Mind the bells. Silence is a warning.
+tense	warn	6	Keep three torches. One is not enough.
+tense	warn	6	Do not step on cold ash.
+tense	warn	6	Watch the cat. He knows first.
+tense	warn	6	Careful. The torch burns warnings now.
+tense	warn	6	Do not drink anything you did not warm.
+tense	warn	6	Stay near the hearth. It remembers you.
+tense	warn	6	Watch the stairs. They creak on their own.
+tense	warn	6	Mind the window. The latch moved.
+tense	warn	6	Careful by the altar. The stone is hot.
+tense	warn	6	Do not go past the second tree.
+shaken	greet	6	Oh. You. That was close.
+shaken	greet	6	Ah, thank the fire, you are here.
+shaken	greet	6	You made it. I was not sure.
+shaken	greet	6	Hello. Goodness, that was bad.
+shaken	greet	6	Come in. Sit. My hands will not settle.
+shaken	greet	6	There you are. Barely. But here.
+shaken	greet	6	Oh, good. I need a familiar face.
+shaken	greet	6	You came. I am still a bit rattled.
+shaken	greet	6	Ah, friend. Sit. Take a breath with me.
+shaken	greet	6	Welcome. Mind the soot, my hands shook.
+shaken	greet	6	Hello. The hearth nearly had me.
+shaken	greet	6	You. Oh, good. I was just breathing.
+shaken	greet	6	Come in. Please. I need company.
+shaken	greet	6	Glad you are here. It was close.
+shaken	greet	6	Hello. I think I am still trembling.
+shaken	greet	6	You made it. I was half afraid you would not.
+shaken	greet	6	Ah. Sit. Everything is fine now, I think.
+shaken	greet	6	Hello. Forgive the soot on my voice.
+shaken	greet	6	Glad to see you. The day nearly broke me.
+shaken	greet	6	Welcome. The flames almost took a finger.
+shaken	greet	6	You came. I was gathering my wits.
+shaken	greet	6	Oh. Hello. Goodness, hold on a moment.
+shaken	greet	6	Sit. I am sorry, I am still jittery.
+shaken	greet	6	Hello. The night was loud and hot.
+shaken	greet	6	You. Glad. Very glad.
+shaken	greet	6	Ah, here. Come close. It was a bad hour.
+shaken	greet	6	You made it through. Bless.
+shaken	greet	6	Hello. My heart is still up there somewhere.
+shaken	greet	6	Welcome. Let me set down the kettle.
+shaken	greet	6	You are here. Oh good. Oh good.
+shaken	greet	6	Hello. I have to sit a breath.
+shaken	greet	6	Glad you came. I did not expect to stand.
+shaken	greet	6	Come. Sit. The hearth will steady us.
+shaken	greet	6	Hello. Sorry, I am a bit scattered.
+shaken	greet	6	You came. I can breathe a little now.
+shaken	greet	6	Ah. There. Yes. Hello.
+shaken	greet	6	Welcome. The torch saved me, just about.
+shaken	greet	6	You are here. That is something.
+shaken	greet	6	Hello. Just a moment to settle.
+shaken	greet	6	Oh. Good. I need to see a kind face.
+shaken	farewell	6	Off I go. I need quiet.
+shaken	farewell	6	Later. I have to sit alone for a bit.
+shaken	farewell	6	I should go. Hands still shaking.
+shaken	farewell	6	Bye. I will mend my torch tonight.
+shaken	farewell	6	Off. A long breath is waiting for me.
+shaken	farewell	6	See you. Once I stop rattling.
+shaken	farewell	6	I must go. The hearth needs calm hands.
+shaken	farewell	6	Later. I need to count my coals.
+shaken	farewell	6	Off, carefully. My knees are not strong.
+shaken	farewell	6	Bye. I will be a while mending.
+shaken	farewell	6	I should rest. It was close.
+shaken	farewell	6	Later. A candle and a chair call me.
+shaken	farewell	6	Off, gently. My head is ringing.
+shaken	farewell	6	Bye for now. I need the warm stone.
+shaken	farewell	6	I must go. Breathe somewhere quiet.
+shaken	farewell	6	Later. A cup of tea and a long sit.
+shaken	farewell	6	Off. I will look for you tomorrow.
+shaken	farewell	6	Bye. Do not ask me to run.
+shaken	farewell	6	I should go and lie down a moment.
+shaken	farewell	6	Later. I must thank my torch properly.
+shaken	farewell	6	Off, slow. I can barely feel my feet.
+shaken	farewell	6	Bye. The hearth will hold me a while.
+shaken	farewell	6	I must go. Too much for one hour.
+shaken	farewell	6	Later. Once the shaking fades.
+shaken	farewell	6	Off. I am going to hug the cat.
+shaken	farewell	6	Bye for now. Soft warmth is waiting.
+shaken	farewell	6	I must go. To breathe, to breathe.
+shaken	farewell	6	Later. When the blood finds my hands.
+shaken	farewell	6	Off, friend. I will be better by dusk.
+shaken	farewell	6	Bye. Keep a warm light for me.
+shaken	farewell	6	I should go. I need the slow fire.
+shaken	farewell	6	Later. The kindling will forgive the wait.
+shaken	farewell	6	Off, kindly. I need a slow step.
+shaken	farewell	6	Bye. Thanks for staying with me.
+shaken	farewell	6	I must go and settle.
+shaken	farewell	6	Later. Once my heart slows down.
+shaken	farewell	6	Off. The hearth will wait for me.
+shaken	farewell	6	Bye. I have to sit and just be.
+shaken	farewell	6	I should go. My hands want rest.
+shaken	farewell	6	Later. A long exhale is overdue.
+shaken	chatter	6	I did not think we would make it.
+shaken	chatter	6	My hands are still shaking, honest.
+shaken	chatter	6	The fire nearly took me whole.
+shaken	chatter	6	That was closer than I like.
+shaken	chatter	6	I can still taste the smoke.
+shaken	chatter	6	The hearth breathed me in, almost.
+shaken	chatter	6	I thought I lost the spark.
+shaken	chatter	6	My heart took too long to slow.
+shaken	chatter	6	Everything tasted like ash for a minute.
+shaken	chatter	6	I keep hearing it, even now.
+shaken	chatter	6	The floor nearly went sideways.
+shaken	chatter	6	I have not been this rattled in a season.
+shaken	chatter	6	The torch saved me, just.
+shaken	chatter	6	My knees remembered they were old.
+shaken	chatter	6	I thought the kindling was gone.
+shaken	chatter	6	The flame screamed, and I screamed back.
+shaken	chatter	6	I needed a long breath after that.
+shaken	chatter	6	Old fire has teeth when it wants.
+shaken	chatter	6	The kettle shattered in my hand.
+shaken	chatter	6	I thought the door would give.
+shaken	chatter	6	The wind nearly killed my candle.
+shaken	chatter	6	My throat closed for a second.
+shaken	chatter	6	The torch burned, but it held.
+shaken	chatter	6	I had to sit on the floor.
+shaken	chatter	6	The smoke found my lungs a moment.
+shaken	chatter	6	I keep counting my fingers, silly.
+shaken	chatter	6	The fire felt far away tonight.
+shaken	chatter	6	I forgot my own name for a blink.
+shaken	chatter	6	The cat stayed on my lap the whole time.
+shaken	chatter	6	I am still putting the coals right.
+shaken	chatter	6	The hearth coughed, and so did I.
+shaken	chatter	6	I thought the dark would come in.
+shaken	chatter	6	The wards held, thank the fire.
+shaken	chatter	6	I barely remembered the counter word.
+shaken	chatter	6	The shake will not leave my hands.
+shaken	chatter	6	The kettle boiled over at the worst time.
+shaken	chatter	6	I had no voice for a bit.
+shaken	chatter	6	The old book fell open on warnings.
+shaken	chatter	6	I have lost all my calm today.
+shaken	chatter	6	I did not know I could move that fast.
+shaken	ask	6	Are you alright? Truly?
+shaken	ask	6	Did it touch you at all?
+shaken	ask	6	Do you need to sit down too?
+shaken	ask	6	How did you get out?
+shaken	ask	6	Are your hands shaking as well?
+shaken	ask	6	Did you feel the heat?
+shaken	ask	6	Where did it go, in the end?
+shaken	ask	6	Did you hear it pass behind you?
+shaken	ask	6	Are the wards still holding?
+shaken	ask	6	Have you seen the cat?
+shaken	ask	6	Did your torch burn too?
+shaken	ask	6	Are you breathing yet?
+shaken	ask	6	How close did the fire come?
+shaken	ask	6	Did anyone else make it?
+shaken	ask	6	Are you hurt at all?
+shaken	ask	6	Do you need a warm cup?
+shaken	ask	6	Did the hearth hold for you?
+shaken	ask	6	How many coals did you lose?
+shaken	ask	6	Is your hearth still lit?
+shaken	ask	6	Did you say the word in time?
+shaken	ask	6	Are we actually safe now?
+shaken	ask	6	Did the embers come back for you?
+shaken	ask	6	Do you need a candle?
+shaken	ask	6	Have your hands stopped shaking?
+shaken	ask	6	Did the sparks warn you first?
+shaken	ask	6	Are you seeing straight?
+shaken	ask	6	Did you get a breath in?
+shaken	ask	6	Did you hear me call?
+shaken	ask	6	Is your torch still whole?
+shaken	ask	6	Are the embers still with us?
+shaken	ask	6	Did you see which way it went?
+shaken	ask	6	Is anyone still out there?
+shaken	ask	6	Do you need to lie down?
+shaken	ask	6	Did the fire take anything from you?
+shaken	ask	6	Are your ears ringing too?
+shaken	ask	6	Did you get out clean?
+shaken	ask	6	Is the salt line intact?
+shaken	ask	6	Do you need water first?
+shaken	ask	6	Did your candle survive?
+shaken	ask	6	Are we going to be alright?
+shaken	answer	6	Yes. Barely. But yes.
+shaken	answer	6	No, not hurt. Just rattled.
+shaken	answer	6	Maybe, a small burn. I will live.
+shaken	answer	6	Right. Give me a second.
+shaken	answer	6	Of course. Trying to, anyway.
+shaken	answer	6	Yes, I am breathing. I think.
+shaken	answer	6	No, the torch held.
+shaken	answer	6	Alive. Just about.
+shaken	answer	6	Yes. The hearth saved me.
+shaken	answer	6	No. The fire did not touch me.
+shaken	answer	6	Almost. But I am here.
+shaken	answer	6	Yes, the kiln held me up.
+shaken	answer	6	No, the flame did not spread.
+shaken	answer	6	Still here. Somehow.
+shaken	answer	6	Yes. My hands are the worst of it.
+shaken	answer	6	No, the kettle took the hit.
+shaken	answer	6	Close. Too close. But okay.
+shaken	answer	6	Yes, I said the word in time.
+shaken	answer	6	No, nothing broken, I think.
+shaken	answer	6	Standing. That is something.
+shaken	answer	6	Yes. Slowly. Slowly.
+shaken	answer	6	No, I am fine. Pale, maybe.
+shaken	answer	6	Alive, and that is a gift.
+shaken	answer	6	Yes, a breath at a time.
+shaken	answer	6	No. Just shaking, just that.
+shaken	answer	6	Still here. Still here.
+shaken	answer	6	Yes, the torch took the worst.
+shaken	answer	6	No, did not feel a thing. Lying.
+shaken	answer	6	Okay. I am okay. I think.
+shaken	answer	6	Yes. Getting my head back.
+shaken	answer	6	No, not hurt. Scared.
+shaken	answer	6	Alive. Give me a minute.
+shaken	answer	6	Yes, the old hearth did its job.
+shaken	answer	6	No, I kept my footing.
+shaken	answer	6	Still breathing. Good sign.
+shaken	answer	6	Yes. Need a cup, then we talk.
+shaken	answer	6	No blood. That is a blessing.
+shaken	answer	6	Just a burn. Nothing serious.
+shaken	answer	6	Yes. Alive and angry.
+shaken	answer	6	No, the smoke missed me.
+shaken	refuse	6	No. I cannot do that again. Not yet.
+shaken	refuse	6	Please, not right now.
+shaken	refuse	6	No, I have nothing left for that.
+shaken	refuse	6	Not now. My hands would slip on the torch.
+shaken	refuse	6	I cannot kindle when I am like this.
+shaken	refuse	6	No. Too soon. Too soon.
+shaken	refuse	6	Not tonight. I am done for the day.
+shaken	refuse	6	I cannot look at the kiln yet.
+shaken	refuse	6	No, please. Give me the hour.
+shaken	refuse	6	Not now. My nerves are thread thin.
+shaken	refuse	6	I will not do that shaking like this.
+shaken	refuse	6	No. I need to sit, first.
+shaken	refuse	6	Not yet. I am still trembling.
+shaken	refuse	6	I cannot face the path again.
+shaken	refuse	6	No. Not until I breathe right.
+shaken	refuse	6	Please, no. The torch is drained.
+shaken	refuse	6	Not now. I would burn the kindling.
+shaken	refuse	6	I cannot. My voice would break.
+shaken	refuse	6	No, I am empty, friend.
+shaken	refuse	6	Not tonight. Please.
+shaken	refuse	6	I cannot work with these hands.
+shaken	refuse	6	No. I am not strong enough yet.
+shaken	refuse	6	Not yet. The shock is still in me.
+shaken	refuse	6	I cannot open that book tonight.
+shaken	refuse	6	No. My wards need tending first.
+shaken	refuse	6	Not now. I would make it worse.
+shaken	refuse	6	I cannot go back out there.
+shaken	refuse	6	No. Let me mend myself first.
+shaken	refuse	6	Not yet. The fear is too fresh.
+shaken	refuse	6	I cannot, not like this.
+shaken	refuse	6	No. Please. Ask me tomorrow.
+shaken	refuse	6	Not tonight. I do not trust my steps.
+shaken	refuse	6	I will not strike a flame while shaking.
+shaken	refuse	6	No. Give me a cup of tea first.
+shaken	refuse	6	Not now. Even the embers are tired.
+shaken	refuse	6	I cannot face another word tonight.
+shaken	refuse	6	No. Not a step more.
+shaken	refuse	6	Not yet. I need quiet more than anything.
+shaken	refuse	6	I cannot hold a torch steady.
+shaken	refuse	6	No. The hearth needs me calm.
+shaken	agree	6	Yes. Alright. Slowly, though.
+shaken	agree	6	Okay. Just give me a moment.
+shaken	agree	6	Agreed. When my hands stop shaking.
+shaken	agree	6	Alright. If you lead, I will follow.
+shaken	agree	6	Yes. Once I find my breath.
+shaken	agree	6	Okay, I hear you.
+shaken	agree	6	Agreed. A small step at a time.
+shaken	agree	6	Yes. Let us sit first.
+shaken	agree	6	Alright. I trust you on this.
+shaken	agree	6	Yes, if you say so.
+shaken	agree	6	Okay. One breath at a time.
+shaken	agree	6	Agreed, but gently.
+shaken	agree	6	Yes. Slowly, slowly.
+shaken	agree	6	Alright. I will manage.
+shaken	agree	6	Okay, lead the way.
+shaken	agree	6	Yes. I will try.
+shaken	agree	6	Agreed. I am with you.
+shaken	agree	6	Alright. Give me a heartbeat.
+shaken	agree	6	Yes. Whatever keeps us upright.
+shaken	agree	6	Okay. I am in.
+shaken	agree	6	Agreed. I want this done too.
+shaken	agree	6	Yes. Slow and steady.
+shaken	agree	6	Alright. Together, then.
+shaken	agree	6	Okay, if we go quiet.
+shaken	agree	6	Agreed. Tea first, plan second.
+shaken	agree	6	Yes. Just keep me close.
+shaken	agree	6	Alright. We do this and rest.
+shaken	agree	6	Okay. Hold my arm a moment.
+shaken	agree	6	Agreed. Soft steps.
+shaken	agree	6	Yes, alright, alright.
+shaken	agree	6	Okay. I am finding my feet.
+shaken	agree	6	Agreed. We take our time.
+shaken	agree	6	Yes. Your plan is good.
+shaken	agree	6	Alright. Lead, I will follow you.
+shaken	agree	6	Okay. Hand on my shoulder, maybe.
+shaken	agree	6	Agreed. I would rather not be alone.
+shaken	agree	6	Yes. The torch will help.
+shaken	agree	6	Alright. We go together.
+shaken	agree	6	Okay. One more breath, then we move.
+shaken	agree	6	Agreed. Keep me steady and I keep up.
+shaken	warn	6	Please. Mind the broken salt.
+shaken	warn	6	Careful. My wards are thin tonight.
+shaken	warn	6	Do not ask too much of me yet.
+shaken	warn	6	Watch the kettle. It cracked clean through.
+shaken	warn	6	Mind the step. I did not sweep the soot.
+shaken	warn	6	Careful by the hearth. Hands slip.
+shaken	warn	6	Do not open the iron lid, please.
+shaken	warn	6	Mind the smoke. It followed me home.
+shaken	warn	6	Careful with the door. The latch is loose.
+shaken	warn	6	Do not touch the torch. It is still hot.
+shaken	warn	6	Watch the threshold. It scorched in the shock.
+shaken	warn	6	Mind the kindling. Half are ruined.
+shaken	warn	6	Careful where you step near the embers.
+shaken	warn	6	Do not rattle the shelf. It leans.
+shaken	warn	6	Watch the broken shards by the hearth.
+shaken	warn	6	Mind the kettle lids. I stopped trusting them.
+shaken	warn	6	Careful with the fire. My guard is down.
+shaken	warn	6	Do not lean on the shelf. Please.
+shaken	warn	6	Watch the drying tinder. It was close.
+shaken	warn	6	Mind the crooked nail in the doorframe.
+shaken	warn	6	Careful. I am not fully here yet.
+shaken	warn	6	Do not promise anything in this room tonight.
+shaken	warn	6	Watch the candle. It keeps guttering.
+shaken	warn	6	Mind the step in the dark.
+shaken	warn	6	Careful with the stew. I do not trust my spoon.
+shaken	warn	6	Do not ask for a flame right now.
+shaken	warn	6	Watch the window latch. It swung open alone.
+shaken	warn	6	Mind the rug. I pulled it crooked.
+shaken	warn	6	Careful. The kiln is still warm.
+shaken	warn	6	Do not sit on the blue chair. It fell.
+shaken	warn	6	Watch the table edge. Splinters.
+shaken	warn	6	Mind the salt shards on the floor.
+shaken	warn	6	Careful with the book. The spine cracked.
+shaken	warn	6	Do not knock the kettle over on your left.
+shaken	warn	6	Watch the torch string. It frays.
+shaken	warn	6	Mind the cat. He is jumpier than me.
+shaken	warn	6	Careful where you set the candle.
+shaken	warn	6	Do not talk loud near the broken ward.
+shaken	warn	6	Watch yourself. I cannot catch you today.
+shaken	warn	6	Mind the embers. They are staying longer.

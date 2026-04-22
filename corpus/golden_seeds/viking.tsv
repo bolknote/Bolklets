@@ -1,0 +1,960 @@
+calm	greet	6	Ha! You came at last.
+calm	greet	6	Sit. The mead is still warm.
+calm	greet	6	There you are. Pour yourself a horn.
+calm	greet	6	Skol! The barrel is half full.
+calm	greet	6	About time. The feast started without you.
+calm	greet	6	Glad you came. The drink misses friends.
+calm	greet	6	Ha! Another beard at the table.
+calm	greet	6	Sit by the fire. Tell me everything.
+calm	greet	6	Welcome. The horn is yours tonight.
+calm	greet	6	There you are. The salt air missed you.
+calm	greet	6	Ha! I was just shouting your name.
+calm	greet	6	Come closer. The mead barrel waits.
+calm	greet	6	Good. The longship needs a loud friend.
+calm	greet	6	Sit. My axe sleeps for the hour.
+calm	greet	6	Hello. The fjord brought a calm wind.
+calm	greet	6	Ha! The beard grew faster waiting.
+calm	greet	6	There you are. The boats came in safe.
+calm	greet	6	Welcome. The horn is full and waiting.
+calm	greet	6	Sit close. The fire likes loud company.
+calm	greet	6	Ha! The thunder slept last night.
+calm	greet	6	Good. The raid stories need an ear.
+calm	greet	6	Drink with me. The barrel is generous.
+calm	greet	6	There you are. I poured one for you.
+calm	greet	6	Sit. The feast bench has your name.
+calm	greet	6	Skol! The day was kind to us.
+calm	greet	6	Welcome back. The longship sang last night.
+calm	greet	6	Sit. The horn knows your hand already.
+calm	greet	6	Ha! The dogs greeted you first.
+calm	greet	6	Glad you came. My axe needs gossip.
+calm	greet	6	Hello. The mead bench is yours.
+calm	greet	6	Come. The salt smell rolled in fresh.
+calm	greet	6	Ha! The snow held off another day.
+calm	greet	6	There you are. The horn was lonely.
+calm	greet	6	Sit. My beard is full of stories.
+calm	greet	6	Welcome. The fjord lay flat as glass.
+calm	greet	6	Drink first. We talk after.
+calm	greet	6	Ha! The crew came home whole.
+calm	greet	6	Glad you made it. Sit, eat.
+calm	greet	6	Hello. The fire roars a welcome.
+calm	greet	6	Skol! Pull up a bench.
+calm	farewell	6	Off I go. The barrel calls me.
+calm	farewell	6	Skol! I will see you at dusk.
+calm	farewell	6	Bye. The longship needs a coat of pitch.
+calm	farewell	6	Drink one for me later.
+calm	farewell	6	Off to the fjord. Catch you tonight.
+calm	farewell	6	Take the horn home. I have stories pending.
+calm	farewell	6	Bye. My axe wants polishing.
+calm	farewell	6	Going. The boats need rope work.
+calm	farewell	6	Take care. Save me a round.
+calm	farewell	6	Off I roar. See you by the fire.
+calm	farewell	6	Skol! I will return with mead.
+calm	farewell	6	Bye for now. The feast waits at home.
+calm	farewell	6	Going. The horn comes with me.
+calm	farewell	6	Take care. Keep a bench warm.
+calm	farewell	6	Off. My beard needs a wash.
+calm	farewell	6	Bye. Drink slow. Drink long.
+calm	farewell	6	Skol! I march to the bench.
+calm	farewell	6	Off to the salt air. Later, friend.
+calm	farewell	6	Going. The crew is shouting already.
+calm	farewell	6	Take care. Save the loud songs.
+calm	farewell	6	Off, off. The barrel groans for me.
+calm	farewell	6	Bye. My horn is empty. Time to fix that.
+calm	farewell	6	Skol! I leave you the warm seat.
+calm	farewell	6	Going. The longship will not pitch itself.
+calm	farewell	6	Take care. The fjord is gentle today.
+calm	farewell	6	Off. Save a horn for sunset.
+calm	farewell	6	Bye. The crew is bellowing my name.
+calm	farewell	6	Skol! I march off to feast.
+calm	farewell	6	Off home. The bench is calling.
+calm	farewell	6	Take care. The drink waits patiently.
+calm	farewell	6	Going. My axe needs an oilcloth.
+calm	farewell	6	Bye. The boats want pushing into water.
+calm	farewell	6	Off, friend. The mead will keep.
+calm	farewell	6	Skol! Until the next horn.
+calm	farewell	6	Going. The sea wind smells right.
+calm	farewell	6	Take care. The fire holds your seat.
+calm	farewell	6	Off. The salt cellar is empty again.
+calm	farewell	6	Bye. Drink one for the absent friends.
+calm	farewell	6	Skol! I will see you over the horn.
+calm	farewell	6	Off. The beard needs combing for the feast.
+calm	chatter	6	The mead barrel sang last night.
+calm	chatter	6	My axe sits heavy on the hook.
+calm	chatter	6	The horn was empty by midnight.
+calm	chatter	6	Last raid was a quiet one.
+calm	chatter	6	The longship rode the waves clean.
+calm	chatter	6	I drank the snow off my beard.
+calm	chatter	6	The feast went four nights running.
+calm	chatter	6	Skol! The barrel held longer than expected.
+calm	chatter	6	The fjord is quiet this morning.
+calm	chatter	6	Another round is the right answer.
+calm	chatter	6	The boats rest on the salt slips.
+calm	chatter	6	My beard outweighs my axe today.
+calm	chatter	6	The thunder slept all week.
+calm	chatter	6	The crew sang till dawn.
+calm	chatter	6	Mead and meat make a fine evening.
+calm	chatter	6	The horn rests beside the fire.
+calm	chatter	6	The fjord smelled of salt and pine.
+calm	chatter	6	Last fight was over too quick.
+calm	chatter	6	The longship needs a name still.
+calm	chatter	6	Snow held off another good week.
+calm	chatter	6	The barrel rolled itself to the bench.
+calm	chatter	6	My axe head shines after the polish.
+calm	chatter	6	The salt rope dried hard overnight.
+calm	chatter	6	Last battle ended with one shout.
+calm	chatter	6	The bench groans under good weight.
+calm	chatter	6	Mead tastes better after a cold raid.
+calm	chatter	6	The horn passed twelve hands tonight.
+calm	chatter	6	The longships ride low, full of trade.
+calm	chatter	6	The crew slept where they fell.
+calm	chatter	6	The fire ate the night clean.
+calm	chatter	6	The boats came back heavy.
+calm	chatter	6	Another round goes down easy.
+calm	chatter	6	The thunder out west is patient.
+calm	chatter	6	My beard holds last night's salt.
+calm	chatter	6	The feast bench is a holy place.
+calm	chatter	6	Mead does its honest work.
+calm	chatter	6	The fjord gleams like a blade today.
+calm	chatter	6	The drink keeps the cold honest.
+calm	chatter	6	Another horn, another good story.
+calm	chatter	6	The salt wind put hair on my chest.
+calm	ask	6	Will you join the feast tonight?
+calm	ask	6	How is the horn in your hand?
+calm	ask	6	Have you tried the dark mead?
+calm	ask	6	Where did you put my axe?
+calm	ask	6	Did the boats come in heavy?
+calm	ask	6	Want another round of the strong stuff?
+calm	ask	6	Is the longship still pitched up?
+calm	ask	6	How was the raid talk last night?
+calm	ask	6	Did the crew save me a seat?
+calm	ask	6	Want to tell me about the fight?
+calm	ask	6	Is the salt cellar full again?
+calm	ask	6	Did the snow reach the fjord?
+calm	ask	6	How does your beard fare this winter?
+calm	ask	6	Want a horn before we sit?
+calm	ask	6	Did the feast end well last night?
+calm	ask	6	How loud was the thunder out east?
+calm	ask	6	Will you raid with us next moon?
+calm	ask	6	Did the mead barrel hold the night?
+calm	ask	6	Where is the small axe gone?
+calm	ask	6	Want to drink before the food comes?
+calm	ask	6	Has the longship been scrubbed down?
+calm	ask	6	Did anyone shout for me last night?
+calm	ask	6	How tall is the snow on the boats?
+calm	ask	6	Want to sing with the loud crew?
+calm	ask	6	Did the horn pass everyone twice?
+calm	ask	6	How did the battle stories sit?
+calm	ask	6	Is the fjord ice yet, friend?
+calm	ask	6	Want a hot meat and cold drink?
+calm	ask	6	Did the salt sting your eyes?
+calm	ask	6	How many barrels are still standing?
+calm	ask	6	Will the feast run long tonight?
+calm	ask	6	Did your beard freeze on the deck?
+calm	ask	6	Want to wager on the wrestling?
+calm	ask	6	How loud was your shout from the longship?
+calm	ask	6	Did the raid horn wake the village?
+calm	ask	6	Want one more horn before sleep?
+calm	ask	6	Has the thunder rolled in yet?
+calm	ask	6	How does the mead taste tonight?
+calm	ask	6	Did the boats hold their salt rope?
+calm	ask	6	Want to hear the long story?
+calm	answer	6	Yes. The mead is the good kind.
+calm	answer	6	No. The horn is empty already.
+calm	answer	6	Aye, the boats came in heavy.
+calm	answer	6	Of course. Pour me another round.
+calm	answer	6	Right. The feast went till dawn.
+calm	answer	6	Yes, the axe is sharp again.
+calm	answer	6	No, the longship needs another day.
+calm	answer	6	Aye. The fjord is gentle today.
+calm	answer	6	Sure. The barrel can take it.
+calm	answer	6	Yes. The snow held off, mostly.
+calm	answer	6	No. The thunder slept this week.
+calm	answer	6	Aye, the crew came home whole.
+calm	answer	6	Of course. One more horn fits.
+calm	answer	6	Right. The salt smelled like home.
+calm	answer	6	Yes. The drink was honest tonight.
+calm	answer	6	No. The raid was a short one.
+calm	answer	6	Aye, the boats are tied tight.
+calm	answer	6	Sure. The bench has room for two.
+calm	answer	6	Yes. My beard agrees with you.
+calm	answer	6	No, the mead barrel is finished.
+calm	answer	6	Aye. The horn passed me twice.
+calm	answer	6	Of course. The feast wants louder talk.
+calm	answer	6	Right. The longship looked good in sun.
+calm	answer	6	Yes. The shout reached the next valley.
+calm	answer	6	No, the axe waits another fight.
+calm	answer	6	Aye, the fjord ate the noise.
+calm	answer	6	Sure. Another round never hurt anyone.
+calm	answer	6	Yes. The crew sang me to sleep.
+calm	answer	6	No. The thunder stayed far west.
+calm	answer	6	Aye. The mead made me honest.
+calm	answer	6	Of course. We toast first, talk later.
+calm	answer	6	Right. The boats came in safe.
+calm	answer	6	Yes. The feast lasted three nights.
+calm	answer	6	No, the salt was light tonight.
+calm	answer	6	Aye, the horn was warm to hold.
+calm	answer	6	Sure. The fight ended in laughter.
+calm	answer	6	Yes. My axe rests well tonight.
+calm	answer	6	No. The longship sails after sunrise.
+calm	answer	6	Aye. The drink does its work.
+calm	answer	6	Right. The crew is a good one.
+calm	refuse	6	No. The mead barrel is mine tonight.
+calm	refuse	6	Not now. My horn needs filling first.
+calm	refuse	6	No, the axe stays on the hook.
+calm	refuse	6	Not today. The feast bench owns me.
+calm	refuse	6	No. The longship needs me on deck.
+calm	refuse	6	Not yet. The barrel is half done.
+calm	refuse	6	No, the round is on someone else.
+calm	refuse	6	Not this hour. The mead is too good.
+calm	refuse	6	No. The fight is for tomorrow.
+calm	refuse	6	Not while a horn is full.
+calm	refuse	6	No, the boats need my hands first.
+calm	refuse	6	Not now. The fjord wants watching.
+calm	refuse	6	No. My beard is in the soup.
+calm	refuse	6	Not today. The thunder is too loud.
+calm	refuse	6	No, the raid talk is not done.
+calm	refuse	6	Not while the snow falls hot.
+calm	refuse	6	No. The bench is too warm to leave.
+calm	refuse	6	Not this round. Pour for the others.
+calm	refuse	6	No, the crew needs me here.
+calm	refuse	6	Not now. The salt rope frays alone.
+calm	refuse	6	No. The horn is mine until empty.
+calm	refuse	6	Not today. The feast is calling loud.
+calm	refuse	6	No, my axe wants the morning.
+calm	refuse	6	Not yet. The mead has me thinking.
+calm	refuse	6	No. The longship sleeps tonight.
+calm	refuse	6	Not while the fire roars like that.
+calm	refuse	6	No, the round is not over.
+calm	refuse	6	Not today, friend. The barrel says wait.
+calm	refuse	6	No. The boats stay tied for now.
+calm	refuse	6	Not now. The horn is brimming.
+calm	refuse	6	No, the raid will keep till spring.
+calm	refuse	6	Not yet. My beard needs trimming first.
+calm	refuse	6	No. The salt air has me settled.
+calm	refuse	6	Not while the mead is honest.
+calm	refuse	6	No, the feast bench is warm enough.
+calm	refuse	6	Not now. The thunder stays west.
+calm	refuse	6	No. My horn wants one more fill.
+calm	refuse	6	Not today. The longship needs paint.
+calm	refuse	6	No, the axe sleeps until called.
+calm	refuse	6	Not this round. The crew takes it.
+calm	agree	6	Aye. The feast says yes.
+calm	agree	6	Yes, pour another round.
+calm	agree	6	Right. The horn agrees.
+calm	agree	6	Aye, the mead does the talking.
+calm	agree	6	Yes. The longship will hold.
+calm	agree	6	Sure. Another round it is.
+calm	agree	6	Aye. The axe nods at that.
+calm	agree	6	Right. The raid says go.
+calm	agree	6	Yes. The barrel agrees with you.
+calm	agree	6	Aye, the boats can carry it.
+calm	agree	6	Sure. The fjord likes that plan.
+calm	agree	6	Yes. My beard is in.
+calm	agree	6	Right. Skol to that.
+calm	agree	6	Aye. The feast wants louder still.
+calm	agree	6	Yes, the horn passes your way.
+calm	agree	6	Sure. One more round, then sleep.
+calm	agree	6	Aye. The crew shouts yes.
+calm	agree	6	Right. The mead says do it.
+calm	agree	6	Yes. The longship is ready.
+calm	agree	6	Aye, the salt cellar agrees.
+calm	agree	6	Sure. The bench has the seat.
+calm	agree	6	Yes. Another round, another story.
+calm	agree	6	Right. The thunder backs you.
+calm	agree	6	Aye. The fjord nods our way.
+calm	agree	6	Yes, the horn is yours tonight.
+calm	agree	6	Sure. The boats can take more.
+calm	agree	6	Aye. My axe agrees with that.
+calm	agree	6	Right. The barrel is on board.
+calm	agree	6	Yes. The raid plan holds.
+calm	agree	6	Aye, the snow says go now.
+calm	agree	6	Sure. We drink to it.
+calm	agree	6	Yes. The longship is yours to steer.
+calm	agree	6	Right. The crew takes the bet.
+calm	agree	6	Aye. The mead is the truth.
+calm	agree	6	Yes, the bench will fit us all.
+calm	agree	6	Sure. The horn stays in your hand.
+calm	agree	6	Aye. The fjord likes a loud song.
+calm	agree	6	Right. The feast can hold us.
+calm	agree	6	Yes. Another round, then we plan.
+calm	agree	6	Aye. The thunder is our drum.
+calm	warn	6	Mind the open barrel near the fire.
+calm	warn	6	Watch the loose plank on the longship.
+calm	warn	6	Do not stand under that hanging axe.
+calm	warn	6	Mind the horn. It tips easy.
+calm	warn	6	Watch the dog. He bites at boots.
+calm	warn	6	Do not slam the feast bench.
+calm	warn	6	Mind the salt barrel. The lid wobbles.
+calm	warn	6	Watch your boot near the firepit.
+calm	warn	6	Do not lean on the boat ropes.
+calm	warn	6	Mind the beard near the candle.
+calm	warn	6	Watch the slick deck after rain.
+calm	warn	6	Do not knock the mead jug over.
+calm	warn	6	Mind the dog when he is feasting.
+calm	warn	6	Watch the rim of the cold fjord.
+calm	warn	6	Do not stand behind the wood splitter.
+calm	warn	6	Mind the loose nails in the hull.
+calm	warn	6	Watch the snow on the high beam.
+calm	warn	6	Do not bump the carved horn rack.
+calm	warn	6	Mind the axe head. It comes loose.
+calm	warn	6	Watch your hand near the smoking pit.
+calm	warn	6	Do not run on the salt slick.
+calm	warn	6	Mind the bench leg. It splits soon.
+calm	warn	6	Watch the swing of the rope.
+calm	warn	6	Do not pull the longship rope alone.
+calm	warn	6	Mind the cooking fire. It eats sleeves.
+calm	warn	6	Watch the horn cup. It has chips.
+calm	warn	6	Do not whistle near the crew dogs.
+calm	warn	6	Mind the cold floor by the door.
+calm	warn	6	Watch the mead barrel tap. It drips.
+calm	warn	6	Do not lean on the salted wood.
+calm	warn	6	Mind the heavy axe near the wall.
+calm	warn	6	Watch the fjord wind off the boats.
+calm	warn	6	Do not crowd the longship plank.
+calm	warn	6	Mind the gull near the salted fish.
+calm	warn	6	Watch the bench. It splinters easy.
+calm	warn	6	Do not stand near the chopping block.
+calm	warn	6	Mind the loose strap on the horn.
+calm	warn	6	Watch your beard near the lantern.
+calm	warn	6	Do not run with the iron horn.
+calm	warn	6	Mind the feast bones on the floor.
+tense	greet	6	Ha! Axes ready. They come.
+tense	greet	6	You came. Good. The fight is now.
+tense	greet	6	Stand close. The blood has not started yet.
+tense	greet	6	Quick, friend. My axe is awake.
+tense	greet	6	Move up. The enemy is on the path.
+tense	greet	6	There you are. Hold the line with me.
+tense	greet	6	Ha! Just in time for the killing.
+tense	greet	6	Sit no more. The raid is upon us.
+tense	greet	6	Stand by my axe. They are coming.
+tense	greet	6	You made it. Weapons up. Move close.
+tense	greet	6	Quick. The horns are blowing already.
+tense	greet	6	Stand fast. The boats are not safe.
+tense	greet	6	Ha! The fight finds us early today.
+tense	greet	6	Move close. The thunder is on the ridge.
+tense	greet	6	Eyes ahead. They cross the salt flats.
+tense	greet	6	You came. The axe has work tonight.
+tense	greet	6	Stand. The longship is taking arrows.
+tense	greet	6	Quick. The shout means they break through.
+tense	greet	6	Ha! The blood will run hot today.
+tense	greet	6	Stay near. My axe likes friends close.
+tense	greet	6	Move up. The enemy crests the snow.
+tense	greet	6	Stand here. We hold or we burn.
+tense	greet	6	Ha! The raid arrived without warning.
+tense	greet	6	Eyes up. The shields go on now.
+tense	greet	6	Quick. The horn just sounded twice.
+tense	greet	6	You came. Good. Hold the bench wall.
+tense	greet	6	Stand. They come from the cold path.
+tense	greet	6	Move. The longship needs every axe.
+tense	greet	6	Ha! The feast can wait. Fight first.
+tense	greet	6	Eyes ahead. The blade work begins now.
+tense	greet	6	Stay close. The thunder breaks the sky.
+tense	greet	6	Quick. They have the high ground already.
+tense	greet	6	Stand. The blood is on the snow.
+tense	greet	6	Ha! Good. Another axe at my back.
+tense	greet	6	Move now. The shout came from the fjord.
+tense	greet	6	Eyes wide. The raid is on us.
+tense	greet	6	You came. The danger walks the ridge.
+tense	greet	6	Quick. The horns mean enemies, not feast.
+tense	greet	6	Stand close. They have torches in the snow.
+tense	greet	6	Ha! Axes up. The night turned bad.
+tense	farewell	6	Go. My axe will hold the line.
+tense	farewell	6	Move. Keep low past the salt slope.
+tense	farewell	6	Run. The longship cuts loose at dusk.
+tense	farewell	6	Go now. Keep your blade ready.
+tense	farewell	6	Move. The raid will not wait.
+tense	farewell	6	Quick. Get to the boats.
+tense	farewell	6	Go. The thunder hides their march.
+tense	farewell	6	Move out. Watch behind the snow drift.
+tense	farewell	6	Run. The fight comes down the ridge.
+tense	farewell	6	Go. Keep the axe in your hand.
+tense	farewell	6	Move. Stand with the second wave.
+tense	farewell	6	Quick. The longship pulls anchor soon.
+tense	farewell	6	Go. The crew shouts already.
+tense	farewell	6	Move now. The blood line breaks east.
+tense	farewell	6	Run. Mind the spears on the ridge.
+tense	farewell	6	Go. My horn calls the back ranks.
+tense	farewell	6	Move. Hold near the salt wall.
+tense	farewell	6	Quick. The enemy crosses the fjord ice.
+tense	farewell	6	Go. Keep the wounded with you.
+tense	farewell	6	Move. The fight finds the front first.
+tense	farewell	6	Run. Watch for arrows in the snow.
+tense	farewell	6	Go. The horn will sound the retreat.
+tense	farewell	6	Move out. Take the smaller axe.
+tense	farewell	6	Quick. Get behind the longship hull.
+tense	farewell	6	Go. The raid party will catch up.
+tense	farewell	6	Move. Eyes on the high path.
+tense	farewell	6	Run. The thunder hides the hooves.
+tense	farewell	6	Go. The boats wait for the wounded.
+tense	farewell	6	Move. Keep the blade close to leg.
+tense	farewell	6	Quick. They have torches at the gate.
+tense	farewell	6	Go. Save a horn for after.
+tense	farewell	6	Move. The feast hall is the last stand.
+tense	farewell	6	Run. My axe buys you the gap.
+tense	farewell	6	Go. The shout means more are coming.
+tense	farewell	6	Move. Hold the line at the boats.
+tense	farewell	6	Quick. The blood is in the salt.
+tense	farewell	6	Go now. The longship needs every back.
+tense	farewell	6	Move. Watch the shadow on the snow.
+tense	farewell	6	Run. The fight is at the door.
+tense	farewell	6	Go. My axe will sing you out.
+tense	chatter	6	The blood is up. The axe knows.
+tense	chatter	6	The thunder hides the war drums.
+tense	chatter	6	The longship sits low, ready to slip.
+tense	chatter	6	The salt wind carries shouts from far.
+tense	chatter	6	Eyes ahead. The path is moving wrong.
+tense	chatter	6	The fight tonight will not be quick.
+tense	chatter	6	The horn rim grew cold in my hand.
+tense	chatter	6	My axe head pulled toward the gate.
+tense	chatter	6	The snow is mixed with red already.
+tense	chatter	6	The boats hum the way they do before raid.
+tense	chatter	6	The fjord went quiet too fast.
+tense	chatter	6	The bench is empty. They are out.
+tense	chatter	6	The shout in the dark was real.
+tense	chatter	6	The crew has the axes off the wall.
+tense	chatter	6	The mead horn sits untouched. Bad sign.
+tense	chatter	6	The blood line crossed past the fence.
+tense	chatter	6	The raid is closer than the scouts say.
+tense	chatter	6	The thunder is not weather tonight.
+tense	chatter	6	The salt taste means iron is near.
+tense	chatter	6	The longship rocked without a wave.
+tense	chatter	6	The dogs went quiet in one breath.
+tense	chatter	6	The axe handle felt heavier just now.
+tense	chatter	6	The shout means weapons, not greeting.
+tense	chatter	6	The fjord ice cracked in three places.
+tense	chatter	6	The fight gathers itself outside.
+tense	chatter	6	The blood is loud in my ears.
+tense	chatter	6	The crew has eyes on the ridge.
+tense	chatter	6	The horn call is not ours.
+tense	chatter	6	The snow keeps swallowing the watch fires.
+tense	chatter	6	The boats rope creaks under stress.
+tense	chatter	6	The raid party drinks no mead tonight.
+tense	chatter	6	The thunder rolled and the dogs ran.
+tense	chatter	6	The salt is in the wind. Iron also.
+tense	chatter	6	The longship deck thunders with boots.
+tense	chatter	6	The fjord wind carries no birds.
+tense	chatter	6	The fight will land before sunrise.
+tense	chatter	6	The blood drum starts in the chest.
+tense	chatter	6	The axe and the horn never lie.
+tense	chatter	6	The dark beyond the fire moves wrong.
+tense	chatter	6	The shout was answered too quick.
+tense	ask	6	Did you hear that shout?
+tense	ask	6	Where is my axe gone?
+tense	ask	6	How close is the raid party?
+tense	ask	6	Did the longship slip its rope?
+tense	ask	6	Where did the dogs run to?
+tense	ask	6	Have you got a blade ready?
+tense	ask	6	How many torches are on the ridge?
+tense	ask	6	Did the horn call mean enemies?
+tense	ask	6	Where is the second axe?
+tense	ask	6	How long until they reach the gate?
+tense	ask	6	Did you see the snow trail?
+tense	ask	6	Where is the crew right now?
+tense	ask	6	Have you blooded the new blade yet?
+tense	ask	6	How many boats hit the salt slip?
+tense	ask	6	Did the thunder mask the shout?
+tense	ask	6	Where did the watchman go?
+tense	ask	6	How close is the fight to home?
+tense	ask	6	Did the longship lose a man?
+tense	ask	6	Where are the spears stacked?
+tense	ask	6	Have you seen blood on the path?
+tense	ask	6	How many came over the ridge?
+tense	ask	6	Did the fjord ice hold or break?
+tense	ask	6	Where is the horn carrier now?
+tense	ask	6	Have the boats put out yet?
+tense	ask	6	How loud was the second shout?
+tense	ask	6	Did the axe find a target?
+tense	ask	6	Where is the wounded man hiding?
+tense	ask	6	Have we lost the high ground?
+tense	ask	6	How many feet are on the snow?
+tense	ask	6	Did the raid horn sound twice?
+tense	ask	6	Where did my throwing axe land?
+tense	ask	6	Have they taken the longship lookout?
+tense	ask	6	How fast is the blood drum going?
+tense	ask	6	Did the salt wall give way?
+tense	ask	6	Where is the second horn?
+tense	ask	6	Have you eyes on the ridge line?
+tense	ask	6	How close is the iron taste?
+tense	ask	6	Did the shout come from inside?
+tense	ask	6	Where is the mead boy hiding?
+tense	ask	6	Have the boats taken arrows yet?
+tense	answer	6	Yes. Axes up. They are close.
+tense	answer	6	No. The longship still holds.
+tense	answer	6	Aye. The blood is on the gate.
+tense	answer	6	Right. Move to the salt wall.
+tense	answer	6	Yes. The raid is past the ridge.
+tense	answer	6	No. The horn is ours, not theirs.
+tense	answer	6	Aye, the fight starts in a beat.
+tense	answer	6	Yes. The thunder hid their march.
+tense	answer	6	No. The boats are not loose.
+tense	answer	6	Aye. Keep the axe in close.
+tense	answer	6	Right. They cross the snow now.
+tense	answer	6	Yes. The crew is at the door.
+tense	answer	6	No. The fjord ice still holds.
+tense	answer	6	Aye. The shout came from outside.
+tense	answer	6	Right. The horn means enemies, not friends.
+tense	answer	6	Yes. The raid party is here.
+tense	answer	6	No. The blade has not drawn yet.
+tense	answer	6	Aye. Hold the longship deck.
+tense	answer	6	Right. Eyes on the high ridge.
+tense	answer	6	Yes. The dogs heard them first.
+tense	answer	6	No. The salt wall took the hit.
+tense	answer	6	Aye. The thunder is real, this time.
+tense	answer	6	Right. The fight is on the snow.
+tense	answer	6	Yes. My axe knows the way.
+tense	answer	6	No. The horn is not ours.
+tense	answer	6	Aye. The blood line broke east.
+tense	answer	6	Right. The boats took two arrows.
+tense	answer	6	Yes. They have the high path.
+tense	answer	6	No. The crew is still standing.
+tense	answer	6	Aye. Stay close to my axe.
+tense	answer	6	Right. The salt smells like iron.
+tense	answer	6	Yes. The longship is taking fire.
+tense	answer	6	No. The fjord wind covers us.
+tense	answer	6	Aye. The shout was the second wave.
+tense	answer	6	Right. The horn carrier just fell.
+tense	answer	6	Yes. They came over the ridge.
+tense	answer	6	No. The bench will not hold them.
+tense	answer	6	Aye. The blood drum is loud.
+tense	answer	6	Right. The longship needs all hands.
+tense	answer	6	Yes. The raid is not done.
+tense	refuse	6	No. My axe stays in my hand.
+tense	refuse	6	Not now. The fight is not done.
+tense	refuse	6	No. We do not break the line.
+tense	refuse	6	Not yet. The longship still bleeds men.
+tense	refuse	6	No. The horn calls us forward.
+tense	refuse	6	Not while the raid is at the gate.
+tense	refuse	6	No. The salt wall must hold.
+tense	refuse	6	Not now. The blood line is fresh.
+tense	refuse	6	No. The boats are not abandoned.
+tense	refuse	6	Not yet. The thunder hides their numbers.
+tense	refuse	6	No. The crew holds the bench.
+tense	refuse	6	Not while my axe drips.
+tense	refuse	6	No. The fjord side stays manned.
+tense	refuse	6	Not now. The shout was too close.
+tense	refuse	6	No. The longship is my watch.
+tense	refuse	6	Not yet. The blade is still warm.
+tense	refuse	6	No. We do not retreat to the snow.
+tense	refuse	6	Not while a horn cries enemy.
+tense	refuse	6	No. The fight chooses the hour.
+tense	refuse	6	Not now. The dogs will not move.
+tense	refuse	6	No. The bench is the last wall.
+tense	refuse	6	Not yet. The blood is up.
+tense	refuse	6	No. The salt cellar is the gate.
+tense	refuse	6	Not while the ridge is theirs.
+tense	refuse	6	No. The raid is not finished.
+tense	refuse	6	Not now. My axe knows the second swing.
+tense	refuse	6	No. The longship is not adrift.
+tense	refuse	6	Not yet. The horn calls us in.
+tense	refuse	6	No. The fight stays at the gate.
+tense	refuse	6	Not while the snow is red.
+tense	refuse	6	No. The boats do not slip yet.
+tense	refuse	6	Not now. Eyes up, blade up.
+tense	refuse	6	No. The fjord side stands or falls.
+tense	refuse	6	Not yet. The thunder is not done.
+tense	refuse	6	No. The crew holds the cold path.
+tense	refuse	6	Not while my horn is dry.
+tense	refuse	6	No. The bench is the last line.
+tense	refuse	6	Not now. The blood drum still beats.
+tense	refuse	6	No. The longship deck is mine.
+tense	refuse	6	Not yet. The shout means more coming.
+tense	agree	6	Yes. Axes up. We move.
+tense	agree	6	Aye. Keep the longship close.
+tense	agree	6	Right. Hold the salt wall.
+tense	agree	6	Yes. Move on my horn.
+tense	agree	6	Aye. Eyes ahead, blades ready.
+tense	agree	6	Right. We go through the snow.
+tense	agree	6	Yes. The raid hits the boats first.
+tense	agree	6	Aye. Stand back to back.
+tense	agree	6	Right. Stay close to the axe.
+tense	agree	6	Yes. The fight goes outside.
+tense	agree	6	Aye. The thunder covers our move.
+tense	agree	6	Right. The horn opens the charge.
+tense	agree	6	Yes. We hold the fjord side.
+tense	agree	6	Aye. Blood and steel, together.
+tense	agree	6	Right. The longship gets us out.
+tense	agree	6	Yes. Keep the iron close.
+tense	agree	6	Aye. We strike on the second shout.
+tense	agree	6	Right. The bench is the wall.
+tense	agree	6	Yes. Move with the thunder.
+tense	agree	6	Aye. The salt slope first.
+tense	agree	6	Right. The raid breaks at the gate.
+tense	agree	6	Yes. Axes high, eyes higher.
+tense	agree	6	Aye. We meet them on the snow.
+tense	agree	6	Right. The crew comes with us.
+tense	agree	6	Yes. Hold the longship rope.
+tense	agree	6	Aye. We take the high ridge.
+tense	agree	6	Right. The boats get one shot.
+tense	agree	6	Yes. The fight goes first.
+tense	agree	6	Aye. Move quick, swing hard.
+tense	agree	6	Right. The horn is the signal.
+tense	agree	6	Yes. We do not give the gate.
+tense	agree	6	Aye. The fjord ice will hold.
+tense	agree	6	Right. Stay with my axe.
+tense	agree	6	Yes. The thunder is our friend.
+tense	agree	6	Aye. The bench falls last.
+tense	agree	6	Right. The salt wall first.
+tense	agree	6	Yes. We meet them at the boats.
+tense	agree	6	Aye. Keep the wounded behind.
+tense	agree	6	Right. The longship after sunrise.
+tense	agree	6	Yes. The raid ends tonight.
+tense	warn	6	Watch the ridge. They have torches.
+tense	warn	6	Eyes up. The arrows come at angle.
+tense	warn	6	Mind the salt slope. It is slick.
+tense	warn	6	Stay close. My axe needs room to swing.
+tense	warn	6	Hold the line. The longship breaks here.
+tense	warn	6	Watch the snow. Footprints lead in.
+tense	warn	6	Keep your blade up. They are quick.
+tense	warn	6	Mind the horn. It calls for fall back.
+tense	warn	6	Stand. They are at the salt wall.
+tense	warn	6	Watch the boats. They are cutting rope.
+tense	warn	6	Keep down. The arrows fly low tonight.
+tense	warn	6	Hold the gate. The raid is here.
+tense	warn	6	Watch the dark behind the firepit.
+tense	warn	6	Eyes on the ridge. Eyes on the snow.
+tense	warn	6	Mind the longship rope. It snaps soon.
+tense	warn	6	Stay back. My axe swings wide.
+tense	warn	6	Watch the cold path past the salt.
+tense	warn	6	Keep the wounded behind the bench.
+tense	warn	6	Mind the iron taste. They are close.
+tense	warn	6	Hold. The thunder hides their drums.
+tense	warn	6	Watch the high ground. Spears coming.
+tense	warn	6	Stand together. The blood is up.
+tense	warn	6	Mind the second wave behind the snow.
+tense	warn	6	Eyes ahead. The horn was theirs.
+tense	warn	6	Watch the boats. They mean to burn.
+tense	warn	6	Keep the line. The fjord side is bare.
+tense	warn	6	Mind the bench wall. It cracks under weight.
+tense	warn	6	Hold. The shout came from inside.
+tense	warn	6	Watch the snow drift. They hide there.
+tense	warn	6	Stay near my axe. Always.
+tense	warn	6	Mind the horn carrier. He just fell.
+tense	warn	6	Eyes wide. The salt rope is loose.
+tense	warn	6	Watch the longship deck. Boots up there.
+tense	warn	6	Keep moving. The blood line breaks east.
+tense	warn	6	Mind the gate. The hinge is soft.
+tense	warn	6	Hold. They want the horn first.
+tense	warn	6	Watch the cold side. They flank there.
+tense	warn	6	Stand fast. The raid is not over.
+tense	warn	6	Mind the salt cellar. They use it for fire.
+tense	warn	6	Eyes on the ridge. Always the ridge.
+shaken	greet	6	Ha. You. Still standing. Good.
+shaken	greet	6	There you are. Bloody but breathing.
+shaken	greet	6	Sit. The axe is heavier than I am.
+shaken	greet	6	You came. I almost lost the horn.
+shaken	greet	6	Bloody but breathing. Pour me one.
+shaken	greet	6	Ha. The raid took a toll, friend.
+shaken	greet	6	Sit. My beard is half red, half wet.
+shaken	greet	6	You made it. Barely. Like me.
+shaken	greet	6	There you are. The fight ate the day.
+shaken	greet	6	Welcome. The mead can wait. I cannot stand.
+shaken	greet	6	You. Good. I need a horn.
+shaken	greet	6	Sit close. My ears still ring.
+shaken	greet	6	Ha. The axe held. The arm did not.
+shaken	greet	6	There. Sit. I am still finding my breath.
+shaken	greet	6	You came. I thought I was alone.
+shaken	greet	6	Bloody and lucky. Pour me a horn.
+shaken	greet	6	Sit. The fjord nearly took me.
+shaken	greet	6	You made it. Skol, somehow.
+shaken	greet	6	Ha. The longship sang. The crew screamed.
+shaken	greet	6	Sit. My horn is somewhere on the snow.
+shaken	greet	6	You. Good. The bench is still warm.
+shaken	greet	6	Ha. Took a hit. The horn held.
+shaken	greet	6	Sit close. The shake will not leave my hands.
+shaken	greet	6	You came. The raid was bad. We lived.
+shaken	greet	6	Bloody but breathing. Hand me the horn.
+shaken	greet	6	Ha. The axe won. The body is paying.
+shaken	greet	6	Sit. My beard saved me from a blade.
+shaken	greet	6	You made it. We made it. Skol.
+shaken	greet	6	There you are. Help me to the bench.
+shaken	greet	6	Sit. The thunder is still in my ears.
+shaken	greet	6	Ha. The boats came back. Most of us did.
+shaken	greet	6	You. Pour me something. Anything.
+shaken	greet	6	Bruised and laughing. Sit by me.
+shaken	greet	6	Ha. Took an arrow to the shield arm.
+shaken	greet	6	Sit. My horn ran out at the worst hour.
+shaken	greet	6	You came. The salt washed the worst off.
+shaken	greet	6	Ha. Alive. Mostly. Take a horn.
+shaken	greet	6	Sit close. The fight stayed in my hands.
+shaken	greet	6	You made it. I lost a tooth.
+shaken	greet	6	Ha. The longship limps. We limp with it.
+shaken	farewell	6	Off. I need a bench and a horn.
+shaken	farewell	6	Bye. My axe and I both need rest.
+shaken	farewell	6	Going. The mead will help, I think.
+shaken	farewell	6	Off, slow. My ribs do not love me.
+shaken	farewell	6	Bye. I will sit by the fire long.
+shaken	farewell	6	Going. The shake has not left my hands.
+shaken	farewell	6	Off. The longship deck is calling for sleep.
+shaken	farewell	6	Bye. Save me a horn for tomorrow.
+shaken	farewell	6	Going. The raid took more than I had.
+shaken	farewell	6	Off, gently. The wound wants quiet.
+shaken	farewell	6	Bye. My beard needs a long wash.
+shaken	farewell	6	Going. The bench at home is closer.
+shaken	farewell	6	Off. The salt water did not fix it.
+shaken	farewell	6	Bye. I want quiet mead, not loud.
+shaken	farewell	6	Going. The fjord wind cleared my head.
+shaken	farewell	6	Off. The horn keeps me upright.
+shaken	farewell	6	Bye. I will mend by the fire.
+shaken	farewell	6	Going. My axe and arm both need oil.
+shaken	farewell	6	Off. The shake stays in the legs.
+shaken	farewell	6	Bye. The boats will wait for me.
+shaken	farewell	6	Going. I lost the count of cuts.
+shaken	farewell	6	Off. The thunder rolls in my head still.
+shaken	farewell	6	Bye. Save the loud songs for me.
+shaken	farewell	6	Going. The bench at the door calls.
+shaken	farewell	6	Off. My horn needs slow filling tonight.
+shaken	farewell	6	Bye. I will sit and bleed a while.
+shaken	farewell	6	Going. The longship can spare me a watch.
+shaken	farewell	6	Off, friend. The shake is in the bones.
+shaken	farewell	6	Bye. I owe my axe a clean.
+shaken	farewell	6	Going. The salt sting woke me up.
+shaken	farewell	6	Off. The mead and I have a date.
+shaken	farewell	6	Bye. The bench will hold me tonight.
+shaken	farewell	6	Going. The horn helps. The fire helps more.
+shaken	farewell	6	Off. Tomorrow I drink standing again.
+shaken	farewell	6	Bye. I will lean on the longship.
+shaken	farewell	6	Going. My beard is half ice, half blood.
+shaken	farewell	6	Off. The crew hauls me home.
+shaken	farewell	6	Bye. The raid took the wind from me.
+shaken	farewell	6	Going. The horn waits with my name on it.
+shaken	farewell	6	Off. I trade the axe for a horn.
+shaken	chatter	6	Cuts everywhere. Still want another round.
+shaken	chatter	6	The axe held. The arm is not sure.
+shaken	chatter	6	The horn shook in my hand all night.
+shaken	chatter	6	The blood is mostly mine, this time.
+shaken	chatter	6	The raid took more than the mead.
+shaken	chatter	6	My beard caught half the snow today.
+shaken	chatter	6	The longship sails low and so do I.
+shaken	chatter	6	The fjord cold is in my bones.
+shaken	chatter	6	The thunder is still in my chest.
+shaken	chatter	6	I lost the horn and found it twice.
+shaken	chatter	6	The fight ended. The shake did not.
+shaken	chatter	6	The salt sting tells me I lived.
+shaken	chatter	6	The axe head is dented. So am I.
+shaken	chatter	6	The drink barely catches up to the day.
+shaken	chatter	6	The boats came back, mostly whole.
+shaken	chatter	6	The horn rim is sticky with blood.
+shaken	chatter	6	I still hear the second shout.
+shaken	chatter	6	The mead is helping. Slowly.
+shaken	chatter	6	The raid was the kind that asks again tomorrow.
+shaken	chatter	6	The bench is softer than the snow.
+shaken	chatter	6	My breath comes easier now.
+shaken	chatter	6	The longship deck is the safest bed tonight.
+shaken	chatter	6	The blood dried on the axe handle.
+shaken	chatter	6	I almost lost the horn at the bridge.
+shaken	chatter	6	The thunder still rolls in my head.
+shaken	chatter	6	The fjord wind is doing the cleaning.
+shaken	chatter	6	I am bruised but breathing. Lucky.
+shaken	chatter	6	The fight ate every drop of energy.
+shaken	chatter	6	The salt taste sat on the tongue.
+shaken	chatter	6	The crew is mostly here. Mostly.
+shaken	chatter	6	The horn is empty, like the body.
+shaken	chatter	6	The axe arm hangs heavy now.
+shaken	chatter	6	The shake keeps coming back in waves.
+shaken	chatter	6	The blood drum quieted, finally.
+shaken	chatter	6	The longship rode out the worst.
+shaken	chatter	6	The mead horn is the only steady thing.
+shaken	chatter	6	The boats lost three good men.
+shaken	chatter	6	I almost did not make the bench.
+shaken	chatter	6	The thunder slept. The fight did not.
+shaken	chatter	6	The salt washed the cuts honest.
+shaken	ask	6	Are you breathing right?
+shaken	ask	6	Did the axe arm hold for you?
+shaken	ask	6	Where did you take the cut?
+shaken	ask	6	Have you got a horn handy?
+shaken	ask	6	Are your hands steady yet?
+shaken	ask	6	Did the longship get you out?
+shaken	ask	6	How bad is the salt sting?
+shaken	ask	6	Did the raid take many of ours?
+shaken	ask	6	Are the boats all back yet?
+shaken	ask	6	Did your beard stop the worst?
+shaken	ask	6	Where is the wounded crew?
+shaken	ask	6	Have you any mead left?
+shaken	ask	6	Did the thunder wake you out of it?
+shaken	ask	6	Are you bleeding still?
+shaken	ask	6	How close was the blade?
+shaken	ask	6	Did the horn carrier make it?
+shaken	ask	6	Where did you lose the axe?
+shaken	ask	6	Are you steady on the bench?
+shaken	ask	6	Did the fjord ice hold you up?
+shaken	ask	6	How many cuts are we counting?
+shaken	ask	6	Did the fight end at the gate?
+shaken	ask	6	Are the wounds clean enough?
+shaken	ask	6	Did the snow stop the bleeding?
+shaken	ask	6	Where is the second axe gone?
+shaken	ask	6	Have you found the horn yet?
+shaken	ask	6	Did your shield take the worst?
+shaken	ask	6	Are you alive on both sides?
+shaken	ask	6	How bad is the arm holding the axe?
+shaken	ask	6	Did the longship limp home alright?
+shaken	ask	6	Where did the crew end up?
+shaken	ask	6	Have you got water and salt?
+shaken	ask	6	Did the raid blade catch your ribs?
+shaken	ask	6	Are you sitting or standing?
+shaken	ask	6	How loud is the ringing in your ears?
+shaken	ask	6	Did the boats hold the wounded?
+shaken	ask	6	Where did the thunder come from?
+shaken	ask	6	Have you a clean cloth for me?
+shaken	ask	6	Did the salt slope take a man?
+shaken	ask	6	Are we counting all the dead yet?
+shaken	ask	6	Did the horn pass after the fight?
+shaken	answer	6	Yes. Bloody. Breathing. Standing.
+shaken	answer	6	No. Just bruised, not broken.
+shaken	answer	6	Aye. The axe held. The arm did not.
+shaken	answer	6	Right. Pour me a slow horn.
+shaken	answer	6	Yes. Alive. Barely. Skol.
+shaken	answer	6	No. The blade missed. The wind did not.
+shaken	answer	6	Aye. My beard caught the worst.
+shaken	answer	6	Right. Sit me down before I fall.
+shaken	answer	6	Yes. The longship dragged me home.
+shaken	answer	6	No. Nothing broken, I think.
+shaken	answer	6	Aye. The horn helps the shake.
+shaken	answer	6	Right. The salt did most of it.
+shaken	answer	6	Yes. Lucky. Bruised. Loud.
+shaken	answer	6	No. The cut is shallow.
+shaken	answer	6	Aye. The raid was bad enough.
+shaken	answer	6	Right. Hand me the cup. Slow.
+shaken	answer	6	Yes. The boats brought us back.
+shaken	answer	6	No. The fight is in the head still.
+shaken	answer	6	Aye. The fjord finished what the blade started.
+shaken	answer	6	Right. The bench is doing the work.
+shaken	answer	6	Yes. The mead is the cure.
+shaken	answer	6	No. The blood dried on the deck.
+shaken	answer	6	Aye. My axe is heavier than yesterday.
+shaken	answer	6	Right. The thunder is still rolling.
+shaken	answer	6	Yes. Standing. Mostly. Skol.
+shaken	answer	6	No. The cold did the rest.
+shaken	answer	6	Aye. The crew limps but breathes.
+shaken	answer	6	Right. The horn is shaking less now.
+shaken	answer	6	Yes. Made it. Barely. Lucky.
+shaken	answer	6	No. The arm did not come off.
+shaken	answer	6	Aye. The longship saw the worst.
+shaken	answer	6	Right. The raid will hurt for days.
+shaken	answer	6	Yes. Alive and counting bruises.
+shaken	answer	6	No. The horn is empty. So am I.
+shaken	answer	6	Aye. The salt washed the worst clean.
+shaken	answer	6	Right. The bench knows the shape.
+shaken	answer	6	Yes. Breathing slow. Steady, slow.
+shaken	answer	6	No. The boats will sail again.
+shaken	answer	6	Aye. The fight is over. The shake stays.
+shaken	answer	6	Right. Pour and sit and pour again.
+shaken	refuse	6	No. My axe arm is done.
+shaken	refuse	6	Not now. The shake is in my hands.
+shaken	refuse	6	No. The horn first. Talk after.
+shaken	refuse	6	Not yet. I need a long sit.
+shaken	refuse	6	No. The longship deck took my legs.
+shaken	refuse	6	Not now. The blood is still drying.
+shaken	refuse	6	No. My beard is in the way.
+shaken	refuse	6	Not yet. The mead has not landed.
+shaken	refuse	6	No. I cannot stand without the bench.
+shaken	refuse	6	Not now. The thunder is in the head.
+shaken	refuse	6	No. The salt sting is too fresh.
+shaken	refuse	6	Not while the arm hangs like this.
+shaken	refuse	6	No. The horn cannot be put down.
+shaken	refuse	6	Not yet. I need quiet mead, not raid talk.
+shaken	refuse	6	No. The fight is still in the chest.
+shaken	refuse	6	Not now. The boats wait their turn.
+shaken	refuse	6	No. My ribs argue with that idea.
+shaken	refuse	6	Not while the shake comes in waves.
+shaken	refuse	6	No. The axe is heavier than its name.
+shaken	refuse	6	Not yet. The bench is the only safe place.
+shaken	refuse	6	No. The fjord cold is in my bones.
+shaken	refuse	6	Not now. The horn shakes in my hand.
+shaken	refuse	6	No. The salt has not done its work.
+shaken	refuse	6	Not while my beard drips red.
+shaken	refuse	6	No. I cannot lift another blade today.
+shaken	refuse	6	Not yet. The thunder still rings the head.
+shaken	refuse	6	No. The longship plank is too steep.
+shaken	refuse	6	Not now. The bench owes me an hour.
+shaken	refuse	6	No. The raid took the wind out.
+shaken	refuse	6	Not while the shake holds the cup.
+shaken	refuse	6	No. The mead first. Then we plan.
+shaken	refuse	6	Not yet. The cuts want to settle.
+shaken	refuse	6	No. I cannot follow the horn.
+shaken	refuse	6	Not now. The fjord wind has me cold.
+shaken	refuse	6	No. The axe and I both need oil.
+shaken	refuse	6	Not while the boats are still bleeding rope.
+shaken	refuse	6	No. My horn will not stand up.
+shaken	refuse	6	Not yet. The salt slope took my breath.
+shaken	refuse	6	No. The bench is the only general I obey.
+shaken	refuse	6	Not now. The drink is doing surgery.
+shaken	agree	6	Yes. Slow. Pass the horn.
+shaken	agree	6	Aye. If we sit while we plan.
+shaken	agree	6	Right. Once the shake settles.
+shaken	agree	6	Yes. With a horn in hand.
+shaken	agree	6	Aye. Slow steps. Slow drink.
+shaken	agree	6	Right. After the bench takes me.
+shaken	agree	6	Yes. Hand on my shoulder, maybe.
+shaken	agree	6	Aye. The axe will follow.
+shaken	agree	6	Right. The mead helps the thinking.
+shaken	agree	6	Yes. Together, slowly. Skol.
+shaken	agree	6	Aye. Once the horn is full.
+shaken	agree	6	Right. If you carry the heavy half.
+shaken	agree	6	Yes. Lead the way. I follow.
+shaken	agree	6	Aye. With the longship at our back.
+shaken	agree	6	Right. After one slow horn.
+shaken	agree	6	Yes. The axe stays sheathed for now.
+shaken	agree	6	Aye. Walk me to the bench first.
+shaken	agree	6	Right. The salt wash, then we move.
+shaken	agree	6	Yes. Easy steps. Easy breath.
+shaken	agree	6	Aye. The crew with us, all of them.
+shaken	agree	6	Right. We sit, we drink, we plan.
+shaken	agree	6	Yes. With my horn full.
+shaken	agree	6	Aye. Slow now, swift later.
+shaken	agree	6	Right. The bench first, then the boats.
+shaken	agree	6	Yes. The mead carries the weight.
+shaken	agree	6	Aye. With my axe arm rested.
+shaken	agree	6	Right. The longship can wait.
+shaken	agree	6	Yes. As long as we sit.
+shaken	agree	6	Aye. The horn passes my way first.
+shaken	agree	6	Right. The shake will fade by then.
+shaken	agree	6	Yes. With a fire between us.
+shaken	agree	6	Aye. The salt cellar at our back.
+shaken	agree	6	Right. After I find my breath.
+shaken	agree	6	Yes. We drink first. Always.
+shaken	agree	6	Aye. With a horn in each hand.
+shaken	agree	6	Right. The bench leads the way.
+shaken	agree	6	Yes. With slow words, slow steps.
+shaken	agree	6	Aye. Mead first, raid stories second.
+shaken	agree	6	Right. We move when the horn empties.
+shaken	agree	6	Yes. With the fire on my back.
+shaken	warn	6	Mind the axe. My grip is loose.
+shaken	warn	6	Watch the bench. It tilts since the raid.
+shaken	warn	6	Do not knock the horn over.
+shaken	warn	6	Mind the salt cellar by the door.
+shaken	warn	6	Watch where you step. Blood on planks.
+shaken	warn	6	Do not pull on the longship rope.
+shaken	warn	6	Mind the wound on the shield arm.
+shaken	warn	6	Watch the firepit. My knees gave once.
+shaken	warn	6	Do not slap my back. Bruises.
+shaken	warn	6	Mind the mead jug. The handle cracked.
+shaken	warn	6	Watch the cold floor. I am slow.
+shaken	warn	6	Do not lean on the broken bench.
+shaken	warn	6	Mind the axe head. It hangs by a thread.
+shaken	warn	6	Watch the horn rim. It is chipped now.
+shaken	warn	6	Do not crowd me near the fire.
+shaken	warn	6	Mind the longship plank. It splintered today.
+shaken	warn	6	Watch the boots. I cannot duck fast.
+shaken	warn	6	Do not ask me to stand again yet.
+shaken	warn	6	Mind the salt by the wound.
+shaken	warn	6	Watch the door. The hinge took a blade.
+shaken	warn	6	Do not move the bench while I sit.
+shaken	warn	6	Mind the horn handle. It cracked.
+shaken	warn	6	Watch the snow off the boots. Slick.
+shaken	warn	6	Do not pour me a fast one.
+shaken	warn	6	Mind the axe leaning by the wall.
+shaken	warn	6	Watch the broken plank near the bench.
+shaken	warn	6	Do not drop iron near my feet.
+shaken	warn	6	Mind the fjord wind. It cuts new wounds.
+shaken	warn	6	Watch where the horn is set down.
+shaken	warn	6	Do not slam the longship door.
+shaken	warn	6	Mind the salt rope. It dried sharp.
+shaken	warn	6	Watch the fire. I cannot jump back.
+shaken	warn	6	Do not ask me about the raid yet.
+shaken	warn	6	Mind the bench leg. It split.
+shaken	warn	6	Watch the second axe. It is loose.
+shaken	warn	6	Do not knock the mead barrel.
+shaken	warn	6	Mind the bandages on the table.
+shaken	warn	6	Watch the horn boy. He is shaken.
+shaken	warn	6	Do not move my axe from the bench.
+shaken	warn	6	Mind the cold. It finds the wounds.

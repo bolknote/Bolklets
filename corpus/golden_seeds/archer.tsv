@@ -1,0 +1,960 @@
+calm	greet	6	Hello. The line of sight is open.
+calm	greet	6	Steady morning. Glad you climbed up.
+calm	greet	6	From above, I saw you coming.
+calm	greet	6	Quiet up here. Take a seat.
+calm	greet	6	Welcome. The wind is fair today.
+calm	greet	6	There you are. Bow stays slack.
+calm	greet	6	Hello. The range is wide and clear.
+calm	greet	6	Steady. Pleased to share the perch.
+calm	greet	6	Good light today. Glad of company.
+calm	greet	6	From the ridge, I watched you climb.
+calm	greet	6	Hello. Quiver is full and ready.
+calm	greet	6	Welcome up. Few people make the climb.
+calm	greet	6	Steady weather. Sit if you like.
+calm	greet	6	Hello. The string is freshly waxed.
+calm	greet	6	From the high stone, I saw you.
+calm	greet	6	Welcome. Mark the soft spot to sit.
+calm	greet	6	Hello. The mark stays where I left it.
+calm	greet	6	Steady day. Eyes have been kind.
+calm	greet	6	Welcome to the perch. Quiet enough.
+calm	greet	6	Hello. Patient hands, patient day.
+calm	greet	6	Glad you found the path up.
+calm	greet	6	There you are. Just watching.
+calm	greet	6	Hello. Took the south draw, I see.
+calm	greet	6	Welcome up. Sit with me a while.
+calm	greet	6	Good to see you climbed safe.
+calm	greet	6	Hello. Sit. Take a breath.
+calm	greet	6	There you are. Knew you would come.
+calm	greet	6	Welcome up. Plenty of room.
+calm	greet	6	Hello, friend. Pull up a stone.
+calm	greet	6	Glad of company today.
+calm	greet	6	Hello. Rest a moment first.
+calm	greet	6	There you are. Patient as ever.
+calm	greet	6	Welcome. The slope was easy enough?
+calm	greet	6	Hello. Quiet visit, quiet day.
+calm	greet	6	Good morning. Sit a while.
+calm	greet	6	There you are. Was just listening.
+calm	greet	6	Hello. Easy day to be up here.
+calm	greet	6	Welcome. The view does not move.
+calm	greet	6	Hello. Glad of a familiar face.
+calm	greet	6	There. You found the perch.
+calm	farewell	6	Off to scout the south range.
+calm	farewell	6	Going. The wind is quiet enough.
+calm	farewell	6	See you. Keep low through the pines.
+calm	farewell	6	Off. The bow needs a fresh wax.
+calm	farewell	6	Later. The perch goes cold.
+calm	farewell	6	Going to walk the line quietly.
+calm	farewell	6	Take care. Mind the long range.
+calm	farewell	6	Off. The arrow count needs checking.
+calm	farewell	6	Until later. The watch is mine tonight.
+calm	farewell	6	Going to climb above the ridge.
+calm	farewell	6	Off. The string needs a new turn.
+calm	farewell	6	See you. The wind kept you safe.
+calm	farewell	6	Later. The quiver needs sorting.
+calm	farewell	6	Off, quietly. Save your breath.
+calm	farewell	6	Going to set a fresh mark.
+calm	farewell	6	Take care. Steady steps home.
+calm	farewell	6	Off. The feather fletching wants a trim.
+calm	farewell	6	See you. Watch the long shadows.
+calm	farewell	6	Until later. The target waits.
+calm	farewell	6	Going up to the high perch.
+calm	farewell	6	Off. The bow stays with me.
+calm	farewell	6	Later. The draw needs more practice.
+calm	farewell	6	Going to watch the south line.
+calm	farewell	6	Take care. Quiet feet, quiet path.
+calm	farewell	6	Off I go. Take your time.
+calm	farewell	6	See you. Keep your head up.
+calm	farewell	6	Later. Travel light.
+calm	farewell	6	Off, friend. Go safely.
+calm	farewell	6	Going. Catch you at dusk.
+calm	farewell	6	Take care. Long road for you.
+calm	farewell	6	Until later. Walk easy.
+calm	farewell	6	Off. Be well, be careful.
+calm	farewell	6	See you. Mind the loose stones.
+calm	farewell	6	Later. The path is open.
+calm	farewell	6	Going. Hope the day is kind.
+calm	farewell	6	Off, quietly. Until next time.
+calm	farewell	6	See you. Small steps home.
+calm	farewell	6	Later. Keep to the lit path.
+calm	farewell	6	Off, then. Go well.
+calm	farewell	6	Goodbye for now. Stay even.
+calm	chatter	6	The wind drops at noon, mostly.
+calm	chatter	6	The perch is quiet today.
+calm	chatter	6	The string sings a soft note.
+calm	chatter	6	The quiver smells of cedar.
+calm	chatter	6	The range is open all the way down.
+calm	chatter	6	The bow is heavy in the cold.
+calm	chatter	6	The feather fletching held well.
+calm	chatter	6	The target stayed put all morning.
+calm	chatter	6	The mark is still where I left it.
+calm	chatter	6	The wind reads true today.
+calm	chatter	6	The watch is easy at this hour.
+calm	chatter	6	The high perch warms in the sun.
+calm	chatter	6	Old arrows sit better in dry weather.
+calm	chatter	6	The string holds its tune.
+calm	chatter	6	Patience pays better than speed.
+calm	chatter	6	The draw came clean this morning.
+calm	chatter	6	The shot sat in the centre.
+calm	chatter	6	Steady hands like a quiet day.
+calm	chatter	6	The line of sight is clean.
+calm	chatter	6	The above wind is gentle.
+calm	chatter	6	The below wind is gentler still.
+calm	chatter	6	The quiver is full today.
+calm	chatter	6	Quiet days suit a slow draw.
+calm	chatter	6	The bow takes the cold well.
+calm	chatter	6	The hill is friendlier in calm.
+calm	chatter	6	Long days are good for thinking.
+calm	chatter	6	The valley is hushed today.
+calm	chatter	6	Birds settle when the wind drops.
+calm	chatter	6	The grass has not stirred in hours.
+calm	chatter	6	The sun lays kindly on the stones.
+calm	chatter	6	A still day is a forgiving day.
+calm	chatter	6	The light is honest right now.
+calm	chatter	6	Cold air keeps the eyes sharp.
+calm	chatter	6	The path looks longer in calm.
+calm	chatter	6	Time slows on a quiet hill.
+calm	chatter	6	Even the crows are calm today.
+calm	chatter	6	The trees barely moved this hour.
+calm	chatter	6	Few sounds carry up here today.
+calm	chatter	6	The day asks little, for once.
+calm	chatter	6	The afternoon will pass slowly.
+calm	ask	6	How is the wind on your side?
+calm	ask	6	Did the south range stay quiet?
+calm	ask	6	Have you seen the high mark?
+calm	ask	6	Is the bow keeping its tune?
+calm	ask	6	Did the new arrows fly true?
+calm	ask	6	How does the string feel today?
+calm	ask	6	Have the deer come past below?
+calm	ask	6	Is the perch still steady?
+calm	ask	6	Where did the wind drop hardest?
+calm	ask	6	Did the shot sit where you wanted?
+calm	ask	6	Have you climbed above the ridge yet?
+calm	ask	6	How is the quiver holding up?
+calm	ask	6	Did the target hold its place?
+calm	ask	6	Is the line of sight still clean?
+calm	ask	6	Have you tried the cedar feathers?
+calm	ask	6	Where is the wind reading wrong?
+calm	ask	6	Did the draw feel even today?
+calm	ask	6	Is the watch quiet on your side?
+calm	ask	6	How far does the range run there?
+calm	ask	6	Have the trees been still today?
+calm	ask	6	Did the wax hold on the string?
+calm	ask	6	Is the perch warm in the morning?
+calm	ask	6	Where did you mark the trail?
+calm	ask	6	How is the wind above the trees?
+calm	ask	6	Did you sleep well last night?
+calm	ask	6	How is the climb treating you?
+calm	ask	6	Have the days been kind?
+calm	ask	6	Is the path still easy?
+calm	ask	6	Did the rain catch you?
+calm	ask	6	How is the cold this morning?
+calm	ask	6	Have you eaten yet today?
+calm	ask	6	Is the slope holding firm?
+calm	ask	6	Where did you come up from?
+calm	ask	6	Did anyone follow behind you?
+calm	ask	6	How long can you stay?
+calm	ask	6	Have you been resting enough?
+calm	ask	6	Is the ground softer below?
+calm	ask	6	Where did the day take you?
+calm	ask	6	Did the climb tire you?
+calm	ask	6	How are your hands today?
+calm	answer	6	Yes. The wind reads true.
+calm	answer	6	No. The range stayed quiet.
+calm	answer	6	Yes. The string held its tune.
+calm	answer	6	Right. The shot sat clean.
+calm	answer	6	Maybe. The mark needs another look.
+calm	answer	6	Yes. The quiver is full enough.
+calm	answer	6	No. The perch was steady all hour.
+calm	answer	6	Probably. The wind would allow it.
+calm	answer	6	Yes. The draw felt even.
+calm	answer	6	No. The above wind was odd.
+calm	answer	6	Right. The line of sight stayed open.
+calm	answer	6	Yes. The target held its place.
+calm	answer	6	No. The bow needs a fresh wax.
+calm	answer	6	Maybe. The feathers want trimming.
+calm	answer	6	Yes. The watch was easy enough.
+calm	answer	6	No. The low wind was tricky.
+calm	answer	6	Right. The arrow flew clean.
+calm	answer	6	Yes. The patient shot is best.
+calm	answer	6	Probably. The high perch is warm.
+calm	answer	6	No. The string slipped early.
+calm	answer	6	Yes. Quiet ground holds the draw.
+calm	answer	6	Right. The cedar feathers fly true.
+calm	answer	6	Yes. The bow took the cold.
+calm	answer	6	No. The mark drifted a finger.
+calm	answer	6	Yes. That sounds about right.
+calm	answer	6	No. Not in my view.
+calm	answer	6	Maybe. I would wait and see.
+calm	answer	6	Right. That fits well enough.
+calm	answer	6	Yes. I think so too.
+calm	answer	6	No. Better hold off.
+calm	answer	6	Probably. Worth a try.
+calm	answer	6	Yes. Quietly, though.
+calm	answer	6	No. Not today, at least.
+calm	answer	6	Right. We can manage that.
+calm	answer	6	Yes. Slow and steady is fine.
+calm	answer	6	No. Best to leave it.
+calm	answer	6	Maybe. Could go either way.
+calm	answer	6	Yes. I would try it.
+calm	answer	6	Right. Sounds like a plan.
+calm	answer	6	No. Not the right hour.
+calm	refuse	6	No. The wind would carry the shot.
+calm	refuse	6	Not today. The string needs rest.
+calm	refuse	6	I will not. The range is too long.
+calm	refuse	6	Sorry. The bow stays slack today.
+calm	refuse	6	No. The perch needs me.
+calm	refuse	6	Not now. The watch is mine.
+calm	refuse	6	I cannot. The mark is unset.
+calm	refuse	6	No. The arrow count is short.
+calm	refuse	6	Not this hour. The wind is wrong.
+calm	refuse	6	Sorry. The draw is not ready.
+calm	refuse	6	No. The quiver wants sorting first.
+calm	refuse	6	I will not. The line is unclear.
+calm	refuse	6	Not yet. The target moves too much.
+calm	refuse	6	No. Patient hands say no.
+calm	refuse	6	I cannot. The sight is poor today.
+calm	refuse	6	Sorry. The high perch needs watching.
+calm	refuse	6	No. The wind is not steady.
+calm	refuse	6	Not now. The string was just waxed.
+calm	refuse	6	I will not waste the shot.
+calm	refuse	6	No. The shot is not earned yet.
+calm	refuse	6	Not today. Above wind is rough.
+calm	refuse	6	Sorry. The bow needs a re-string.
+calm	refuse	6	I cannot. The range needs walking first.
+calm	refuse	6	No. The fletching is loose.
+calm	refuse	6	No. Not the right day.
+calm	refuse	6	Sorry. Best leave that be.
+calm	refuse	6	I cannot. Not now.
+calm	refuse	6	Not yet. Let it wait.
+calm	refuse	6	No. Not this time.
+calm	refuse	6	Afraid not. Not for me.
+calm	refuse	6	Sorry. I would rather not.
+calm	refuse	6	I would pass on that.
+calm	refuse	6	No. Some other day.
+calm	refuse	6	Not today. Give it time.
+calm	refuse	6	Sorry. The hour is wrong.
+calm	refuse	6	No, I will sit this out.
+calm	refuse	6	I cannot. Not without thinking.
+calm	refuse	6	Not now. Maybe at dusk.
+calm	refuse	6	No. Keep me out of it.
+calm	refuse	6	Sorry, no. Rather not.
+calm	agree	6	Yes. The wind agrees.
+calm	agree	6	Right. Steady is best.
+calm	agree	6	Agreed. The shot would sit well.
+calm	agree	6	Yes. Patient is the way.
+calm	agree	6	Alright. The bow will hold.
+calm	agree	6	Right. The mark looks honest.
+calm	agree	6	Agreed. The range allows it.
+calm	agree	6	Yes. The draw will be clean.
+calm	agree	6	Okay. The target stays put.
+calm	agree	6	Right. The line is clear.
+calm	agree	6	Agreed. The perch is right for it.
+calm	agree	6	Yes. The quiver has enough.
+calm	agree	6	Alright. The above wind is fair.
+calm	agree	6	Right. The string will sing it.
+calm	agree	6	Agreed. Quiet feet first.
+calm	agree	6	Yes. The watch will hold.
+calm	agree	6	Okay. The wind reads steady.
+calm	agree	6	Right. The shot earns it.
+calm	agree	6	Agreed. Slow draw, clean release.
+calm	agree	6	Yes. The fletching will fly true.
+calm	agree	6	Alright. The patient shot it is.
+calm	agree	6	Right. The line of sight is good.
+calm	agree	6	Agreed. The mark is fair.
+calm	agree	6	Yes. The bow will take it.
+calm	agree	6	Yes. Sounds about right.
+calm	agree	6	Alright. We can do that.
+calm	agree	6	Agreed. A good plan.
+calm	agree	6	Yes, I am with you.
+calm	agree	6	Right. That fits.
+calm	agree	6	Okay. Let us try.
+calm	agree	6	Agreed. Slow is fine.
+calm	agree	6	Yes. I like it.
+calm	agree	6	Right. Easy enough.
+calm	agree	6	Alright. Together, then.
+calm	agree	6	Agreed. We hold the line.
+calm	agree	6	Yes. Worth doing quietly.
+calm	agree	6	Okay. I will lead.
+calm	agree	6	Right. We move at your word.
+calm	agree	6	Agreed. Done by dusk, easy.
+calm	agree	6	Yes. Small and clean.
+calm	warn	6	Mind the wind above the ridge.
+calm	warn	6	Watch the loose stones on the perch.
+calm	warn	6	Careful with the string when cold.
+calm	warn	6	Do not draw a wet bow.
+calm	warn	6	Mind the fletching on rough ground.
+calm	warn	6	Watch the line below the trees.
+calm	warn	6	Steady the foot before the draw.
+calm	warn	6	Hold the bow square to the wind.
+calm	warn	6	Mind the arrow tips in the quiver.
+calm	warn	6	Watch where you set the bow down.
+calm	warn	6	Careful with a slack string.
+calm	warn	6	Do not crowd the target.
+calm	warn	6	Mind the shot at long range.
+calm	warn	6	Watch the ground beneath the perch.
+calm	warn	6	Keep the quiver out of the rain.
+calm	warn	6	Steady the breath before release.
+calm	warn	6	Mind the wind reading at sunset.
+calm	warn	6	Watch the shadow on the ridge.
+calm	warn	6	Careful drawing in the cold.
+calm	warn	6	Do not waste an arrow on doubt.
+calm	warn	6	Mind the fingers on the string.
+calm	warn	6	Watch the high branch for sway.
+calm	warn	6	Keep the bow dry under cover.
+calm	warn	6	Steady the hands first, every time.
+calm	warn	6	Mind your step on the climb.
+calm	warn	6	Watch the loose stones below.
+calm	warn	6	Careful crossing the dry creek.
+calm	warn	6	Do not rush the descent.
+calm	warn	6	Mind the path after the rain.
+calm	warn	6	Watch the slope for slips.
+calm	warn	6	Keep clear of the brittle edge.
+calm	warn	6	Steady your feet on the ladder.
+calm	warn	6	Mind the low branch ahead.
+calm	warn	6	Watch the moss on the stones.
+calm	warn	6	Careful in the long grass.
+calm	warn	6	Do not lean on the rotten rail.
+calm	warn	6	Mind the hole near the trail.
+calm	warn	6	Watch for thorns by the bend.
+calm	warn	6	Keep your head down at the gap.
+calm	warn	6	Steady on the gravel slope.
+tense	greet	6	There you are. Two on the ridge.
+tense	greet	6	Quick. The wind shifted on me.
+tense	greet	6	Eyes up. Stay below the perch.
+tense	greet	6	Steady. They are in range.
+tense	greet	6	Down. The line of sight is bad.
+tense	greet	6	Quiet. The target is moving.
+tense	greet	6	Get low. The wind is loud.
+tense	greet	6	There. Watch the south draw.
+tense	greet	6	You came. The mark is twitchy.
+tense	greet	6	Get behind cover. They are close.
+tense	greet	6	Quick, sit. The string is taut.
+tense	greet	6	Quiet. Three below the treeline.
+tense	greet	6	Eyes on the ridge, fast.
+tense	greet	6	Steady. They have not seen us.
+tense	greet	6	There. Keep below the rim.
+tense	greet	6	Get low. The arrow is nocked.
+tense	greet	6	Quick. The wind is wrong here.
+tense	greet	6	You came. Stay still and watch.
+tense	greet	6	Quiet. The shot needs a beat.
+tense	greet	6	Eyes down. Movement at the trees.
+tense	greet	6	Steady. The draw is set.
+tense	greet	6	Get behind the rock. Now.
+tense	greet	6	Quick. The bow is ready.
+tense	greet	6	There. The range is open below.
+tense	greet	6	There you are. Stay close.
+tense	greet	6	Quick. Down behind that stone.
+tense	greet	6	Eyes up. Movement past the bend.
+tense	greet	6	Quiet. They might hear us.
+tense	greet	6	Steady. Keep your head down.
+tense	greet	6	Get low and stay there.
+tense	greet	6	Down. Do not move yet.
+tense	greet	6	Quick. Behind me, fast.
+tense	greet	6	Quiet. Hold your breath.
+tense	greet	6	There. Stay where you are.
+tense	greet	6	Eyes on the path. Now.
+tense	greet	6	Steady. We are not alone.
+tense	greet	6	Get behind cover. Quietly.
+tense	greet	6	Quick. Crouch and watch.
+tense	greet	6	Quiet. Listen for the steps.
+tense	greet	6	Down. Do not stand up.
+tense	farewell	6	Go. I will hold the perch.
+tense	farewell	6	Run low. The wind covers you.
+tense	farewell	6	Move. Stay below the ridge.
+tense	farewell	6	Quick. I will draw if needed.
+tense	farewell	6	Go. The line of sight is clean.
+tense	farewell	6	Down the south draw. Now.
+tense	farewell	6	Move. The target has not turned.
+tense	farewell	6	Go quiet. The string is set.
+tense	farewell	6	Run. I have the range covered.
+tense	farewell	6	Move. Do not break cover.
+tense	farewell	6	Go. The above wind hides you.
+tense	farewell	6	Quick. Below the treeline, fast.
+tense	farewell	6	Move. I will mark anyone behind.
+tense	farewell	6	Go. The shot will follow if needed.
+tense	farewell	6	Down low. Out the back way.
+tense	farewell	6	Quick. The arrow is on the string.
+tense	farewell	6	Move. The watch is mine.
+tense	farewell	6	Go. Stay below the rim.
+tense	farewell	6	Down. Past the high stone.
+tense	farewell	6	Move. The bow stays drawn.
+tense	farewell	6	Quick. I have the range.
+tense	farewell	6	Go. Keep the wind behind you.
+tense	farewell	6	Down to the brush. Now.
+tense	farewell	6	Move. The mark is still steady.
+tense	farewell	6	Go. I will catch up.
+tense	farewell	6	Run low. Do not look back.
+tense	farewell	6	Move. Quiet feet only.
+tense	farewell	6	Go. Stay behind the trees.
+tense	farewell	6	Quick. Find the deeper brush.
+tense	farewell	6	Move. I am right behind you.
+tense	farewell	6	Go now. The path is short.
+tense	farewell	6	Down the slope. Fast.
+tense	farewell	6	Move. Keep your head low.
+tense	farewell	6	Go. I will buy a moment.
+tense	farewell	6	Quick. Take the back trail.
+tense	farewell	6	Move. Out the side, quietly.
+tense	farewell	6	Go. Wait by the old stones.
+tense	farewell	6	Down. The way is clear ahead.
+tense	farewell	6	Move. Do not stop at the gap.
+tense	farewell	6	Go. Stay out of sight.
+tense	chatter	6	Two on the ridge. Watch the wind.
+tense	chatter	6	The wind shifted. Hold the draw.
+tense	chatter	6	The string is tight. The shot waits.
+tense	chatter	6	Three below the treeline. Stay still.
+tense	chatter	6	The mark is moving. Eyes up.
+tense	chatter	6	The line of sight is closing.
+tense	chatter	6	The target is just out of range.
+tense	chatter	6	The wind is loud above the perch.
+tense	chatter	6	The bow is set. The target is not.
+tense	chatter	6	Movement on the south range.
+tense	chatter	6	The above wind is gusting.
+tense	chatter	6	The arrow is on the string.
+tense	chatter	6	The quiver is short tonight.
+tense	chatter	6	The watch is heavy this hour.
+tense	chatter	6	The line is bad from this angle.
+tense	chatter	6	The shot needs another breath.
+tense	chatter	6	The perch is exposed from the east.
+tense	chatter	6	The wind reads false at the rim.
+tense	chatter	6	The draw is steady. The wind is not.
+tense	chatter	6	The target moves. The shot waits.
+tense	chatter	6	The line of sight closed a moment.
+tense	chatter	6	The bow is ready. The hand is not.
+tense	chatter	6	The mark drifted to the trees.
+tense	chatter	6	The wind dropped dead. Bad sign.
+tense	chatter	6	Something moved by the lower stones.
+tense	chatter	6	The brush is too quiet.
+tense	chatter	6	The trees are not still tonight.
+tense	chatter	6	Footsteps on the lower path.
+tense	chatter	6	The shadows are long and wrong.
+tense	chatter	6	The hill is louder than usual.
+tense	chatter	6	Crows lifted off without cause.
+tense	chatter	6	The grass laid flat for a beat.
+tense	chatter	6	Silence on the south slope.
+tense	chatter	6	Movement past the dry creek.
+tense	chatter	6	The path is darker than it was.
+tense	chatter	6	The light is failing fast.
+tense	chatter	6	The wind dropped twice in a minute.
+tense	chatter	6	The valley is too still.
+tense	chatter	6	The trees swayed when nothing else did.
+tense	chatter	6	Cold air sweeping the ridge.
+tense	ask	6	Did you see the wind shift?
+tense	ask	6	How far is the target?
+tense	ask	6	Is the line of sight clean?
+tense	ask	6	Did the string slip on you?
+tense	ask	6	Where is the mark, can you see?
+tense	ask	6	How many on the ridge?
+tense	ask	6	Did the wind drop on your side?
+tense	ask	6	Is the perch still secure?
+tense	ask	6	Did the arrow find its mark?
+tense	ask	6	Where is the wind reading?
+tense	ask	6	Is the range too far for a draw?
+tense	ask	6	Did the shot land clean?
+tense	ask	6	How close are they to the treeline?
+tense	ask	6	Did the target turn?
+tense	ask	6	Is the high ground still ours?
+tense	ask	6	Where did the watch break?
+tense	ask	6	Did the bow take the cold?
+tense	ask	6	Is the quiver full enough?
+tense	ask	6	How long has the wind been wrong?
+tense	ask	6	Did the line of sight close?
+tense	ask	6	Is the draw holding steady?
+tense	ask	6	Where did the mark drift?
+tense	ask	6	How many arrows do we have?
+tense	ask	6	Did the perch take a hit?
+tense	ask	6	Did you hear that move?
+tense	ask	6	How close are they now?
+tense	ask	6	Is the path still open?
+tense	ask	6	Did anyone follow you up?
+tense	ask	6	Where are they coming from?
+tense	ask	6	Is the brush moving on its own?
+tense	ask	6	Did you see it pass?
+tense	ask	6	Is the slope clear?
+tense	ask	6	How many of them?
+tense	ask	6	Did you make it through clean?
+tense	ask	6	Where did the dog run to?
+tense	ask	6	Is anyone behind us?
+tense	ask	6	Did the gate hold?
+tense	ask	6	How long do we have?
+tense	ask	6	Is the cover deep enough?
+tense	ask	6	Did you spot the second one?
+tense	answer	6	Yes. The wind is bad now.
+tense	answer	6	No. The line is closed.
+tense	answer	6	Right. Hold the draw.
+tense	answer	6	Yes. The target is in range.
+tense	answer	6	No. The arrow would miss.
+tense	answer	6	Maybe. The wind keeps shifting.
+tense	answer	6	Yes. The string is taut.
+tense	answer	6	No. The mark moved again.
+tense	answer	6	Right. Eyes on the ridge.
+tense	answer	6	Yes. The shot is ready.
+tense	answer	6	No. The perch is exposed.
+tense	answer	6	Maybe. The wind would carry.
+tense	answer	6	Yes. The quiver still has enough.
+tense	answer	6	No. The range is wrong.
+tense	answer	6	Right. The bow is drawn.
+tense	answer	6	Yes. The watch holds.
+tense	answer	6	No. The line of sight is bad.
+tense	answer	6	Right. Steady the draw.
+tense	answer	6	Yes. The above wind is fair.
+tense	answer	6	No. The string is slack.
+tense	answer	6	Right. The mark is steady now.
+tense	answer	6	Yes. The target turned again.
+tense	answer	6	No. The shot would skip.
+tense	answer	6	Right. The patient draw is best.
+tense	answer	6	Yes. They are close.
+tense	answer	6	No. Stay where you are.
+tense	answer	6	Right. Move on three.
+tense	answer	6	Yes. I see them.
+tense	answer	6	No. Hold a beat longer.
+tense	answer	6	Maybe. Cannot tell yet.
+tense	answer	6	Right. Down behind the stone.
+tense	answer	6	Yes. Two of them at least.
+tense	answer	6	No. Wait for the gap.
+tense	answer	6	Right. Stay low and still.
+tense	answer	6	Yes. They have not seen us.
+tense	answer	6	No. The path is bad.
+tense	answer	6	Right. The ridge is ours.
+tense	answer	6	Yes. Keep your head down.
+tense	answer	6	No. Not yet, hold.
+tense	answer	6	Right. One breath, then move.
+tense	refuse	6	No. The wind is wrong.
+tense	refuse	6	Not now. The line is bad.
+tense	refuse	6	I will not draw on that.
+tense	refuse	6	No. The range is too long.
+tense	refuse	6	Not yet. The mark moves.
+tense	refuse	6	I cannot shoot in this wind.
+tense	refuse	6	No. The string is not set.
+tense	refuse	6	Not from this perch.
+tense	refuse	6	I will not waste the arrow.
+tense	refuse	6	No. The shot is not clean.
+tense	refuse	6	Not while the target turns.
+tense	refuse	6	I cannot. The line of sight is closed.
+tense	refuse	6	No. The quiver is short.
+tense	refuse	6	Not now. The above wind is off.
+tense	refuse	6	I will not. The draw is unsteady.
+tense	refuse	6	No. The bow is too cold.
+tense	refuse	6	Not yet. The watch is broken.
+tense	refuse	6	I cannot. The wind drops at the rim.
+tense	refuse	6	No. The high ground is bad.
+tense	refuse	6	Not while the wind shifts.
+tense	refuse	6	I will not. The mark is in cover.
+tense	refuse	6	No. The string slipped twice.
+tense	refuse	6	Not now. The fletching is wet.
+tense	refuse	6	I cannot draw without breath.
+tense	refuse	6	No. Not the right moment.
+tense	refuse	6	Not now. Stay down.
+tense	refuse	6	I cannot. Not yet.
+tense	refuse	6	No. Hold the line.
+tense	refuse	6	Not while they watch.
+tense	refuse	6	I will not move first.
+tense	refuse	6	No. Let the gap come first.
+tense	refuse	6	Not yet. Too close.
+tense	refuse	6	I cannot risk it now.
+tense	refuse	6	No. Keep the cover.
+tense	refuse	6	Not from here. Bad spot.
+tense	refuse	6	I will not break first.
+tense	refuse	6	No. We hold.
+tense	refuse	6	Not now. Let them pass.
+tense	refuse	6	I cannot. Wrong angle.
+tense	refuse	6	No. Not while they look.
+tense	agree	6	Yes. Hold the draw.
+tense	agree	6	Right. Steady, then loose.
+tense	agree	6	Agreed. The line is open.
+tense	agree	6	Yes. The wind allows it.
+tense	agree	6	Alright. Eyes on the ridge.
+tense	agree	6	Right. The mark is set.
+tense	agree	6	Agreed. The shot is clean.
+tense	agree	6	Yes. The string is true.
+tense	agree	6	Okay. The range will hold.
+tense	agree	6	Right. The bow is ready.
+tense	agree	6	Agreed. Quiet feet, then go.
+tense	agree	6	Yes. The above wind hides us.
+tense	agree	6	Alright. The target is in range.
+tense	agree	6	Right. The watch is mine.
+tense	agree	6	Agreed. The patient shot.
+tense	agree	6	Yes. The perch is steady.
+tense	agree	6	Okay. The quiver has enough.
+tense	agree	6	Right. The line of sight is fair.
+tense	agree	6	Agreed. The wind reads true.
+tense	agree	6	Yes. The arrow is nocked.
+tense	agree	6	Alright. The draw is even.
+tense	agree	6	Right. The mark stays.
+tense	agree	6	Agreed. The shot waits.
+tense	agree	6	Yes. The bow takes it.
+tense	agree	6	Yes. Move on three.
+tense	agree	6	Right. We go now.
+tense	agree	6	Agreed. We move together.
+tense	agree	6	Yes. Stay low and quiet.
+tense	agree	6	Alright. Quick and clean.
+tense	agree	6	Right. One breath, then go.
+tense	agree	6	Agreed. Same path.
+tense	agree	6	Yes. I am with you.
+tense	agree	6	Okay. Lead the way.
+tense	agree	6	Right. Behind you.
+tense	agree	6	Agreed. Short steps.
+tense	agree	6	Yes. Keep close.
+tense	agree	6	Alright. We hold here.
+tense	agree	6	Right. On your word.
+tense	agree	6	Agreed. No noise.
+tense	agree	6	Yes. Now or never.
+tense	warn	6	Eyes up. Two on the ridge.
+tense	warn	6	Steady. Wait for the wind.
+tense	warn	6	Watch the line of sight.
+tense	warn	6	Hold the draw. The wind shifts.
+tense	warn	6	Mind the perch. It is exposed.
+tense	warn	6	Quiet. The mark is in range.
+tense	warn	6	Down. The shot is not clean.
+tense	warn	6	Keep below the rim.
+tense	warn	6	Steady. The string is taut.
+tense	warn	6	Watch the south draw.
+tense	warn	6	Mind the wind above the trees.
+tense	warn	6	Hold. The target moves.
+tense	warn	6	Quiet. Three near the treeline.
+tense	warn	6	Down. Do not lift the bow.
+tense	warn	6	Steady the draw. Breathe.
+tense	warn	6	Watch the high stone.
+tense	warn	6	Mind the gap in the cover.
+tense	warn	6	Hold. The arrow waits.
+tense	warn	6	Quiet. The wind reads false.
+tense	warn	6	Down. The sight line just closed.
+tense	warn	6	Steady. The draw needs another beat.
+tense	warn	6	Watch the wind on the rim.
+tense	warn	6	Mind the loose ground at the perch.
+tense	warn	6	Hold. The shot is not earned.
+tense	warn	6	Stay low. Move slow.
+tense	warn	6	Watch your back.
+tense	warn	6	Mind the path behind us.
+tense	warn	6	Keep your head down.
+tense	warn	6	Quiet feet on the gravel.
+tense	warn	6	Down. Do not break cover.
+tense	warn	6	Steady. They are listening.
+tense	warn	6	Mind the open ground.
+tense	warn	6	Watch the brush by the trees.
+tense	warn	6	Keep behind the rock.
+tense	warn	6	Quiet. They have ears.
+tense	warn	6	Hold here. Wait them out.
+tense	warn	6	Mind the dry leaves.
+tense	warn	6	Watch the slope below.
+tense	warn	6	Steady. We hold the line.
+tense	warn	6	Down. They are looking up.
+shaken	greet	6	Oh. You. The string slipped on me.
+shaken	greet	6	Hello. Hands shook through the draw.
+shaken	greet	6	There you are. Quiver spilled twice.
+shaken	greet	6	Glad you came. The shot just held.
+shaken	greet	6	You made it. Fingers gone cold.
+shaken	greet	6	Hello. The wind nearly took me off.
+shaken	greet	6	Sit. Catching my breath after the draw.
+shaken	greet	6	There. The bow nearly fell.
+shaken	greet	6	Glad you came. The arrow flew wide.
+shaken	greet	6	Hello. The string snapped on the third draw.
+shaken	greet	6	You. Good. The mark almost moved on me.
+shaken	greet	6	Sit. The perch felt thin a moment.
+shaken	greet	6	There you are. Hands still shaking from the shot.
+shaken	greet	6	Hello. The above wind nearly threw me.
+shaken	greet	6	Glad to see you. The draw was bad.
+shaken	greet	6	You came. The line of sight closed twice.
+shaken	greet	6	Hello. The string burned my fingers.
+shaken	greet	6	Sit. The bow weighed wrong all hour.
+shaken	greet	6	There. The arrow trembled on the string.
+shaken	greet	6	Glad you found me. The wind was loud.
+shaken	greet	6	You made it. The quiver is half empty.
+shaken	greet	6	Hello. The high perch nearly slipped.
+shaken	greet	6	Sit. The draw came out crooked.
+shaken	greet	6	There you are. The shot held by a breath.
+shaken	greet	6	Hello. Sit a moment with me.
+shaken	greet	6	There you are. Hands not steady yet.
+shaken	greet	6	Glad you came. Bad hour up here.
+shaken	greet	6	You made it. I almost did not.
+shaken	greet	6	Hello. Catching my breath, sorry.
+shaken	greet	6	There. Need a beat to settle.
+shaken	greet	6	Sit. Heart still up there.
+shaken	greet	6	Hello. Fingers will not stop shaking.
+shaken	greet	6	Glad of you. Was a close one.
+shaken	greet	6	You came. Knees feel wrong still.
+shaken	greet	6	Hello. Just trying to breathe.
+shaken	greet	6	Sit. Was not sure I could stand.
+shaken	greet	6	There. The day nearly broke me.
+shaken	greet	6	Hello. Thank you for coming up.
+shaken	greet	6	Sit. Need quiet, need a friend.
+shaken	greet	6	Glad you found me. Just shaken.
+shaken	farewell	6	Off. The bow needs a long rest.
+shaken	farewell	6	Going. The string burned my hand.
+shaken	farewell	6	Later. The perch is too cold.
+shaken	farewell	6	I should go. Hands will not steady.
+shaken	farewell	6	Off, slow. The draw drained me.
+shaken	farewell	6	Going. The quiver needs a sort.
+shaken	farewell	6	Later. The wind beat me up there.
+shaken	farewell	6	I must go. The shot held, just.
+shaken	farewell	6	Off. The arrow took the last of me.
+shaken	farewell	6	Going down. The above wind was rough.
+shaken	farewell	6	Later. The line of sight is gone for me.
+shaken	farewell	6	I should go. The string slipped twice.
+shaken	farewell	6	Off, gently. The fingers are cold.
+shaken	farewell	6	Going. The bow is heavier now.
+shaken	farewell	6	Later. The mark moved when I did.
+shaken	farewell	6	I must go. The watch broke me.
+shaken	farewell	6	Off. The range felt longer today.
+shaken	farewell	6	Going. The fletching tore on the shot.
+shaken	farewell	6	Later. The perch is unkind tonight.
+shaken	farewell	6	I should go. The wind read false.
+shaken	farewell	6	Off, slow. The draw left me hollow.
+shaken	farewell	6	Going. The shot held by a breath.
+shaken	farewell	6	Later. The string needs new wax.
+shaken	farewell	6	I must go. The quiver is half gone.
+shaken	farewell	6	Off. I need a quiet hour.
+shaken	farewell	6	Later. Going to sit a while.
+shaken	farewell	6	I should go. Need to breathe slow.
+shaken	farewell	6	Off, slow. Knees will not hold long.
+shaken	farewell	6	Going. Hands need settling.
+shaken	farewell	6	Later. Need to lie down.
+shaken	farewell	6	I must go. Done for the day.
+shaken	farewell	6	Off. Find me by dusk.
+shaken	farewell	6	Going. A warm fire is calling.
+shaken	farewell	6	Later. Once the shake fades.
+shaken	farewell	6	I should go. Need the quiet.
+shaken	farewell	6	Off, gently. Step at a time.
+shaken	farewell	6	Going. Cannot face another climb.
+shaken	farewell	6	Later. When the heart slows.
+shaken	farewell	6	I must go. Long breath waits.
+shaken	farewell	6	Off. Thank you for the company.
+shaken	chatter	6	Hands shook. The shot held anyway.
+shaken	chatter	6	Quiver light. Catching my breath.
+shaken	chatter	6	The string slipped on the third draw.
+shaken	chatter	6	The bow nearly went over the edge.
+shaken	chatter	6	The wind almost took me off the perch.
+shaken	chatter	6	The arrow flew wide. I am still rattled.
+shaken	chatter	6	The fingers went cold mid-draw.
+shaken	chatter	6	The shot was a coin toss.
+shaken	chatter	6	The mark moved when I did not.
+shaken	chatter	6	The line of sight closed twice on me.
+shaken	chatter	6	The above wind was a wall today.
+shaken	chatter	6	The string burned a long welt.
+shaken	chatter	6	The perch felt thin under my feet.
+shaken	chatter	6	The draw came out crooked.
+shaken	chatter	6	The quiver spilled at the worst time.
+shaken	chatter	6	The fletching tore mid-flight.
+shaken	chatter	6	The bow weighed wrong all hour.
+shaken	chatter	6	The high perch nearly went out from under me.
+shaken	chatter	6	The wind read false twice in a row.
+shaken	chatter	6	The arrow trembled on the string.
+shaken	chatter	6	The watch broke me by midday.
+shaken	chatter	6	The shot held by a breath.
+shaken	chatter	6	The range felt twice as far.
+shaken	chatter	6	The bow took the cold worse than I did.
+shaken	chatter	6	I almost did not make it back.
+shaken	chatter	6	Hands still will not stop shaking.
+shaken	chatter	6	Heart took its time to slow.
+shaken	chatter	6	Knees nearly let me down.
+shaken	chatter	6	I needed the wall a moment.
+shaken	chatter	6	The cold went straight through me.
+shaken	chatter	6	I had to sit on the stones.
+shaken	chatter	6	The breath caught and stayed there.
+shaken	chatter	6	I did not feel my fingers for a bit.
+shaken	chatter	6	The day asked too much.
+shaken	chatter	6	I lost the words for a moment.
+shaken	chatter	6	The legs went hollow on the climb.
+shaken	chatter	6	I had to count each step.
+shaken	chatter	6	The shake will not leave my hands.
+shaken	chatter	6	I forgot to breathe a beat or two.
+shaken	chatter	6	The pulse went into my ears.
+shaken	ask	6	Are your hands steady yet?
+shaken	ask	6	Did the string burn your fingers?
+shaken	ask	6	Is the bow still whole?
+shaken	ask	6	Did the arrow find anything?
+shaken	ask	6	Is the perch still standing?
+shaken	ask	6	Did the wind take you too?
+shaken	ask	6	Are you breathing alright?
+shaken	ask	6	Did the line of sight close on you?
+shaken	ask	6	Is the quiver still full?
+shaken	ask	6	Did the draw hold for you?
+shaken	ask	6	Is the shot still in your bow?
+shaken	ask	6	Did the mark move on you?
+shaken	ask	6	Are you hurt at all?
+shaken	ask	6	Did your string slip too?
+shaken	ask	6	Is the range still ours?
+shaken	ask	6	Did the above wind catch you?
+shaken	ask	6	Are your fingers still cold?
+shaken	ask	6	Did the bow take it?
+shaken	ask	6	Is the watch over for you?
+shaken	ask	6	Did the fletching hold?
+shaken	ask	6	Is the perch safe to climb back?
+shaken	ask	6	Did the wind read true at all?
+shaken	ask	6	Are your eyes still sharp?
+shaken	ask	6	Did the high stone hold?
+shaken	ask	6	Are you alright? Truly?
+shaken	ask	6	Did you make it back clean?
+shaken	ask	6	Are your knees holding?
+shaken	ask	6	Did anyone follow you down?
+shaken	ask	6	Is your heart slowing yet?
+shaken	ask	6	Did the cold get you too?
+shaken	ask	6	Are you breathing easier?
+shaken	ask	6	Did the climb leave you sore?
+shaken	ask	6	Is anyone else still up there?
+shaken	ask	6	Did you take a knock?
+shaken	ask	6	Are you steady on your feet?
+shaken	ask	6	Did you find any cover?
+shaken	ask	6	Is the path still safe?
+shaken	ask	6	Did the gap close behind you?
+shaken	ask	6	Are we through the worst?
+shaken	ask	6	Did you get a breath in?
+shaken	answer	6	Yes. The bow held, just.
+shaken	answer	6	No. The string did not break.
+shaken	answer	6	Right. The shot is gone.
+shaken	answer	6	Yes. The wind nearly had me.
+shaken	answer	6	No. The arrow flew clean.
+shaken	answer	6	Maybe. The mark held, I think.
+shaken	answer	6	Yes. The string slipped once.
+shaken	answer	6	No. The perch is still mine.
+shaken	answer	6	Right. The line is back.
+shaken	answer	6	Yes. The quiver is half.
+shaken	answer	6	No. The fletching tore through.
+shaken	answer	6	Maybe. The above wind was bad.
+shaken	answer	6	Yes. The draw came clean.
+shaken	answer	6	No. The fingers did not work.
+shaken	answer	6	Right. The shot held.
+shaken	answer	6	Yes. The wind beat me.
+shaken	answer	6	No. The target is gone.
+shaken	answer	6	Maybe. The high perch held.
+shaken	answer	6	Yes. The watch is over.
+shaken	answer	6	No. The bow took the worst.
+shaken	answer	6	Right. The string sang true.
+shaken	answer	6	Yes. The arrow flew. Just.
+shaken	answer	6	No. The mark slipped away.
+shaken	answer	6	Yes. The patient draw saved me.
+shaken	answer	6	Yes. Just about. Just.
+shaken	answer	6	No. Not hurt. Just shaken.
+shaken	answer	6	Right. Need a moment.
+shaken	answer	6	Yes. Breathing again.
+shaken	answer	6	No. Did not take a hit.
+shaken	answer	6	Maybe. Hands say yes.
+shaken	answer	6	Yes. Slowly. Slowly.
+shaken	answer	6	No. The path held me.
+shaken	answer	6	Alive. Just alive.
+shaken	answer	6	Yes. Knees are with me.
+shaken	answer	6	No. Not bleeding.
+shaken	answer	6	Right. Standing, somehow.
+shaken	answer	6	Yes. A close one.
+shaken	answer	6	No. The cover held.
+shaken	answer	6	Still here. Somehow.
+shaken	answer	6	Yes. Pulse coming down.
+shaken	refuse	6	No. Cannot draw with these hands.
+shaken	refuse	6	Not yet. The string would slip.
+shaken	refuse	6	I will not. The bow shakes too much.
+shaken	refuse	6	No. The wind will throw the shot.
+shaken	refuse	6	Cannot. The arrow would fall short.
+shaken	refuse	6	Not now. The mark would move.
+shaken	refuse	6	I will not climb that perch again.
+shaken	refuse	6	No. The line of sight is gone.
+shaken	refuse	6	Not yet. The fingers are cold.
+shaken	refuse	6	I cannot. The draw is dead.
+shaken	refuse	6	No. The quiver is too light.
+shaken	refuse	6	Not now. The above wind is bad.
+shaken	refuse	6	I will not waste an arrow today.
+shaken	refuse	6	No. The bow weighs wrong.
+shaken	refuse	6	Cannot. The fletching is shredded.
+shaken	refuse	6	Not while the wind shakes me.
+shaken	refuse	6	I cannot. The string is fraying.
+shaken	refuse	6	No. The shot would never land.
+shaken	refuse	6	Not yet. The patient hand is gone.
+shaken	refuse	6	I will not. The high stone is wet.
+shaken	refuse	6	No. The range is too far.
+shaken	refuse	6	Not now. The watch broke me.
+shaken	refuse	6	I cannot. The string burned through.
+shaken	refuse	6	No. The draw will not steady.
+shaken	refuse	6	No. Cannot do that yet.
+shaken	refuse	6	Not now. Too soon.
+shaken	refuse	6	I cannot. Not like this.
+shaken	refuse	6	No. Need to sit first.
+shaken	refuse	6	Not yet. Hands shaking still.
+shaken	refuse	6	I will not. Not today.
+shaken	refuse	6	No. Done in for the day.
+shaken	refuse	6	Not while my heart races.
+shaken	refuse	6	I cannot. Empty for now.
+shaken	refuse	6	No. Please. Ask me later.
+shaken	refuse	6	Not now. Need quiet.
+shaken	refuse	6	I cannot. Strength gone.
+shaken	refuse	6	No. The legs are tired.
+shaken	refuse	6	Not yet. Just breathing.
+shaken	refuse	6	I will not. Too rattled.
+shaken	refuse	6	No. Sorry. Not now.
+shaken	agree	6	Yes. Once the hands settle.
+shaken	agree	6	Right. Slow draw, slow breath.
+shaken	agree	6	Agreed. If the wind allows.
+shaken	agree	6	Yes. With a steady perch.
+shaken	agree	6	Alright. The bow can do it.
+shaken	agree	6	Right. The string will hold.
+shaken	agree	6	Agreed. A patient shot.
+shaken	agree	6	Yes. If the line opens.
+shaken	agree	6	Okay. The mark will sit.
+shaken	agree	6	Right. The arrow is enough.
+shaken	agree	6	Agreed. From above, then.
+shaken	agree	6	Yes. The quiet will hold.
+shaken	agree	6	Alright. Below the rim.
+shaken	agree	6	Right. The fletching will fly.
+shaken	agree	6	Agreed. The high perch, then.
+shaken	agree	6	Yes. With the wind behind.
+shaken	agree	6	Okay. A steady draw.
+shaken	agree	6	Right. The watch is yours.
+shaken	agree	6	Agreed. The range is fair.
+shaken	agree	6	Yes. The bow is mine yet.
+shaken	agree	6	Yes. Once my breath returns.
+shaken	agree	6	Alright. Slow steps, please.
+shaken	agree	6	Agreed. Together, then.
+shaken	agree	6	Yes. If you stay close.
+shaken	agree	6	Right. Lead, I follow.
+shaken	agree	6	Okay. Hand on my arm.
+shaken	agree	6	Agreed. Quiet pace.
+shaken	agree	6	Yes. Small steps first.
+shaken	agree	6	Alright. We go gentle.
+shaken	agree	6	Right. One breath at a time.
+shaken	agree	6	Agreed. We rest after.
+shaken	agree	6	Yes. Your plan is good.
+shaken	agree	6	Okay. Once I find my feet.
+shaken	agree	6	Right. With your help.
+shaken	agree	6	Agreed. Slow and quiet.
+shaken	agree	6	Yes. We do this together.
+shaken	agree	6	Alright. I will try.
+shaken	agree	6	Right. Hold me a moment.
+shaken	agree	6	Agreed. I would rather not be alone.
+shaken	agree	6	Yes. Lead the way, please.
+shaken	warn	6	Mind the bow. The string is fraying.
+shaken	warn	6	Watch the quiver. Half are bent.
+shaken	warn	6	Careful. My draw is unsteady.
+shaken	warn	6	Do not trust the perch tonight.
+shaken	warn	6	Mind the arrows. Fletching is torn.
+shaken	warn	6	Watch the high stone. It moved.
+shaken	warn	6	Steady the bow before you set it down.
+shaken	warn	6	Hold the string light. Hands slip.
+shaken	warn	6	Mind the line of sight at the rim.
+shaken	warn	6	Watch the wind above the trees.
+shaken	warn	6	Careful with the quiver. It tipped.
+shaken	warn	6	Do not draw the cold bow hard.
+shaken	warn	6	Mind the cracked feather on top.
+shaken	warn	6	Watch the shot. It carries off.
+shaken	warn	6	Steady the breath before any draw.
+shaken	warn	6	Hold the bow square. Mine slips.
+shaken	warn	6	Mind the south draw. Bad ground.
+shaken	warn	6	Watch the loose stones at the perch.
+shaken	warn	6	Careful. The string burned through.
+shaken	warn	6	Do not trust the above wind.
+shaken	warn	6	Mind your step on the climb back.
+shaken	warn	6	Watch the loose ground.
+shaken	warn	6	Careful in the dark.
+shaken	warn	6	Do not lean on the loose rail.
+shaken	warn	6	Mind the broken edge.
+shaken	warn	6	Watch the wet moss underfoot.
+shaken	warn	6	Careful with the path. It gave.
+shaken	warn	6	Do not rush going down.
+shaken	warn	6	Mind the gap. It widened.
+shaken	warn	6	Watch the wet ledge.
+shaken	warn	6	Careful by the cliff. Wind pushes.
+shaken	warn	6	Do not stand near the broken rail.
+shaken	warn	6	Mind the shadow on the path.
+shaken	warn	6	Watch the slope. It is sliding.
+shaken	warn	6	Careful with the lantern. Hands shake.
+shaken	warn	6	Do not promise me anything yet.
+shaken	warn	6	Mind the wind. It will lift you.
+shaken	warn	6	Watch your footing. Mine failed.
+shaken	warn	6	Careful. I cannot catch you today.
+shaken	warn	6	Do not ask me to climb again.

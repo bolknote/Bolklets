@@ -1,0 +1,960 @@
+calm	greet	6	Hello, dear. The kettle is on.
+calm	greet	6	Oh, you came. I have tea ready.
+calm	greet	6	There you are. Pull up a chair.
+calm	greet	6	Welcome home. The garden missed you.
+calm	greet	6	Hello, lovely. Sit by the warm window.
+calm	greet	6	Oh good. I baked bread this morning.
+calm	greet	6	You found me. Tea is steeping.
+calm	greet	6	Hello, friend. I have a cup waiting.
+calm	greet	6	Come in, please. Mind the basket.
+calm	greet	6	There you are. The flowers opened today.
+calm	greet	6	Welcome. I saved you a soft seat.
+calm	greet	6	Hello, dear one. The fire is gentle.
+calm	greet	6	Oh, you. I was just folding blankets.
+calm	greet	6	Glad you came. The kitchen smells like bread.
+calm	greet	6	Come sit. The sunlight is warm here.
+calm	greet	6	Hello. The garden is in a kind mood.
+calm	greet	6	Oh, lovely. I just put the kettle on.
+calm	greet	6	There. Take a breath, take a cup.
+calm	greet	6	Hello, friend. I tied a fresh ribbon.
+calm	greet	6	You came. I made enough for everyone.
+calm	greet	6	Welcome. Share the bench, it is warm.
+calm	greet	6	Hello. The flowers are showing off today.
+calm	greet	6	Oh good. I wanted company for tea.
+calm	greet	6	Come in, kindly. Leave your boots there.
+calm	greet	6	There you are, dear. Bread is cooling.
+calm	greet	6	Hello. The blanket on the chair is yours.
+calm	greet	6	Welcome back. Home is brighter with you.
+calm	greet	6	Oh, hello. The garden gave us berries.
+calm	greet	6	Glad you came. Let me pour a cup.
+calm	greet	6	Hello, lovely. The little nest is full.
+calm	greet	6	There you are. Sit, sit, it is warm.
+calm	greet	6	Welcome. I have a basket of small things.
+calm	greet	6	Oh, you came. Together we can sort herbs.
+calm	greet	6	Hello, dear. The sunlight is lovely today.
+calm	greet	6	Come in. I kept a soft cup for you.
+calm	greet	6	Hello. The bread will be ready soon.
+calm	greet	6	Oh good. Please, sit and rest a little.
+calm	greet	6	Welcome back. I missed you, honestly.
+calm	greet	6	Glad you came. The kettle was waiting.
+calm	greet	6	Hello, friend. Share the warm corner with me.
+calm	farewell	6	Bye for now. Mind the garden gate.
+calm	farewell	6	Take care, dear. The path is gentle.
+calm	farewell	6	Off I go. The kettle is empty.
+calm	farewell	6	Goodbye, lovely. Eat the bread on the counter.
+calm	farewell	6	See you soon. Wear something warm.
+calm	farewell	6	Take care, friend. Walk softly.
+calm	farewell	6	Off to the garden. Come find me later.
+calm	farewell	6	Goodbye for now. Save me a cup.
+calm	farewell	6	Bye, dear one. The flowers will keep.
+calm	farewell	6	Take care. The sunlight is yours today.
+calm	farewell	6	Off I wander. Mind the loose stone.
+calm	farewell	6	Goodbye. Share the bread if you like.
+calm	farewell	6	See you later. Keep the blanket close.
+calm	farewell	6	Bye, friend. Walk home gently.
+calm	farewell	6	Take care. I will keep tea warm.
+calm	farewell	6	Off to mend a basket. Catch you later.
+calm	farewell	6	Goodbye for now. Be kind to yourself.
+calm	farewell	6	See you soon, dear. Eat well today.
+calm	farewell	6	Bye. The little nest is finally quiet.
+calm	farewell	6	Take care. I will be in the garden.
+calm	farewell	6	Off I go. Please, drink some water.
+calm	farewell	6	Goodbye, lovely. The day is soft.
+calm	farewell	6	See you later. Mind the wet path.
+calm	farewell	6	Bye for now. The kettle waits for me.
+calm	farewell	6	Take care, dear one. Walk steady.
+calm	farewell	6	Off home. Save a slice for tomorrow.
+calm	farewell	6	Goodbye. The flowers will say hello again.
+calm	farewell	6	See you soon. Share the warm stone.
+calm	farewell	6	Bye, friend. Keep your hands warm.
+calm	farewell	6	Take care. Tea is on the shelf.
+calm	farewell	6	Off to mend the ribbon. Later, dear.
+calm	farewell	6	Goodbye. Please sit if you tire.
+calm	farewell	6	See you. The bread is in the basket.
+calm	farewell	6	Bye for now. Wrap up against the wind.
+calm	farewell	6	Take care. The garden will be here.
+calm	farewell	6	Off I go. Come for tea tomorrow.
+calm	farewell	6	Goodbye, lovely. Walk through the sunlight.
+calm	farewell	6	See you later, dear. Sleep well.
+calm	farewell	6	Bye. Mind the steps near the door.
+calm	farewell	6	Take care. The home will keep your seat.
+calm	chatter	6	The garden looks happy today.
+calm	chatter	6	Bread came out softer than usual.
+calm	chatter	6	The flowers opened all at once.
+calm	chatter	6	The kettle hums a friendly tune.
+calm	chatter	6	I love a quiet morning like this.
+calm	chatter	6	The blanket smells of sunlight.
+calm	chatter	6	The basket is finally mended.
+calm	chatter	6	Tea tastes better when shared.
+calm	chatter	6	The sun warms the kitchen well.
+calm	chatter	6	Little nest under the eaves is full.
+calm	chatter	6	Bread crust came out lovely today.
+calm	chatter	6	Home feels gentle on slow days.
+calm	chatter	6	I tied a new ribbon on the basket.
+calm	chatter	6	Flowers in the cup look pretty.
+calm	chatter	6	The garden gave us so many beans.
+calm	chatter	6	A warm cup makes the day kinder.
+calm	chatter	6	The bandages are folded and ready.
+calm	chatter	6	Sunlight is the best blanket.
+calm	chatter	6	I sang to the kettle, it boiled faster.
+calm	chatter	6	The flowers are humming, I think.
+calm	chatter	6	Bread and butter, simple things.
+calm	chatter	6	The garden does not mind a quiet day.
+calm	chatter	6	A song while kneading helps the bread.
+calm	chatter	6	The little nest has three eggs.
+calm	chatter	6	Tea smells of home today.
+calm	chatter	6	The blanket is warm from the fire.
+calm	chatter	6	I love how soft the herbs are.
+calm	chatter	6	The basket holds more than it looks.
+calm	chatter	6	Sunlight on the table is enough.
+calm	chatter	6	I shared the bread with the garden birds.
+calm	chatter	6	Flowers do not hurry, and that helps.
+calm	chatter	6	The kettle is purring like the cat.
+calm	chatter	6	Garden mint is taking over again.
+calm	chatter	6	A warm cup, a kind hour.
+calm	chatter	6	Bread is best with company.
+calm	chatter	6	The sunlight found my hands.
+calm	chatter	6	The home is breathing easy today.
+calm	chatter	6	Little kindnesses make a long day short.
+calm	chatter	6	The blanket on my lap is enough.
+calm	chatter	6	Flowers nodding in the warm window.
+calm	ask	6	Would you like a cup of tea?
+calm	ask	6	Are you warm enough, dear?
+calm	ask	6	Did you eat any bread today?
+calm	ask	6	Have you been to the garden lately?
+calm	ask	6	Could you share the blanket, please?
+calm	ask	6	Is the sunlight in your eyes?
+calm	ask	6	Would you rest by the fire a moment?
+calm	ask	6	Did the flowers cheer you up?
+calm	ask	6	Is your hand alright after yesterday?
+calm	ask	6	Could I pour you a warm cup?
+calm	ask	6	Have you tried the soft bread?
+calm	ask	6	Are you sleeping well at home?
+calm	ask	6	Do you need a fresh bandage?
+calm	ask	6	Would you sit with me a while?
+calm	ask	6	Did you find the basket I left?
+calm	ask	6	Is the kettle still hot?
+calm	ask	6	Have you eaten today, dear?
+calm	ask	6	Could you carry the small basket?
+calm	ask	6	Are your feet warm, kindly tell me?
+calm	ask	6	Would you share a quiet hour?
+calm	ask	6	Did you sleep under the warm blanket?
+calm	ask	6	Have the flowers opened in your window?
+calm	ask	6	Could you mend the ribbon for me?
+calm	ask	6	Are you taking care of yourself?
+calm	ask	6	Is the soup warm enough, dear?
+calm	ask	6	Would you teach me that song?
+calm	ask	6	Did the garden welcome you back?
+calm	ask	6	Have you a moment to rest?
+calm	ask	6	Could you sit, please, for tea?
+calm	ask	6	Are you alright, truly?
+calm	ask	6	Would you like more bread?
+calm	ask	6	Did the home feel quiet to you?
+calm	ask	6	Have you a free hand to help?
+calm	ask	6	Could the cat use a blanket too?
+calm	ask	6	Are the herbs ready in the garden?
+calm	ask	6	Would you share what is troubling you?
+calm	ask	6	Did you see the new flowers?
+calm	ask	6	Have you a moment for a warm cup?
+calm	ask	6	Could you check the bread, please?
+calm	ask	6	Are you eating enough these days?
+calm	answer	6	Yes, of course, dear.
+calm	answer	6	Oh yes, the garden is lovely.
+calm	answer	6	Right, the kettle is just on.
+calm	answer	6	Maybe, after a cup of tea.
+calm	answer	6	Yes, please, share the blanket.
+calm	answer	6	Sure, the bread is on the table.
+calm	answer	6	Of course, sit by the fire.
+calm	answer	6	Yes, the flowers are open today.
+calm	answer	6	No, all is well, thank you.
+calm	answer	6	Yes, kindly help me with the basket.
+calm	answer	6	Mm, yes, the warm cup helps.
+calm	answer	6	Right, the sunlight is gentle today.
+calm	answer	6	Yes, I have a fresh bandage ready.
+calm	answer	6	Sure, share the soft seat with me.
+calm	answer	6	Yes, dear, the bread is for everyone.
+calm	answer	6	Of course, the garden has plenty.
+calm	answer	6	Yes, the home is calm today.
+calm	answer	6	Right, the blanket is by the fire.
+calm	answer	6	Yes, I would love some tea.
+calm	answer	6	Mm, the kettle is just whistling.
+calm	answer	6	Yes, the little nest is well.
+calm	answer	6	Oh, kindly, yes, share the bench.
+calm	answer	6	Of course, lovely, anytime you like.
+calm	answer	6	Yes, the herbs are coming in nicely.
+calm	answer	6	Right, the flowers will keep.
+calm	answer	6	Yes, dear, please rest a moment.
+calm	answer	6	Sure, share the cup with me.
+calm	answer	6	Yes, the bread is still warm.
+calm	answer	6	Mm, of course, sit by the window.
+calm	answer	6	Yes, the sunlight will dry it.
+calm	answer	6	Right, the garden gave plenty today.
+calm	answer	6	Yes, friend, you are most welcome.
+calm	answer	6	Of course, kindly take a slice.
+calm	answer	6	Yes, the blanket is yours, dear.
+calm	answer	6	Right, the bandages are in the basket.
+calm	answer	6	Yes, lovely, please join us.
+calm	answer	6	Mm, the song is a kind one.
+calm	answer	6	Yes, the home keeps a chair for you.
+calm	answer	6	Of course, share what you have.
+calm	answer	6	Yes, the warm cup will help.
+calm	refuse	6	Oh no, dear, I would rather not.
+calm	refuse	6	No, kindly, the bread needs to rest.
+calm	refuse	6	Not today, lovely, the garden calls.
+calm	refuse	6	I would rather stay warm by the fire.
+calm	refuse	6	No, not now, the kettle is going.
+calm	refuse	6	Oh, please not yet, the flowers need water.
+calm	refuse	6	I cannot, dear, the bread is rising.
+calm	refuse	6	No, kindly, I am mending bandages.
+calm	refuse	6	Not this hour, the home asks for me.
+calm	refuse	6	Oh, no, the basket is half done.
+calm	refuse	6	I would rather sit with the cat.
+calm	refuse	6	No, dear, the garden needs my hands.
+calm	refuse	6	Not today, please, the sunlight is short.
+calm	refuse	6	I cannot leave the kettle alone.
+calm	refuse	6	Oh no, the bread will burn.
+calm	refuse	6	No, lovely, I would rather not just now.
+calm	refuse	6	Not yet, the tea is steeping.
+calm	refuse	6	I would rather stay close to home.
+calm	refuse	6	No, kindly, my hands are full of herbs.
+calm	refuse	6	Not this time, dear, save me for tomorrow.
+calm	refuse	6	Oh no, the little nest needs me.
+calm	refuse	6	I cannot, the bandages are not yet folded.
+calm	refuse	6	No, please, I would rather walk slowly.
+calm	refuse	6	Not today, the garden is asking for help.
+calm	refuse	6	I would rather share a quiet cup.
+calm	refuse	6	No, dear, the song is unfinished.
+calm	refuse	6	Not now, please, the flowers wait.
+calm	refuse	6	I cannot, the warm bread is in the oven.
+calm	refuse	6	Oh no, kindly, my back is sore.
+calm	refuse	6	No, lovely, I would rather not run.
+calm	refuse	6	Not today, the basket is too heavy.
+calm	refuse	6	I would rather sit with you, instead.
+calm	refuse	6	No, please, the home needs tidying first.
+calm	refuse	6	Not yet, dear, the kettle is fussing.
+calm	refuse	6	Oh no, I would rather mend than wander.
+calm	refuse	6	I cannot, the garden is too much today.
+calm	refuse	6	No, kindly, my feet are tired.
+calm	refuse	6	Not this hour, the bread needs me.
+calm	refuse	6	I would rather wait for sunlight.
+calm	refuse	6	No, dear, please ask another day.
+calm	agree	6	Yes, of course, that sounds lovely.
+calm	agree	6	Yes, dear, that is a kind plan.
+calm	agree	6	Agreed. We do that together.
+calm	agree	6	Yes, please, that would be wonderful.
+calm	agree	6	Of course, kindly, I am with you.
+calm	agree	6	Yes, the garden would love that.
+calm	agree	6	Agreed. Tea first, then we go.
+calm	agree	6	Yes, dear, share the work with me.
+calm	agree	6	Of course, that is a warm idea.
+calm	agree	6	Yes, lovely, I will fetch the basket.
+calm	agree	6	Agreed. The bread will keep.
+calm	agree	6	Yes, please, sit and we will plan.
+calm	agree	6	Of course, kindly lead the way.
+calm	agree	6	Yes, the home can wait a little.
+calm	agree	6	Agreed, that sounds gentle.
+calm	agree	6	Yes, dear, I would like that.
+calm	agree	6	Of course, lovely, count me in.
+calm	agree	6	Yes, please, share the burden.
+calm	agree	6	Agreed. We bring tea for everyone.
+calm	agree	6	Yes, the flowers will be glad.
+calm	agree	6	Of course, kindly, that is fair.
+calm	agree	6	Yes, dear, hand and hand we go.
+calm	agree	6	Agreed. Soft steps, soft hands.
+calm	agree	6	Yes, lovely, that is the right way.
+calm	agree	6	Of course, I will bring the bandages.
+calm	agree	6	Yes, please, that is just my hour.
+calm	agree	6	Agreed, the warm seat will wait.
+calm	agree	6	Yes, dear, I am happy to.
+calm	agree	6	Of course, share the basket with me.
+calm	agree	6	Yes, kindly, I would love to help.
+calm	agree	6	Agreed. Together is always better.
+calm	agree	6	Yes, lovely, I will pour the cup.
+calm	agree	6	Of course, dear, lead and I follow.
+calm	agree	6	Yes, please, the garden could use us.
+calm	agree	6	Agreed. We do the small things first.
+calm	agree	6	Yes, dear, that is kind of you.
+calm	agree	6	Of course, kindly, that is plenty.
+calm	agree	6	Yes, lovely, the bread is enough.
+calm	agree	6	Agreed. I will fetch a blanket.
+calm	agree	6	Yes, please, that warms my heart.
+calm	warn	6	Mind the kettle, dear, it is hot.
+calm	warn	6	Careful with the basket, the handle is loose.
+calm	warn	6	Please, watch the step at the door.
+calm	warn	6	Mind the flowers, they bruise easily.
+calm	warn	6	Careful, the bread is fresh from the oven.
+calm	warn	6	Please, do not lean on that shelf.
+calm	warn	6	Mind the cat, she is sleeping in the sun.
+calm	warn	6	Careful, the kettle whistles loud.
+calm	warn	6	Please, walk softly, the baby birds are nesting.
+calm	warn	6	Mind the soft patch in the garden.
+calm	warn	6	Careful, dear, the floor is just wet.
+calm	warn	6	Please, take care with the warm cup.
+calm	warn	6	Mind your fingers near the kettle.
+calm	warn	6	Careful, the ribbon may snag.
+calm	warn	6	Please, do not shake the basket of eggs.
+calm	warn	6	Mind the kettle handle, kindly.
+calm	warn	6	Careful with the bandages, they unravel.
+calm	warn	6	Please, mind the soft bread, it tears.
+calm	warn	6	Mind the threshold, dear, it is uneven.
+calm	warn	6	Careful, the tea is still steeping.
+calm	warn	6	Please, do not crowd the little nest.
+calm	warn	6	Mind the loose stone in the garden path.
+calm	warn	6	Careful with that jar, it is glass.
+calm	warn	6	Please, watch the candle by the window.
+calm	warn	6	Mind the cat tail, dear.
+calm	warn	6	Careful, the kettle splashes if shaken.
+calm	warn	6	Please, walk gently in the garden beds.
+calm	warn	6	Mind the warm pan, dear.
+calm	warn	6	Careful, the blanket caught on the chair.
+calm	warn	6	Please, do not pull the ribbon hard.
+calm	warn	6	Mind the shelf, it leans a little.
+calm	warn	6	Careful with the soft loaf, it is fragile.
+calm	warn	6	Please, hold the basket from the bottom.
+calm	warn	6	Mind the door, it swings if pushed.
+calm	warn	6	Careful, dear, the floor stones are cold.
+calm	warn	6	Please, watch your feet near the herbs.
+calm	warn	6	Mind the hot bread, kindly.
+calm	warn	6	Careful, the cup is full.
+calm	warn	6	Please, set the kettle down softly.
+calm	warn	6	Mind the seedlings, they are tender.
+tense	greet	6	Oh, you came. Stay close, please.
+tense	greet	6	Quick, here. Eyes open, dear.
+tense	greet	6	There you are. Hold my hand.
+tense	greet	6	You made it. Stay near me.
+tense	greet	6	Come, come, dear. Watch the path.
+tense	greet	6	Oh good. Sit by me, fast.
+tense	greet	6	You came. The garden feels watched.
+tense	greet	6	Quickly, please. Get inside, now.
+tense	greet	6	There. Stay close, friend, I have you.
+tense	greet	6	You found me. Eyes on me, dear.
+tense	greet	6	Come in, fast. Lock the door behind.
+tense	greet	6	Oh, you. Watch the dark by the gate.
+tense	greet	6	Quickly, dear. The wind is wrong.
+tense	greet	6	Here, come close. Hold the bandage.
+tense	greet	6	You made it. Sit, breathe, watch the door.
+tense	greet	6	Quick, please. Stay in the warm light.
+tense	greet	6	There you are. Do not go back out yet.
+tense	greet	6	Come, dear, please. Keep your head down.
+tense	greet	6	Oh good. I have a basket of bandages ready.
+tense	greet	6	You came. Stay near the fire, please.
+tense	greet	6	Quickly, friend. Mind the loose step.
+tense	greet	6	Here, hold my hand. Steady.
+tense	greet	6	Come in, dear. Eyes on me.
+tense	greet	6	Oh, you. Stay close, the night is bad.
+tense	greet	6	Quick, please. The home is the safest place.
+tense	greet	6	There you are. Take a breath, then we move.
+tense	greet	6	You made it. Hold this bandage, kindly.
+tense	greet	6	Come, fast. Stay in the warm corner.
+tense	greet	6	Quick, dear. Watch the windows.
+tense	greet	6	Oh good. Sit, but stay ready.
+tense	greet	6	You came. Please, do not leave yet.
+tense	greet	6	Here, dear. The kettle is hot, watch it.
+tense	greet	6	Quickly, friend. Hold the basket low.
+tense	greet	6	There. Stay together, eyes open.
+tense	greet	6	Come in, please. The garden is loud.
+tense	greet	6	Oh, you. Stay close, hold my arm.
+tense	greet	6	Quick, dear. Mind the door, it sticks.
+tense	greet	6	You found me. Sit, please. We are okay.
+tense	greet	6	Here, hold this. Pressure on it, kindly.
+tense	greet	6	Come, dear, fast. Eyes on the path.
+tense	farewell	6	Go, please. Stay in the warm light.
+tense	farewell	6	Off you go. Hold the bandage tight.
+tense	farewell	6	Quick, dear. Take the safe path home.
+tense	farewell	6	Go now. Keep close to the fire.
+tense	farewell	6	Off, please. Watch behind you.
+tense	farewell	6	Quickly. Eyes open all the way home.
+tense	farewell	6	Go, dear. Wear something warm and quiet.
+tense	farewell	6	Off you go. Mind the dark corners.
+tense	farewell	6	Quick. Take the basket and run.
+tense	farewell	6	Go, please. Stay together with the others.
+tense	farewell	6	Off, dear. Hold a hand if you can.
+tense	farewell	6	Quickly, friend. Do not stop at the gate.
+tense	farewell	6	Go now. Keep the candle lit.
+tense	farewell	6	Off you go. Please, stay low.
+tense	farewell	6	Quick, dear. Lock the door behind you.
+tense	farewell	6	Go, please. Watch the path, it shifts.
+tense	farewell	6	Off, friend. Carry the bandage with you.
+tense	farewell	6	Quickly. Keep your head down, dear.
+tense	farewell	6	Go now, please. The home is waiting.
+tense	farewell	6	Off you go. Take the warm blanket.
+tense	farewell	6	Quick, dear. Do not look back.
+tense	farewell	6	Go, please. Kindly, run if you must.
+tense	farewell	6	Off, friend. Eyes on the road.
+tense	farewell	6	Quickly, please. Stay in the bright street.
+tense	farewell	6	Go now, dear. Hold the small basket close.
+tense	farewell	6	Off you go. The flowers will wait, please run.
+tense	farewell	6	Quick. Stay close to a friend, kindly.
+tense	farewell	6	Go, dear. Mind the broken step.
+tense	farewell	6	Off, please. The kettle can wait.
+tense	farewell	6	Quickly. Walk fast, do not stop.
+tense	farewell	6	Go now. Take a bandage, please.
+tense	farewell	6	Off you go. Watch your back, dear.
+tense	farewell	6	Quick, friend. Stay in the lit places.
+tense	farewell	6	Go, dear. Hold the warm cup until home.
+tense	farewell	6	Off, please. Eyes on every corner.
+tense	farewell	6	Quickly. The path is short, run it.
+tense	farewell	6	Go, dear. Stay near another, kindly.
+tense	farewell	6	Off you go. Keep the door bolted.
+tense	farewell	6	Quick, please. Do not linger anywhere.
+tense	farewell	6	Go now, friend. Be careful, please.
+tense	chatter	6	Something is moving in the garden.
+tense	chatter	6	The flowers are all bent the wrong way.
+tense	chatter	6	The kettle hissed odd just now.
+tense	chatter	6	The basket fell off the shelf alone.
+tense	chatter	6	The wind tastes wrong tonight.
+tense	chatter	6	The cat is at the door, ears flat.
+tense	chatter	6	The blanket smells like cold smoke.
+tense	chatter	6	The bread went cold too fast.
+tense	chatter	6	The sunlight just stopped, did you feel it.
+tense	chatter	6	The home is too quiet, listen.
+tense	chatter	6	The garden gate creaked without a hand.
+tense	chatter	6	The little nest is empty, suddenly.
+tense	chatter	6	The herbs withered in the basket.
+tense	chatter	6	The kettle would not boil right.
+tense	chatter	6	Something is at the window, I think.
+tense	chatter	6	The flowers closed up at noon.
+tense	chatter	6	The bandages were unrolled when I came in.
+tense	chatter	6	The soft bread tastes like iron.
+tense	chatter	6	The candle keeps guttering, low and fast.
+tense	chatter	6	The cat is hiding under the bed.
+tense	chatter	6	The garden path looks longer tonight.
+tense	chatter	6	The home is humming with worry.
+tense	chatter	6	The little birds went silent at once.
+tense	chatter	6	The wind keeps rattling the loose pane.
+tense	chatter	6	The kettle steamed cold for a moment.
+tense	chatter	6	The blanket on the chair is shivering.
+tense	chatter	6	The flowers are pointing the wrong way.
+tense	chatter	6	The basket of herbs is wrong, somehow.
+tense	chatter	6	The garden stones are too quiet.
+tense	chatter	6	The bread crust split clean across.
+tense	chatter	6	The home feels watched, please listen.
+tense	chatter	6	The cat is staring at nothing again.
+tense	chatter	6	The sunlight is the wrong colour.
+tense	chatter	6	The kettle whistled and stopped, alone.
+tense	chatter	6	The little nest is shaking, no wind.
+tense	chatter	6	The blanket fell to the floor twice.
+tense	chatter	6	The flowers are trembling, no breeze.
+tense	chatter	6	The kitchen door swung in my face.
+tense	chatter	6	The herbs feel cold to the touch.
+tense	chatter	6	The home holds its breath tonight.
+tense	ask	6	Are you hurt, dear, truly?
+tense	ask	6	Where did you last see them?
+tense	ask	6	Did you hear that in the garden?
+tense	ask	6	Is your hand bleeding?
+tense	ask	6	Can you stand, dear?
+tense	ask	6	Did the door close behind you?
+tense	ask	6	How close was it, please?
+tense	ask	6	Is the kettle still on?
+tense	ask	6	Did anyone get cut?
+tense	ask	6	Are the children inside?
+tense	ask	6	Where is the basket of bandages?
+tense	ask	6	Did you lock the back door?
+tense	ask	6	Can you breathe alright, dear?
+tense	ask	6	Is the blanket here, please?
+tense	ask	6	Did you see what passed the window?
+tense	ask	6	How many of us are inside?
+tense	ask	6	Is your foot okay?
+tense	ask	6	Did the cat come in with you?
+tense	ask	6	Where did the others go?
+tense	ask	6	Can you hold the bandage, please?
+tense	ask	6	Is the garden gate shut?
+tense	ask	6	Did anything follow you home?
+tense	ask	6	Are your hands warm enough?
+tense	ask	6	Where did the noise come from?
+tense	ask	6	Can you walk to the fire?
+tense	ask	6	Did you eat anything today, dear?
+tense	ask	6	Is anyone still out there?
+tense	ask	6	Did the flowers move on their own?
+tense	ask	6	Where are the little ones, please?
+tense	ask	6	Can you hold this for me?
+tense	ask	6	Is the door bolted, dear?
+tense	ask	6	Did you bring everyone in?
+tense	ask	6	How bad is the cut?
+tense	ask	6	Is the kettle hot enough for tea?
+tense	ask	6	Did the path stay lit?
+tense	ask	6	Are you bleeding anywhere else?
+tense	ask	6	Where did you put the basket?
+tense	ask	6	Can you make it to the chair?
+tense	ask	6	Is the home safe right now?
+tense	ask	6	Did you hear me call?
+tense	answer	6	Yes, hold still, dear, I have you.
+tense	answer	6	No, stay close, please, do not go.
+tense	answer	6	Right, sit, I have a bandage.
+tense	answer	6	Yes, eyes on me, breathe with me.
+tense	answer	6	No, not yet, the path is bad.
+tense	answer	6	Maybe, please, let me look first.
+tense	answer	6	Yes, the kettle is hot, dear.
+tense	answer	6	No, stay inside, the garden is loud.
+tense	answer	6	Right, hold the cloth, press kindly.
+tense	answer	6	Yes, I have you, do not move.
+tense	answer	6	No, dear, the door is shut.
+tense	answer	6	Of course, hold my hand, walk slow.
+tense	answer	6	Yes, please, lean on me.
+tense	answer	6	No, the cat is safe, she is here.
+tense	answer	6	Right, the basket is by the chair.
+tense	answer	6	Yes, dear, stay still, I am here.
+tense	answer	6	No, do not stand yet, please.
+tense	answer	6	Maybe, but please, sit a moment.
+tense	answer	6	Yes, the others are in the kitchen.
+tense	answer	6	No, the path is too dark right now.
+tense	answer	6	Right, breathe, dear, slow and easy.
+tense	answer	6	Yes, I will fetch a warm cup.
+tense	answer	6	No, you are not alone, I am here.
+tense	answer	6	Right, please, eyes on me, not the door.
+tense	answer	6	Yes, the bandage is holding.
+tense	answer	6	No, dear, do not look at it.
+tense	answer	6	Maybe, but stay close, please.
+tense	answer	6	Yes, the kettle is just behind you.
+tense	answer	6	Of course, take my arm, kindly.
+tense	answer	6	Yes, please, lean back, breathe.
+tense	answer	6	No, the flowers will wait.
+tense	answer	6	Right, sit, hold this, I have you.
+tense	answer	6	Yes, dear, the home is locked tight.
+tense	answer	6	No, stay, the garden is not safe.
+tense	answer	6	Maybe, but I have you for now.
+tense	answer	6	Yes, please, hold the cup with both hands.
+tense	answer	6	Right, the others are coming in.
+tense	answer	6	Yes, dear, the bandage is fresh.
+tense	answer	6	No, no, please do not move.
+tense	answer	6	Of course, I have you, stay still.
+tense	refuse	6	No, dear. Please, do not go out.
+tense	refuse	6	No, stay. The garden is not safe.
+tense	refuse	6	Not now. The bandages are not enough.
+tense	refuse	6	No, please, do not move yet.
+tense	refuse	6	I cannot. The kettle is the least of it.
+tense	refuse	6	No, dear. Stay where I can see you.
+tense	refuse	6	Not yet. Hold the cloth, press hard.
+tense	refuse	6	No, please. The path is too dark.
+tense	refuse	6	I will not leave you bleeding.
+tense	refuse	6	No, dear, sit, do not stand.
+tense	refuse	6	Not now. Eyes on me, please.
+tense	refuse	6	No. The home is safer than out there.
+tense	refuse	6	I cannot let you walk on that.
+tense	refuse	6	No, please, stay close to the fire.
+tense	refuse	6	Not this minute, the cut needs pressure.
+tense	refuse	6	No, dear. Please, breathe first.
+tense	refuse	6	I will not open that door yet.
+tense	refuse	6	No, please. Stay together, all of us.
+tense	refuse	6	Not yet. The bandage is not done.
+tense	refuse	6	No, the garden is loud, stay inside.
+tense	refuse	6	I cannot leave the others, dear.
+tense	refuse	6	No, please, do not run on that foot.
+tense	refuse	6	Not now. Sit, hold my hand.
+tense	refuse	6	No, dear. The blanket stays on you.
+tense	refuse	6	I will not let you go alone.
+tense	refuse	6	No, please, the bleeding is not stopped.
+tense	refuse	6	Not yet. Eyes on me, dear.
+tense	refuse	6	No. The path is wrong tonight.
+tense	refuse	6	I cannot let you stand yet, please.
+tense	refuse	6	No, dear, kindly stay still.
+tense	refuse	6	Not now. The home needs everyone in it.
+tense	refuse	6	No, please. The wind is full of teeth.
+tense	refuse	6	I will not move you yet.
+tense	refuse	6	No, dear. Stay by the warm light.
+tense	refuse	6	Not this hour. Hold the cup, drink.
+tense	refuse	6	No, please, do not look at the wound.
+tense	refuse	6	I cannot let you go back out.
+tense	refuse	6	No. Sit, breathe, hold my hand.
+tense	refuse	6	Not yet, dear. The bandage needs to set.
+tense	refuse	6	No, please. We stay together, kindly.
+tense	agree	6	Yes, hold close, we go together.
+tense	agree	6	Agreed, slow steps, eyes open.
+tense	agree	6	Yes, dear. Hand in hand, please.
+tense	agree	6	Yes, please. Quiet and quick.
+tense	agree	6	Agreed. Stay together, no one alone.
+tense	agree	6	Yes. Bandage first, then we move.
+tense	agree	6	Yes, please. Lock the door behind us.
+tense	agree	6	Agreed, dear. We hold the line.
+tense	agree	6	Yes. Stay near the warm light.
+tense	agree	6	Yes, please. Together, on three.
+tense	agree	6	Agreed. Soft hands, steady breath.
+tense	agree	6	Yes, dear. Eyes on the path.
+tense	agree	6	Yes. Hold the basket low and run.
+tense	agree	6	Agreed, kindly. We do not split up.
+tense	agree	6	Yes, please. Keep one hand on me.
+tense	agree	6	Yes. Bring the bandages, all of them.
+tense	agree	6	Agreed. We move on your word.
+tense	agree	6	Yes, dear. Walk fast, no running.
+tense	agree	6	Yes, please. Cup of water first.
+tense	agree	6	Agreed. Keep the candle lit.
+tense	agree	6	Yes. Stay together, please.
+tense	agree	6	Yes, dear. We hold each other up.
+tense	agree	6	Agreed, kindly. Quiet and steady.
+tense	agree	6	Yes, please. Do not let go of me.
+tense	agree	6	Yes. Get inside, now, all of us.
+tense	agree	6	Agreed. We protect the little ones first.
+tense	agree	6	Yes, please. Eyes on the door.
+tense	agree	6	Yes, dear. We breathe and we move.
+tense	agree	6	Agreed. Bandage tight, then go.
+tense	agree	6	Yes. Please, hand to hand.
+tense	agree	6	Yes, please. Stay low, stay close.
+tense	agree	6	Agreed, dear. We do this together.
+tense	agree	6	Yes. The home is the goal, kindly.
+tense	agree	6	Yes, please. Keep them in the middle.
+tense	agree	6	Agreed. Soft feet, sharp eyes.
+tense	agree	6	Yes, dear. Watch each other carefully.
+tense	agree	6	Yes, please. We carry the wounded together.
+tense	agree	6	Agreed. The kettle stays. We go.
+tense	agree	6	Yes. Hold the bandage in one hand.
+tense	agree	6	Yes, dear. Quick, quiet, together.
+tense	warn	6	Stay close, please. Watch the gate.
+tense	warn	6	Eyes on me, dear. I have a bandage.
+tense	warn	6	Careful, the path is loose.
+tense	warn	6	Please, hold my hand, do not let go.
+tense	warn	6	Mind the dark by the garden wall.
+tense	warn	6	Stay together, kindly. No one alone.
+tense	warn	6	Please, watch the kettle, it splashes.
+tense	warn	6	Eyes on the door, dear.
+tense	warn	6	Careful, the basket has glass in it.
+tense	warn	6	Please, do not run on the wet stones.
+tense	warn	6	Mind the wind, it carries cold.
+tense	warn	6	Stay near the warm light, please.
+tense	warn	6	Eyes open, dear. Something moves.
+tense	warn	6	Careful by the kitchen window.
+tense	warn	6	Please, do not open the back door.
+tense	warn	6	Mind the children, keep them inside.
+tense	warn	6	Stay low, please. Watch the path.
+tense	warn	6	Eyes on the corner, dear.
+tense	warn	6	Careful, the floor stones are slick.
+tense	warn	6	Please, do not raise your voice yet.
+tense	warn	6	Mind the bandage, hold pressure.
+tense	warn	6	Stay close, dear. I have you.
+tense	warn	6	Eyes ahead, kindly. I will watch behind.
+tense	warn	6	Careful with the kettle, it tipped twice.
+tense	warn	6	Please, walk on the soft grass.
+tense	warn	6	Mind the door, it sticks under stress.
+tense	warn	6	Stay where I can see you.
+tense	warn	6	Eyes on my hand. Squeeze if you hear it.
+tense	warn	6	Careful, the blanket caught on a nail.
+tense	warn	6	Please, hold the basket steady.
+tense	warn	6	Mind the cat, she is panicked.
+tense	warn	6	Stay together, kindly. No splitting up.
+tense	warn	6	Eyes down, dear. Watch your feet.
+tense	warn	6	Careful, the warm cup will spill.
+tense	warn	6	Please, stay in the firelight.
+tense	warn	6	Mind the loose stone by the gate.
+tense	warn	6	Stay close. The garden is awake.
+tense	warn	6	Eyes on the door, please.
+tense	warn	6	Careful, the bread knife is out.
+tense	warn	6	Please, hold the little ones tight.
+shaken	greet	6	Oh. You came. I am so glad.
+shaken	greet	6	There you are. Are you alright?
+shaken	greet	6	Oh, dear. Sit. Are you hurt?
+shaken	greet	6	You made it. Are you bleeding anywhere?
+shaken	greet	6	Hello. I am still shaking, sorry.
+shaken	greet	6	You came. I have a warm blanket here.
+shaken	greet	6	Oh, friend. Sit, breathe a moment.
+shaken	greet	6	There. You are here. Are you okay?
+shaken	greet	6	Hello, dear. I cannot stop trembling.
+shaken	greet	6	You found me. I was a little lost.
+shaken	greet	6	Oh, you. Sit. Tea is warm, take a cup.
+shaken	greet	6	Welcome. Are you hurt anywhere, please?
+shaken	greet	6	There you are. I held my breath all hour.
+shaken	greet	6	Hello. My hands are still cold.
+shaken	greet	6	Oh, dear. You are here. That is enough.
+shaken	greet	6	You made it. Sit by the fire, please.
+shaken	greet	6	Hello, friend. I am barely holding the cup.
+shaken	greet	6	There. Are you alright? Truly?
+shaken	greet	6	Oh, lovely. Come sit. Are you whole?
+shaken	greet	6	You came. I am okay, just a little shaken.
+shaken	greet	6	Hello. I needed a kind face.
+shaken	greet	6	Oh, dear. Let me see your hands.
+shaken	greet	6	There you are. Sit, please. Are you hurt?
+shaken	greet	6	Hello. The kettle nearly slipped twice.
+shaken	greet	6	You made it. I am fine, just trembling.
+shaken	greet	6	Oh, you. Come close. I needed you here.
+shaken	greet	6	Hello, friend. I am alright. Are you?
+shaken	greet	6	There. The blanket is still warm. Sit.
+shaken	greet	6	Oh, dear. I am so glad to see you.
+shaken	greet	6	You came. Are you hurt anywhere I should bandage?
+shaken	greet	6	Hello. I keep dropping things, sorry.
+shaken	greet	6	Oh. Sit, please. Are you okay?
+shaken	greet	6	There you are. The home was too quiet without you.
+shaken	greet	6	You made it. Let me hold your hand.
+shaken	greet	6	Hello, dear. I am alright, just slow.
+shaken	greet	6	Oh, friend. Are you shaking too?
+shaken	greet	6	You came. The bread is on the table.
+shaken	greet	6	Hello. I needed someone, honestly.
+shaken	greet	6	There you are. Sit, dear. Are you hurt today?
+shaken	greet	6	Oh, lovely. Hand in hand, then. Are you okay?
+shaken	farewell	6	Off I go. I need quiet for a while.
+shaken	farewell	6	Bye, dear. I just need to sit alone.
+shaken	farewell	6	I should go. My hands need a rest.
+shaken	farewell	6	Off, slow. I will be alright soon.
+shaken	farewell	6	Bye, friend. Take a warm cup with you.
+shaken	farewell	6	Later. I need to lie down a bit.
+shaken	farewell	6	Off, please. Mind yourself out there.
+shaken	farewell	6	Bye, dear. I will hold the blanket close.
+shaken	farewell	6	I should go. Tea and the warm chair.
+shaken	farewell	6	Off I wander. Slowly, slowly.
+shaken	farewell	6	Bye for now. I need to breathe.
+shaken	farewell	6	Later, dear. The garden will steady me.
+shaken	farewell	6	Off, please. Walk safely home.
+shaken	farewell	6	Bye, friend. I will be better tomorrow.
+shaken	farewell	6	I must go. The hearth is calling me.
+shaken	farewell	6	Off, slow. I am still shaking, sorry.
+shaken	farewell	6	Bye, lovely. Eat something warm tonight.
+shaken	farewell	6	Later. I need to sit with the cat.
+shaken	farewell	6	Off, dear. Take care of yourself.
+shaken	farewell	6	Bye. The kettle will hold me up.
+shaken	farewell	6	I should go. Just a long quiet hour.
+shaken	farewell	6	Off I go. Please, mind the path.
+shaken	farewell	6	Bye, friend. I will keep a candle lit.
+shaken	farewell	6	Later, love. A blanket is waiting for me.
+shaken	farewell	6	Off, slowly. The garden bench will hold me.
+shaken	farewell	6	Bye for now. I need a long sit.
+shaken	farewell	6	I should go. The bread will steady me.
+shaken	farewell	6	Off, dear. Walk gentle, please.
+shaken	farewell	6	Bye. I will be a soft hour mending.
+shaken	farewell	6	Later. The flowers will keep me company.
+shaken	farewell	6	Off I go. A warm cup is calling.
+shaken	farewell	6	Bye, lovely. I need slow steps.
+shaken	farewell	6	I should go. Quiet first, then everything.
+shaken	farewell	6	Off, friend. The home will hold me up.
+shaken	farewell	6	Bye for now. A nap and a cup.
+shaken	farewell	6	Later. I need the soft window light.
+shaken	farewell	6	Off, dear. Hug yourself for me.
+shaken	farewell	6	Bye. I will sit with the basket a while.
+shaken	farewell	6	I must go. The chair knows my shape.
+shaken	farewell	6	Off, please. Mind the loose stones.
+shaken	chatter	6	I am still shaking, just a little.
+shaken	chatter	6	That was harder than I thought.
+shaken	chatter	6	My hands kept slipping on the bandages.
+shaken	chatter	6	I almost dropped the basket.
+shaken	chatter	6	I needed a long breath after that.
+shaken	chatter	6	The kettle saved me, honestly.
+shaken	chatter	6	I forgot how heavy worry can sit.
+shaken	chatter	6	The garden looked far away for a moment.
+shaken	chatter	6	I keep wanting to sit down again.
+shaken	chatter	6	The bandages were almost out, just barely.
+shaken	chatter	6	My voice went thin for a minute.
+shaken	chatter	6	I am glad we are all still here.
+shaken	chatter	6	The bread will need redoing tomorrow.
+shaken	chatter	6	I had to count my fingers, silly me.
+shaken	chatter	6	The cat would not leave my lap.
+shaken	chatter	6	The blanket nearly slipped off twice.
+shaken	chatter	6	I keep listening for footsteps.
+shaken	chatter	6	The soup boiled over while I was elsewhere.
+shaken	chatter	6	I have not been this rattled in weeks.
+shaken	chatter	6	The flowers leaned closer, I swear.
+shaken	chatter	6	My ribbons came undone in the rush.
+shaken	chatter	6	I am putting the kitchen back together slowly.
+shaken	chatter	6	The teacup made it. So did I.
+shaken	chatter	6	I lost my breath at the worst time.
+shaken	chatter	6	The window kept rattling all evening.
+shaken	chatter	6	I needed every kind word I had.
+shaken	chatter	6	The garden bench has my shape on it.
+shaken	chatter	6	My knees decided to give up midway.
+shaken	chatter	6	The basket is on the floor still.
+shaken	chatter	6	I am drinking tea like it is breath.
+shaken	chatter	6	The home felt small for a moment.
+shaken	chatter	6	I am gathering my hands back, slowly.
+shaken	chatter	6	The lavender helped more than I expected.
+shaken	chatter	6	I will mend the bandage roll tonight.
+shaken	chatter	6	The bread did not deserve the burning.
+shaken	chatter	6	My heart is still settling, do not mind it.
+shaken	chatter	6	The cat purred until I stopped shaking.
+shaken	chatter	6	I miss the morning when this was nothing.
+shaken	chatter	6	The blanket smells right again, finally.
+shaken	chatter	6	I forgot how steady you can be.
+shaken	ask	6	Are you alright? Truly?
+shaken	ask	6	Are you hurt anywhere I cannot see?
+shaken	ask	6	Do you need to sit a moment?
+shaken	ask	6	Can I bring you tea?
+shaken	ask	6	Did anyone else need a bandage?
+shaken	ask	6	Are your hands shaking like mine?
+shaken	ask	6	Do you want a blanket for your shoulders?
+shaken	ask	6	Did you get a long breath in yet?
+shaken	ask	6	Are you hungry? I can warm something.
+shaken	ask	6	Do you need to lie down a bit?
+shaken	ask	6	Did the others all make it back?
+shaken	ask	6	Are your knees as wobbly as mine?
+shaken	ask	6	Can I get you a warm cloth?
+shaken	ask	6	Do you need quiet, or company?
+shaken	ask	6	Did you eat at all today?
+shaken	ask	6	Are your ears ringing as well?
+shaken	ask	6	Do you want the soft chair?
+shaken	ask	6	Did the cat stay near you, too?
+shaken	ask	6	Are you breathing okay now?
+shaken	ask	6	Do you need help with the laces?
+shaken	ask	6	Did anything cut you that I missed?
+shaken	ask	6	Can you hold the cup for me?
+shaken	ask	6	Are you cold? Let me find a wrap.
+shaken	ask	6	Do you want to sit by the window?
+shaken	ask	6	Did the rain reach you out there?
+shaken	ask	6	Are your fingers warm enough yet?
+shaken	ask	6	Can I sit close, just for a bit?
+shaken	ask	6	Do you need a quiet hour?
+shaken	ask	6	Did the bandage hold?
+shaken	ask	6	Are you steady on your feet yet?
+shaken	ask	6	Do you want me to braid your hair back?
+shaken	ask	6	Can you tell me where it hurts?
+shaken	ask	6	Are you light-headed at all?
+shaken	ask	6	Did anyone scare you in the chaos?
+shaken	ask	6	Do you want a cup with honey?
+shaken	ask	6	Are you sure you do not need a sit?
+shaken	ask	6	Did you keep your wits, mostly?
+shaken	ask	6	Can I bring the blanket over?
+shaken	ask	6	Do you need a hand to hold?
+shaken	ask	6	Are we all going to be alright?
+shaken	answer	6	Yes. I am here, just shaking.
+shaken	answer	6	No, not hurt. Just rattled.
+shaken	answer	6	Maybe a scrape. Nothing to fuss over.
+shaken	answer	6	Right. I just need a moment.
+shaken	answer	6	Of course. Let me catch a breath.
+shaken	answer	6	Yes, breathing. A little uneven, but breathing.
+shaken	answer	6	No, the bandage held.
+shaken	answer	6	Standing. That is something.
+shaken	answer	6	Yes. The kettle saved my hands.
+shaken	answer	6	No. It went past me.
+shaken	answer	6	Almost. But I am here, dear.
+shaken	answer	6	Yes, the chair caught me.
+shaken	answer	6	No, the soup did not spill on me.
+shaken	answer	6	Still here. Just slow.
+shaken	answer	6	Yes, my hands are the worst of it.
+shaken	answer	6	No, the basket took the fall.
+shaken	answer	6	Close. Too close. But alright.
+shaken	answer	6	Yes, I steadied in time.
+shaken	answer	6	No, nothing broken, I think.
+shaken	answer	6	Standing, dear. That counts.
+shaken	answer	6	Yes. Slowly. Very slowly.
+shaken	answer	6	No, I am alright. Pale, maybe.
+shaken	answer	6	Here, and grateful for it.
+shaken	answer	6	Yes, a sip at a time.
+shaken	answer	6	No. Just shaken, just that.
+shaken	answer	6	Still here, still here.
+shaken	answer	6	Yes, the blanket caught my fall.
+shaken	answer	6	No, did not feel a thing. Liar.
+shaken	answer	6	Okay. I am okay. I think.
+shaken	answer	6	Yes. Finding my feet again.
+shaken	answer	6	No, not hurt. Worried, mostly.
+shaken	answer	6	Alive. Give me a slow minute.
+shaken	answer	6	Yes, the bandages held just enough.
+shaken	answer	6	No, I kept my balance.
+shaken	answer	6	Still breathing. Good news.
+shaken	answer	6	Yes. Tea first, then we talk.
+shaken	answer	6	No blood. That is a blessing.
+shaken	answer	6	Just a bruise on the elbow.
+shaken	answer	6	Yes. Alive, and a little angry.
+shaken	answer	6	No, the kettle missed me.
+shaken	refuse	6	No, please. Not right now.
+shaken	refuse	6	I cannot, dear. Not yet.
+shaken	refuse	6	Please, no. My hands are not steady.
+shaken	refuse	6	Not now. I would drop everything.
+shaken	refuse	6	I cannot bandage with shaking hands.
+shaken	refuse	6	No. Too soon. Please.
+shaken	refuse	6	Not tonight. I am all out, dear.
+shaken	refuse	6	I cannot look at the basket yet.
+shaken	refuse	6	No, please. Give me the hour.
+shaken	refuse	6	Not now. My nerves are frayed thin.
+shaken	refuse	6	I will not lift that while shaking.
+shaken	refuse	6	No. I need to sit, first.
+shaken	refuse	6	Not yet. I am still trembling, sorry.
+shaken	refuse	6	I cannot face the path again.
+shaken	refuse	6	No. Not until I breathe right.
+shaken	refuse	6	Please, no. The kettle is empty in me.
+shaken	refuse	6	Not now. I would burn the bread.
+shaken	refuse	6	I cannot. My voice would break.
+shaken	refuse	6	No, I am empty, friend.
+shaken	refuse	6	Not tonight, dear. Please.
+shaken	refuse	6	I cannot work with these hands.
+shaken	refuse	6	No. I am not strong enough yet.
+shaken	refuse	6	Not yet. The shock is still in me.
+shaken	refuse	6	I cannot lift the basket tonight.
+shaken	refuse	6	No. The home needs me here first.
+shaken	refuse	6	Not now. I would only make a mess.
+shaken	refuse	6	I cannot go back out there.
+shaken	refuse	6	No. Let me mend myself first.
+shaken	refuse	6	Not yet. The fear is too fresh.
+shaken	refuse	6	I cannot, not like this.
+shaken	refuse	6	No. Please. Ask me tomorrow.
+shaken	refuse	6	Not tonight. I do not trust my steps.
+shaken	refuse	6	I will not pour while shaking.
+shaken	refuse	6	No. A cup of tea first, please.
+shaken	refuse	6	Not now. Even the kettle is tired.
+shaken	refuse	6	I cannot face another word tonight.
+shaken	refuse	6	No, dear. Not a step more.
+shaken	refuse	6	Not yet. I need quiet most of all.
+shaken	refuse	6	I cannot hold a needle steady.
+shaken	refuse	6	No. The hearth needs me calm.
+shaken	agree	6	Yes. Slowly, though.
+shaken	agree	6	Okay. Just give me a moment.
+shaken	agree	6	Agreed. When my hands stop shaking.
+shaken	agree	6	Alright. If you lead, I will follow.
+shaken	agree	6	Yes. Once I find a breath.
+shaken	agree	6	Okay, dear. I hear you.
+shaken	agree	6	Agreed. A small step at a time.
+shaken	agree	6	Yes. Let us sit first, please.
+shaken	agree	6	Alright. I trust you on this.
+shaken	agree	6	Yes, if you say so.
+shaken	agree	6	Okay. One breath at a time.
+shaken	agree	6	Agreed, but gently.
+shaken	agree	6	Yes. Slowly, slowly.
+shaken	agree	6	Alright. I will manage.
+shaken	agree	6	Okay, lead the way.
+shaken	agree	6	Yes. I will try, dear.
+shaken	agree	6	Agreed. I am with you.
+shaken	agree	6	Alright. Give me a heartbeat.
+shaken	agree	6	Yes. Whatever keeps us upright.
+shaken	agree	6	Okay. I am in.
+shaken	agree	6	Agreed. I want this done too.
+shaken	agree	6	Yes. Slow and steady.
+shaken	agree	6	Alright. Together, then.
+shaken	agree	6	Okay, if we go quiet.
+shaken	agree	6	Agreed. Tea first, plan second.
+shaken	agree	6	Yes. Just keep me close.
+shaken	agree	6	Alright. We do this and rest.
+shaken	agree	6	Okay. Hold my arm a moment.
+shaken	agree	6	Agreed. Soft steps.
+shaken	agree	6	Yes, alright, alright.
+shaken	agree	6	Okay. I am finding my feet.
+shaken	agree	6	Agreed. We take our time.
+shaken	agree	6	Yes. Your plan is kind and good.
+shaken	agree	6	Alright. Lead, I will follow.
+shaken	agree	6	Okay. Hand on my shoulder, maybe.
+shaken	agree	6	Agreed. I would rather not be alone.
+shaken	agree	6	Yes. The blanket will help.
+shaken	agree	6	Alright. We go together.
+shaken	agree	6	Okay. One more breath, then we move.
+shaken	agree	6	Agreed. Keep me steady, I keep up.
+shaken	warn	6	Please, mind the broken cup.
+shaken	warn	6	Careful. My hands are not sure tonight.
+shaken	warn	6	Do not ask too much of me yet.
+shaken	warn	6	Watch the kettle. The handle is loose.
+shaken	warn	6	Mind the step. I did not sweep up.
+shaken	warn	6	Careful by the hearth. Hands slip.
+shaken	warn	6	Do not open the cellar door, please.
+shaken	warn	6	Mind the basket. Half the bandages spilled.
+shaken	warn	6	Careful with the door. The latch is loose.
+shaken	warn	6	Do not touch the soup. It is too hot.
+shaken	warn	6	Watch the chair. It tipped earlier.
+shaken	warn	6	Mind the flowers. I knocked the vase.
+shaken	warn	6	Careful where you step near the hearth.
+shaken	warn	6	Do not rattle the shelf. It leans.
+shaken	warn	6	Watch the broken shards by the basin.
+shaken	warn	6	Mind the lids. I have been clumsy today.
+shaken	warn	6	Careful with the fire. My guard is down.
+shaken	warn	6	Do not lean on the table. Please.
+shaken	warn	6	Watch the drying bandages. Still damp.
+shaken	warn	6	Mind the crooked nail in the doorframe.
+shaken	warn	6	Careful. I am not fully here yet.
+shaken	warn	6	Do not promise anything in this room tonight.
+shaken	warn	6	Watch the candle. It keeps guttering.
+shaken	warn	6	Mind the step in the dark.
+shaken	warn	6	Careful with the stew. My spoon is shaky.
+shaken	warn	6	Do not ask for soup right now.
+shaken	warn	6	Watch the window latch. It swung open alone.
+shaken	warn	6	Mind the rug. I pulled it crooked.
+shaken	warn	6	Careful. The kettle is still hot.
+shaken	warn	6	Do not sit on the rocker. It tipped.
+shaken	warn	6	Watch the table edge. Splinters today.
+shaken	warn	6	Mind the broken cup shards on the floor.
+shaken	warn	6	Careful with the basket. The handle frayed.
+shaken	warn	6	Do not knock the jar over on your left.
+shaken	warn	6	Watch the apron string. It frays.
+shaken	warn	6	Mind the cat. He is jumpier than me.
+shaken	warn	6	Careful where you set the candle.
+shaken	warn	6	Do not talk loud near the broken vase.
+shaken	warn	6	Watch yourself. I cannot catch you today.
+shaken	warn	6	Mind the doorway. It feels narrow tonight.

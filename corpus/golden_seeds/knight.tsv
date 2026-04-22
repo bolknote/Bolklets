@@ -1,0 +1,960 @@
+calm	greet	6	Well met. The watch passed quietly today.
+calm	greet	6	Hello. Glad to see a friend at the gate.
+calm	greet	6	There you are. The line is steady.
+calm	greet	6	Good day. The armor sits easy this morning.
+calm	greet	6	Welcome. The yard has been calm.
+calm	greet	6	Hello, friend. The watch ends well.
+calm	greet	6	Good to see you. Sit a moment.
+calm	greet	6	Hello. The shield is polished and ready.
+calm	greet	6	Well met. The post has been peaceful.
+calm	greet	6	There. The fields are quiet today.
+calm	greet	6	Good morning. Honour and a steady hand to you.
+calm	greet	6	Welcome back. The hall is warm.
+calm	greet	6	Hello. The guard changed without trouble.
+calm	greet	6	Glad you came. The watch was long.
+calm	greet	6	Well met, friend. The realm is steady.
+calm	greet	6	Good day. The blade is set aside for now.
+calm	greet	6	Hello. The training yard is yours if you wish.
+calm	greet	6	There you are. I had a cup waiting.
+calm	greet	6	Welcome. The wall stood through the night.
+calm	greet	6	Hello. The line holds, as you see.
+calm	greet	6	Good to find you. The road has been kind.
+calm	greet	6	Well met. The watch is in good hands.
+calm	greet	6	Hello, friend. Rest if you need it.
+calm	greet	6	There. The fire has held all day.
+calm	greet	6	Good day. Duty is light this hour.
+calm	greet	6	Welcome. The post has been quiet.
+calm	greet	6	Hello. The oath holds another day.
+calm	greet	6	Glad you came. The watch is yours soon.
+calm	greet	6	Well met. The guard gives way to peace.
+calm	greet	6	Good morning. The field is mended.
+calm	greet	6	Hello. The shield wall is at rest.
+calm	greet	6	There you are. I saved you a seat.
+calm	greet	6	Welcome back. The realm remembers you.
+calm	greet	6	Good to see you. Honour and quiet today.
+calm	greet	6	Hello, friend. The day asks little of us.
+calm	greet	6	Well met. The lance is racked.
+calm	greet	6	There. Sit and take a breath.
+calm	greet	6	Good day. The armor is hung up.
+calm	greet	6	Welcome. Loyalty brought you in good time.
+calm	greet	6	Hello. The watch passed without alarm.
+calm	farewell	6	Off to the watch. Stand well.
+calm	farewell	6	Take care. The line will hold.
+calm	farewell	6	Until next watch, friend.
+calm	farewell	6	See you at the post.
+calm	farewell	6	Be well. Honour your road.
+calm	farewell	6	Off I go. Duty calls quietly.
+calm	farewell	6	Goodbye for now. Keep your shield up.
+calm	farewell	6	Until later. The realm is steady.
+calm	farewell	6	Take care on the path home.
+calm	farewell	6	See you on the next watch.
+calm	farewell	6	Off to the yard. Train well.
+calm	farewell	6	Until tomorrow. Stand fast.
+calm	farewell	6	Be well. The line holds without me.
+calm	farewell	6	Goodbye. May your watch be quiet.
+calm	farewell	6	Off I go. The post waits.
+calm	farewell	6	See you at supper. Keep your blade easy.
+calm	farewell	6	Until later. Mind the gate.
+calm	farewell	6	Take care. Honour and steady hands.
+calm	farewell	6	Off to the wall. Until later.
+calm	farewell	6	See you. The road is kind today.
+calm	farewell	6	Be well, friend. Stand tall.
+calm	farewell	6	Goodbye. The guard is yours till dawn.
+calm	farewell	6	Off. Duty does not wait.
+calm	farewell	6	Until next time. Keep the line.
+calm	farewell	6	Take care. The realm trusts you.
+calm	farewell	6	See you soon. Walk easy.
+calm	farewell	6	Off to the post. Be safe.
+calm	farewell	6	Until later. Honour the day.
+calm	farewell	6	Be well. The watch will pass quietly.
+calm	farewell	6	Goodbye for now. Stand well.
+calm	farewell	6	Off I go. The yard calls.
+calm	farewell	6	See you tomorrow. Mind your guard.
+calm	farewell	6	Until next watch. Steady as you are.
+calm	farewell	6	Take care, friend. The road is open.
+calm	farewell	6	Be well. Keep your oath light.
+calm	farewell	6	Goodbye. The line has you covered.
+calm	farewell	6	Off to the field. Until later.
+calm	farewell	6	See you. May the realm be kind.
+calm	farewell	6	Until later. Hold to the path.
+calm	farewell	6	Take care. I will see you at the gate.
+calm	chatter	6	The armor sits well today.
+calm	chatter	6	A quiet watch is a good watch.
+calm	chatter	6	The training yard has been kind this week.
+calm	chatter	6	The shield could use a fresh strap.
+calm	chatter	6	Honour rests easier on a calm day.
+calm	chatter	6	The post has been peaceful since dawn.
+calm	chatter	6	The blade is sharp and the line is held.
+calm	chatter	6	Duty feels lighter when the wall is sound.
+calm	chatter	6	The lance racks are tidy for once.
+calm	chatter	6	Good days for polishing armor.
+calm	chatter	6	The recruits learned a clean parry today.
+calm	chatter	6	The realm sleeps well when the watch is steady.
+calm	chatter	6	The guard has been quiet for hours.
+calm	chatter	6	Honour does not rust. Armor does.
+calm	chatter	6	The field is mended, the gate is whole.
+calm	chatter	6	The line held all night without trouble.
+calm	chatter	6	A cup of water and a clean blade is enough.
+calm	chatter	6	The horses have settled in the stalls.
+calm	chatter	6	The watch tower gives a long, soft view.
+calm	chatter	6	Even the banner hangs straight today.
+calm	chatter	6	The wall stood through the wind well enough.
+calm	chatter	6	A vow kept makes for a steady morning.
+calm	chatter	6	The new shields are decent work.
+calm	chatter	6	The squires need only patience now.
+calm	chatter	6	The oath book sits on the table, unopened.
+calm	chatter	6	The armor stand has been mended.
+calm	chatter	6	A fair day asks little of a guard.
+calm	chatter	6	The post smells of clean steel today.
+calm	chatter	6	Loyalty wears easier in good light.
+calm	chatter	6	The wall walk is dry for once.
+calm	chatter	6	The barracks has been orderly all week.
+calm	chatter	6	Steady hands keep the line steady.
+calm	chatter	6	The training swords are racked and counted.
+calm	chatter	6	The realm is quiet from here to the wood.
+calm	chatter	6	The gate hinges are oiled and silent.
+calm	chatter	6	A calm field is a small mercy.
+calm	chatter	6	The horses know peace before we do.
+calm	chatter	6	The watch lamp burned clean all night.
+calm	chatter	6	Duty without alarm is its own gift.
+calm	chatter	6	The shield boss took the polish well.
+calm	ask	6	How does the watch sit with you?
+calm	ask	6	Have you stood the wall this week?
+calm	ask	6	Is the gate holding well?
+calm	ask	6	Did the line pass quietly?
+calm	ask	6	How is the new shield fitting?
+calm	ask	6	Have you trained the recruits today?
+calm	ask	6	Is the post quiet on your side?
+calm	ask	6	How did the armor come back from the smith?
+calm	ask	6	Did your watch end well?
+calm	ask	6	Have the squires kept their oaths?
+calm	ask	6	Is the realm steady from your watch?
+calm	ask	6	How does the lance balance now?
+calm	ask	6	Did the horses settle through the night?
+calm	ask	6	Have you walked the wall today?
+calm	ask	6	Is the barracks in order?
+calm	ask	6	How is the field looking after the rain?
+calm	ask	6	Did the training go as you hoped?
+calm	ask	6	Have you eaten before the next watch?
+calm	ask	6	Is the gate guard set?
+calm	ask	6	How does the new strap feel?
+calm	ask	6	Did the captain ask after me?
+calm	ask	6	Have you mended the dent in the helm?
+calm	ask	6	Is the watch list set for tomorrow?
+calm	ask	6	How does duty wear on you today?
+calm	ask	6	Did the supply cart arrive on time?
+calm	ask	6	Have you spoken with the smith?
+calm	ask	6	Is the line covered through dusk?
+calm	ask	6	How is your shield arm holding?
+calm	ask	6	Did the watch tower burn clean?
+calm	ask	6	Have you tested the new blade?
+calm	ask	6	Is the wall walk dry today?
+calm	ask	6	How does the realm look from the tower?
+calm	ask	6	Did the squire pass his vow?
+calm	ask	6	Have you kept your oath light?
+calm	ask	6	Is the gate locked for the night?
+calm	ask	6	How long is your watch this evening?
+calm	ask	6	Did the field hold through the rain?
+calm	ask	6	Have the colors been raised?
+calm	ask	6	Is the line still well manned?
+calm	ask	6	How is the new armor wearing?
+calm	answer	6	Yes, the watch is steady tonight.
+calm	answer	6	No, the line has been quiet.
+calm	answer	6	Aye, the gate is sound.
+calm	answer	6	Indeed, the realm is calm.
+calm	answer	6	Yes, the armor sits well now.
+calm	answer	6	No, the post had no trouble.
+calm	answer	6	Of course, the oath holds.
+calm	answer	6	Yes, the shield is fitted.
+calm	answer	6	Maybe, if duty allows.
+calm	answer	6	Indeed, the wall held the wind.
+calm	answer	6	Yes, the field is mended.
+calm	answer	6	No, the guard was untroubled.
+calm	answer	6	Aye, honour kept the line.
+calm	answer	6	Yes, the squire passed his vow.
+calm	answer	6	No, the gate did not give.
+calm	answer	6	Of course, the watch will hold.
+calm	answer	6	Yes, the lance is racked.
+calm	answer	6	Indeed, the realm sleeps well.
+calm	answer	6	No, the line stayed quiet.
+calm	answer	6	Aye, the watch ends well.
+calm	answer	6	Yes, the armor came back clean.
+calm	answer	6	Maybe, after the next watch.
+calm	answer	6	Of course, duty comes first.
+calm	answer	6	Yes, the wall stands.
+calm	answer	6	No, the recruits did fine.
+calm	answer	6	Indeed, the post is steady.
+calm	answer	6	Yes, my shield is at hand.
+calm	answer	6	Aye, the road is safe.
+calm	answer	6	No, the captain was content.
+calm	answer	6	Of course, the line will hold.
+calm	answer	6	Yes, the gate is locked.
+calm	answer	6	Indeed, the watch will pass quietly.
+calm	answer	6	No, the field needs no more work.
+calm	answer	6	Aye, the oath is kept.
+calm	answer	6	Yes, the new blade rings true.
+calm	answer	6	Of course, honour first.
+calm	answer	6	Indeed, the realm is steady today.
+calm	answer	6	Yes, I will stand the next watch.
+calm	answer	6	No, the squire did well enough.
+calm	answer	6	Aye, the shield wall is whole.
+calm	refuse	6	No, the watch comes first.
+calm	refuse	6	I cannot, my post needs me.
+calm	refuse	6	Not today, the line waits.
+calm	refuse	6	No, duty calls another way.
+calm	refuse	6	I would, but the gate is mine to hold.
+calm	refuse	6	Sorry, my oath says otherwise.
+calm	refuse	6	Not now, the squires need a hand.
+calm	refuse	6	No, the captain has set my watch.
+calm	refuse	6	I will not leave the post, friend.
+calm	refuse	6	Not this hour. The wall is mine.
+calm	refuse	6	No, my honour is given elsewhere.
+calm	refuse	6	I cannot, the armor needs mending.
+calm	refuse	6	Not today. The line is short.
+calm	refuse	6	No, the watch list is set.
+calm	refuse	6	I would, but duty stands first.
+calm	refuse	6	Sorry, the realm needs me here.
+calm	refuse	6	Not now, the gate must be guarded.
+calm	refuse	6	No, the oath holds me to the wall.
+calm	refuse	6	I will pass. The watch awaits.
+calm	refuse	6	Not this time. Honour the post.
+calm	refuse	6	No, my shield arm is rested for tonight.
+calm	refuse	6	I cannot. The captain set my hour.
+calm	refuse	6	Not today. The horses must be fed.
+calm	refuse	6	No, the field is mine to walk.
+calm	refuse	6	I would not, the line is thin.
+calm	refuse	6	Sorry, duty does not allow.
+calm	refuse	6	Not now. The post is quiet, but mine.
+calm	refuse	6	No, the wall is my charge tonight.
+calm	refuse	6	I cannot, my vow forbids it.
+calm	refuse	6	Not today. The squires need their watch.
+calm	refuse	6	No, the post is set for me.
+calm	refuse	6	I will decline. Duty waits.
+calm	refuse	6	Not this hour. The line needs holding.
+calm	refuse	6	No, the oath comes first.
+calm	refuse	6	Sorry, the watch is mine to keep.
+calm	refuse	6	I cannot, the gate guard is short.
+calm	refuse	6	Not today. Honour the captain word.
+calm	refuse	6	No, the realm needs steady hands here.
+calm	refuse	6	I would, but duty calls.
+calm	refuse	6	Not now, friend. The wall is mine.
+calm	agree	6	Yes, that is the right way.
+calm	agree	6	Agreed. Honour holds.
+calm	agree	6	Aye, the line will hold.
+calm	agree	6	Indeed, the oath stands.
+calm	agree	6	Yes, well said.
+calm	agree	6	Agreed. We stand together.
+calm	agree	6	Aye, the watch will set it right.
+calm	agree	6	Yes, the captain would say the same.
+calm	agree	6	Agreed. Duty first.
+calm	agree	6	Indeed, the realm needs that.
+calm	agree	6	Yes, the field will mend.
+calm	agree	6	Aye, the post can spare a hand.
+calm	agree	6	Agreed. Steady steps now.
+calm	agree	6	Yes, the gate is sound.
+calm	agree	6	Indeed, honour rules.
+calm	agree	6	Aye, we hold the line.
+calm	agree	6	Agreed. The wall will stand.
+calm	agree	6	Yes, that is fair.
+calm	agree	6	Indeed, a good plan.
+calm	agree	6	Aye, well thought.
+calm	agree	6	Agreed. We do as you say.
+calm	agree	6	Yes, the watch will manage.
+calm	agree	6	Indeed, the squires will learn.
+calm	agree	6	Aye, the shield will bear it.
+calm	agree	6	Agreed. Hold and we win.
+calm	agree	6	Yes, by my oath.
+calm	agree	6	Indeed, the realm is with us.
+calm	agree	6	Aye, that is the way.
+calm	agree	6	Agreed. Steady and true.
+calm	agree	6	Yes, the line will not break.
+calm	agree	6	Indeed, honour leads.
+calm	agree	6	Agreed. Together, then.
+calm	agree	6	Aye, that fits the plan.
+calm	agree	6	Yes, the captain would approve.
+calm	agree	6	Indeed, the wall holds with us.
+calm	agree	6	Agreed. The watch goes with you.
+calm	agree	6	Yes, the post is yours.
+calm	agree	6	Aye, we stand at your back.
+calm	agree	6	Agreed. Honour and the line.
+calm	agree	6	Yes, well chosen.
+calm	warn	6	Mind the loose stone on the wall.
+calm	warn	6	Watch your step on the stairs.
+calm	warn	6	Guard your blade hand on the slick floor.
+calm	warn	6	Mind the gate, the hinge sticks.
+calm	warn	6	Watch the post, it leans.
+calm	warn	6	Hold the rail on the tower.
+calm	warn	6	Mind the horses, they spook today.
+calm	warn	6	Watch the courtyard, the cobbles slip.
+calm	warn	6	Guard the lamps, the wind is up.
+calm	warn	6	Mind the rope on the gate winch.
+calm	warn	6	Watch the squires, they overswing.
+calm	warn	6	Hold your tongue near the captain.
+calm	warn	6	Mind the dent in your helm.
+calm	warn	6	Watch your back on the wall walk.
+calm	warn	6	Guard the colors when the wind shifts.
+calm	warn	6	Mind the slick step at the gate.
+calm	warn	6	Watch the lance racks, one slipped.
+calm	warn	6	Hold the helm strap tight.
+calm	warn	6	Mind the stable door, it swings hard.
+calm	warn	6	Watch your shield arm in drills.
+calm	warn	6	Guard the gate key, do not lose it.
+calm	warn	6	Mind the hot iron at the smith.
+calm	warn	6	Watch the line during change of guard.
+calm	warn	6	Hold the strap, the buckle is worn.
+calm	warn	6	Mind the rope ladder, it frays.
+calm	warn	6	Watch the corner of the yard at dusk.
+calm	warn	6	Guard your footing on the wet stones.
+calm	warn	6	Mind the loose plank in the barracks.
+calm	warn	6	Watch the path past the stables.
+calm	warn	6	Hold tight when the wind rises.
+calm	warn	6	Mind the splinter on the practice rail.
+calm	warn	6	Watch the stack of shields, it leans.
+calm	warn	6	Guard the door against the draft.
+calm	warn	6	Mind the candles near the maps.
+calm	warn	6	Watch the steps down to the cellar.
+calm	warn	6	Hold the gate when the cart passes.
+calm	warn	6	Mind the strap on the saddle, it slips.
+calm	warn	6	Watch where you set the helm.
+calm	warn	6	Guard the oath book, do not stain it.
+calm	warn	6	Mind the tools by the smith bench.
+tense	greet	6	You came. Shields up. Hold close.
+tense	greet	6	Quick, on me. The line is forming.
+tense	greet	6	Eyes ahead. Glad you are here.
+tense	greet	6	Stand with me. Something moves out there.
+tense	greet	6	Quickly. Guard my left.
+tense	greet	6	You made it. Blade out, watch the gate.
+tense	greet	6	Get on the line. Now.
+tense	greet	6	Form up. The watch is broken.
+tense	greet	6	Quick, behind the shield wall.
+tense	greet	6	You came in time. Hold steady.
+tense	greet	6	Eyes up. Shields locked.
+tense	greet	6	Quick. Guard the flank.
+tense	greet	6	Stand fast. We hold here.
+tense	greet	6	Glad you came. Brace the line.
+tense	greet	6	Quickly, on me. Watch your right.
+tense	greet	6	Get behind me. Now.
+tense	greet	6	You made it. Pick up a shield.
+tense	greet	6	Form on me. The wall holds.
+tense	greet	6	Stand to. The gate is open.
+tense	greet	6	Quick. Bow to the line.
+tense	greet	6	Eyes front. Steel up.
+tense	greet	6	Get to your post. Fast.
+tense	greet	6	Stand on me. Lock shields.
+tense	greet	6	You came. The watch is breached.
+tense	greet	6	Quickly. Hold the gate behind us.
+tense	greet	6	Form a wall. Quick now.
+tense	greet	6	Get up, guard the door.
+tense	greet	6	Watch ahead. Brace.
+tense	greet	6	Stand with me. Now.
+tense	greet	6	Eyes on the field. Quickly.
+tense	greet	6	Quick. Spear up, shield close.
+tense	greet	6	You made it. Hold the line.
+tense	greet	6	Stand fast on my left.
+tense	greet	6	Form rank. Hurry.
+tense	greet	6	Get the squires behind us.
+tense	greet	6	Quick, the wall is thin.
+tense	greet	6	Eyes wide. Listen for the horn.
+tense	greet	6	Stand to. The gate trembles.
+tense	greet	6	Quick. Get a blade in your hand.
+tense	greet	6	You came. Brace the shield wall.
+tense	farewell	6	Go. Hold the inner gate.
+tense	farewell	6	Move. Get to the keep.
+tense	farewell	6	Run, but keep your shield up.
+tense	farewell	6	Go now. I cover your back.
+tense	farewell	6	Off. Hold the line behind us.
+tense	farewell	6	Move fast. Stay low.
+tense	farewell	6	Go. The flank is yours.
+tense	farewell	6	Run for the wall. Now.
+tense	farewell	6	Off. Watch the gate as you pass.
+tense	farewell	6	Go. I hold here.
+tense	farewell	6	Move. The line is breaking.
+tense	farewell	6	Run. Guard your head.
+tense	farewell	6	Off. Get the squires inside.
+tense	farewell	6	Go now. Bar the door behind you.
+tense	farewell	6	Move. Watch the courtyard.
+tense	farewell	6	Go. Cover the retreat.
+tense	farewell	6	Off. Watch the right flank.
+tense	farewell	6	Run, blade out.
+tense	farewell	6	Go. Hold the keep tower.
+tense	farewell	6	Move. Get word to the captain.
+tense	farewell	6	Off. Cross at the postern.
+tense	farewell	6	Go. Lock the inner gate.
+tense	farewell	6	Run. Keep the shield wall behind.
+tense	farewell	6	Off. Pull the line back slow.
+tense	farewell	6	Go. Guard the horses.
+tense	farewell	6	Move. The bridge is open.
+tense	farewell	6	Run. Watch the wood line.
+tense	farewell	6	Off. Hold the bell tower.
+tense	farewell	6	Go now. Sound the horn.
+tense	farewell	6	Move fast. The wall will not hold long.
+tense	farewell	6	Off. Watch your footing on the stairs.
+tense	farewell	6	Go. Take the lower path.
+tense	farewell	6	Run. Steel up.
+tense	farewell	6	Off. Brace the door behind you.
+tense	farewell	6	Go. I will follow when the line holds.
+tense	farewell	6	Move. Guard the captain.
+tense	farewell	6	Off. Get the wounded inside.
+tense	farewell	6	Go now. Watch the gate behind you.
+tense	farewell	6	Run. Keep the wall to your right.
+tense	farewell	6	Off. Hold the line at the chapel.
+tense	chatter	6	The line is thin on the right.
+tense	chatter	6	Shields up, the wind brings noise.
+tense	chatter	6	Something moves past the wood.
+tense	chatter	6	The gate hinge is straining.
+tense	chatter	6	The wall is shorter today.
+tense	chatter	6	Watch the flank. The dust is wrong.
+tense	chatter	6	The horses smell trouble.
+tense	chatter	6	The line will not hold long.
+tense	chatter	6	The watch tower is silent. Bad sign.
+tense	chatter	6	The colors snap, the wind has changed.
+tense	chatter	6	Steel ringing past the wood.
+tense	chatter	6	The gate is creaking under weight.
+tense	chatter	6	The shield wall thins by the stairs.
+tense	chatter	6	The captain has gone quiet.
+tense	chatter	6	Movement across the field.
+tense	chatter	6	The horn has not sounded yet.
+tense	chatter	6	The wall is slick with rain.
+tense	chatter	6	The watch lamps gutter, all of them.
+tense	chatter	6	The bow line is short two men.
+tense	chatter	6	The recruits are pale on the line.
+tense	chatter	6	The flank is exposed.
+tense	chatter	6	The dust comes thicker by the minute.
+tense	chatter	6	The line buckles on the left.
+tense	chatter	6	The squires hold the rear, barely.
+tense	chatter	6	The post above the gate is empty.
+tense	chatter	6	The shield arm aches already.
+tense	chatter	6	The wall walk is loud with running.
+tense	chatter	6	The horses are pulling at the rope.
+tense	chatter	6	Steel out everywhere I look.
+tense	chatter	6	The line has shifted three steps back.
+tense	chatter	6	The drum is closer than it was.
+tense	chatter	6	The bow string burns my fingers.
+tense	chatter	6	The watch is broken at the chapel.
+tense	chatter	6	The wall to the south is yielding.
+tense	chatter	6	The shields are dented past use.
+tense	chatter	6	The gate timber groans loud.
+tense	chatter	6	The wind carries the smell of fire.
+tense	chatter	6	The line is bent but not broken.
+tense	chatter	6	The captain banner is down.
+tense	chatter	6	The fight comes to us in moments.
+tense	ask	6	Where is the breach?
+tense	ask	6	How many on the wall?
+tense	ask	6	Did the gate hold?
+tense	ask	6	Are the squires inside?
+tense	ask	6	Where is the captain?
+tense	ask	6	How long until the horn?
+tense	ask	6	Is the line still whole?
+tense	ask	6	Did you see the flank give?
+tense	ask	6	Where are the horses?
+tense	ask	6	How thin is the south wall?
+tense	ask	6	Did the bow line answer?
+tense	ask	6	Is the gate barred?
+tense	ask	6	Where is the second rank?
+tense	ask	6	How many fell on the right?
+tense	ask	6	Did the colors fall?
+tense	ask	6	Is the inner gate locked?
+tense	ask	6	Where did the shield wall break?
+tense	ask	6	How close are they now?
+tense	ask	6	Did the watch sound off?
+tense	ask	6	Are the wounded clear?
+tense	ask	6	Where is the postern guard?
+tense	ask	6	How long can we hold?
+tense	ask	6	Did the bridge come down?
+tense	ask	6	Is the bell tower manned?
+tense	ask	6	Where is my shield bearer?
+tense	ask	6	How many on the inner line?
+tense	ask	6	Did the captain pass word?
+tense	ask	6	Is the gate hinge holding?
+tense	ask	6	Where is the next watch?
+tense	ask	6	How short is the wall now?
+tense	ask	6	Did the lance line form?
+tense	ask	6	Is the keep door barred?
+tense	ask	6	Where is the south flank?
+tense	ask	6	How fast are they coming?
+tense	ask	6	Did the squires reach the keep?
+tense	ask	6	Is the shield wall locked?
+tense	ask	6	Where is the second horn?
+tense	ask	6	How many blades on the gate?
+tense	ask	6	Did the line bend or break?
+tense	ask	6	Is the watch fire still lit?
+tense	answer	6	Yes. Hold the line. Now.
+tense	answer	6	No. The gate is holding still.
+tense	answer	6	Aye. Shields up, ready.
+tense	answer	6	Right. Brace the wall.
+tense	answer	6	Yes. The captain is on the stairs.
+tense	answer	6	No. Not yet. Steady.
+tense	answer	6	Aye. The line is whole, just thin.
+tense	answer	6	Yes. Cover the right.
+tense	answer	6	No. The gate is barred tight.
+tense	answer	6	Right. The wall is mine.
+tense	answer	6	Yes. The squires are inside.
+tense	answer	6	No. The flank still holds.
+tense	answer	6	Aye. Steel out, eyes ahead.
+tense	answer	6	Yes. Hold here, I cover.
+tense	answer	6	No. The horn has not sounded.
+tense	answer	6	Right. Get to the second rank.
+tense	answer	6	Yes. The bow line is up.
+tense	answer	6	No. The bridge has not fallen.
+tense	answer	6	Aye. The wall stands, just.
+tense	answer	6	Yes. Brace the inner door.
+tense	answer	6	No. The captain is alive.
+tense	answer	6	Right. Hold and watch the gate.
+tense	answer	6	Yes. Shields locked, line firm.
+tense	answer	6	No. The breach is on the south.
+tense	answer	6	Aye. The wall is mine to hold.
+tense	answer	6	Yes. Watch ahead, blade ready.
+tense	answer	6	No. The line has not broken.
+tense	answer	6	Right. Keep the shields high.
+tense	answer	6	Yes. The gate is sound for now.
+tense	answer	6	No. The horses are still penned.
+tense	answer	6	Aye. Stand fast, we hold.
+tense	answer	6	Yes. The flank is covered.
+tense	answer	6	No. The colors are still up.
+tense	answer	6	Right. Guard the inner gate.
+tense	answer	6	Yes. The keep door is barred.
+tense	answer	6	No. Not yet. Hold steady.
+tense	answer	6	Aye. The squires made the keep.
+tense	answer	6	Yes. The shield wall is locked.
+tense	answer	6	No. The watch is mine.
+tense	answer	6	Right. Brace, brace, brace.
+tense	refuse	6	No. We hold the line.
+tense	refuse	6	Not yet. Brace the wall.
+tense	refuse	6	I will not leave the post.
+tense	refuse	6	No. The gate is mine to keep.
+tense	refuse	6	Not now. The line is forming.
+tense	refuse	6	No. We do not break the wall.
+tense	refuse	6	I cannot. The flank will fall.
+tense	refuse	6	No. The shields stay locked.
+tense	refuse	6	Not while the gate trembles.
+tense	refuse	6	No. We do not run.
+tense	refuse	6	I will not yield the wall.
+tense	refuse	6	No. The captain said hold.
+tense	refuse	6	Not now. The horn has not sounded.
+tense	refuse	6	No. Stand, do not move.
+tense	refuse	6	I will not open the gate.
+tense	refuse	6	No. The line is too thin.
+tense	refuse	6	Not while the squires are still inside.
+tense	refuse	6	No. The shield wall holds.
+tense	refuse	6	I cannot, the post is mine.
+tense	refuse	6	No. We do not break formation.
+tense	refuse	6	Not yet. The horn calls retreat.
+tense	refuse	6	No. Brace where you stand.
+tense	refuse	6	I will not leave the wounded.
+tense	refuse	6	No. The wall is mine to hold.
+tense	refuse	6	Not now. The flank is open.
+tense	refuse	6	No. Hold here. Steady.
+tense	refuse	6	I cannot, the gate must stand.
+tense	refuse	6	No. The keep needs us.
+tense	refuse	6	Not while the colors are up.
+tense	refuse	6	No. Stand, brace, hold.
+tense	refuse	6	I will not retreat to the chapel.
+tense	refuse	6	No. The captain has not signaled.
+tense	refuse	6	Not now. The bow line is short.
+tense	refuse	6	No. The breach is mine.
+tense	refuse	6	I cannot leave the rank.
+tense	refuse	6	No. The wall is yet whole.
+tense	refuse	6	Not while a blade is still in hand.
+tense	refuse	6	No. The shield is up.
+tense	refuse	6	I will not break the line.
+tense	refuse	6	No. Stand fast.
+tense	agree	6	Yes. Hold the line.
+tense	agree	6	Aye. Shields up.
+tense	agree	6	Right. On me.
+tense	agree	6	Agreed. Brace the wall.
+tense	agree	6	Yes. Stand fast.
+tense	agree	6	Aye. Lock shields.
+tense	agree	6	Right. Steel out.
+tense	agree	6	Agreed. Hold here.
+tense	agree	6	Yes. The line holds.
+tense	agree	6	Aye. Brace, brace.
+tense	agree	6	Right. Guard the right.
+tense	agree	6	Agreed. Now we move.
+tense	agree	6	Yes. Cover the gate.
+tense	agree	6	Aye. We hold.
+tense	agree	6	Right. Bow line up.
+tense	agree	6	Agreed. Move on me.
+tense	agree	6	Yes. Watch the flank.
+tense	agree	6	Aye. Push to the wall.
+tense	agree	6	Right. Keep the shield up.
+tense	agree	6	Agreed. Quick, together.
+tense	agree	6	Yes. Brace the door.
+tense	agree	6	Aye. On the captain word.
+tense	agree	6	Right. Hold the breach.
+tense	agree	6	Agreed. Eyes ahead.
+tense	agree	6	Yes. Spear forward.
+tense	agree	6	Aye. Lock the line.
+tense	agree	6	Right. Cover the postern.
+tense	agree	6	Agreed. We stand.
+tense	agree	6	Yes. Shield to shield.
+tense	agree	6	Aye. Take the wall.
+tense	agree	6	Right. We hold the gate.
+tense	agree	6	Agreed. Quickly, on me.
+tense	agree	6	Yes. Steady, ready, steady.
+tense	agree	6	Aye. Charge on the horn.
+tense	agree	6	Right. The line is set.
+tense	agree	6	Agreed. Hold, hold, hold.
+tense	agree	6	Yes. We do not fall back.
+tense	agree	6	Aye. On me, on me.
+tense	agree	6	Right. Guard each other.
+tense	agree	6	Agreed. The wall is ours.
+tense	warn	6	Watch the flank. Movement there.
+tense	warn	6	Shields up. They come fast.
+tense	warn	6	Hold the gate. Now.
+tense	warn	6	Brace. They are at the wall.
+tense	warn	6	Eyes ahead. Steel close.
+tense	warn	6	Stand fast. Do not break.
+tense	warn	6	Watch the right. Cover it.
+tense	warn	6	Hold the line. No further back.
+tense	warn	6	Shields locked. Brace, brace.
+tense	warn	6	Eyes up. The horn comes.
+tense	warn	6	Watch the postern. It is open.
+tense	warn	6	Brace the door. Quick.
+tense	warn	6	Hold here. Do not move.
+tense	warn	6	Stand to. The gate is breaking.
+tense	warn	6	Watch the wall walk. Movement.
+tense	warn	6	Cover the squires. Now.
+tense	warn	6	Eyes front. They charge.
+tense	warn	6	Hold the inner gate. Now.
+tense	warn	6	Watch the colors. The wind shifted.
+tense	warn	6	Brace for the rush.
+tense	warn	6	Stand fast. Do not yield.
+tense	warn	6	Cover the wounded. Quick.
+tense	warn	6	Eyes wide. Steel ready.
+tense	warn	6	Watch the flank. It bends.
+tense	warn	6	Hold the bridge. Bar it.
+tense	warn	6	Shields up. Heads down.
+tense	warn	6	Brace the wall. Now.
+tense	warn	6	Watch the bow line. Short.
+tense	warn	6	Hold the rank. No gap.
+tense	warn	6	Eyes on the gate. Watch it close.
+tense	warn	6	Stand to the wall. Now.
+tense	warn	6	Cover the captain. Quick.
+tense	warn	6	Watch the dust line. Closer.
+tense	warn	6	Brace. The horn is up.
+tense	warn	6	Hold the door. Do not yield.
+tense	warn	6	Eyes on the breach. Cover it.
+tense	warn	6	Watch the keep stairs.
+tense	warn	6	Hold the second rank. Steady.
+tense	warn	6	Stand fast. The line is yours.
+tense	warn	6	Cover the gate. Brace.
+shaken	greet	6	You came. The line held, barely.
+shaken	greet	6	Glad you are here. Took a hit.
+shaken	greet	6	You made it. Give me a moment.
+shaken	greet	6	Thank the watch. You stand.
+shaken	greet	6	You came. I am still on my feet.
+shaken	greet	6	Glad to see you. The wall held.
+shaken	greet	6	You made it through. Just.
+shaken	greet	6	Sit. Hands are still shaking.
+shaken	greet	6	You. Good. I needed a face.
+shaken	greet	6	Glad you are here. It was close.
+shaken	greet	6	You made it. Bruised, not broken.
+shaken	greet	6	Sit a moment. The line cost us.
+shaken	greet	6	You came. The gate held.
+shaken	greet	6	Glad to see you whole.
+shaken	greet	6	You made it. The wall stood.
+shaken	greet	6	Sit. I need a breath.
+shaken	greet	6	You. The watch was hard.
+shaken	greet	6	Glad you are here. I am still standing.
+shaken	greet	6	You came. Honour held the line.
+shaken	greet	6	Sit, friend. The keep holds.
+shaken	greet	6	You made it back. Thank the watch.
+shaken	greet	6	Glad you are whole. We held.
+shaken	greet	6	You came. My shield arm is done.
+shaken	greet	6	Sit. The post is quiet now.
+shaken	greet	6	You. Glad. Glad.
+shaken	greet	6	Glad you are here. The gate is shut.
+shaken	greet	6	You made it. Lay down your blade.
+shaken	greet	6	Sit, just sit. The line held.
+shaken	greet	6	You came. The breach is sealed.
+shaken	greet	6	Glad you are here. We are alive.
+shaken	greet	6	You made it. So did I, near enough.
+shaken	greet	6	Sit a moment. My helm is off.
+shaken	greet	6	You. The wall is whole.
+shaken	greet	6	Glad you came. I needed a hand.
+shaken	greet	6	You made it. Bless the watch.
+shaken	greet	6	Sit. The line is mended.
+shaken	greet	6	You came. The captain is alive.
+shaken	greet	6	Glad you are here. Just give me a breath.
+shaken	greet	6	You made it. So did the squires.
+shaken	greet	6	Sit, friend. The shield is set down.
+shaken	farewell	6	Off. I need to set down the shield.
+shaken	farewell	6	Later. My hands are still shaking.
+shaken	farewell	6	I should rest. The watch was hard.
+shaken	farewell	6	Off, slowly. The line cost me.
+shaken	farewell	6	Bye for now. I need a moment.
+shaken	farewell	6	Later. I have to mend the helm.
+shaken	farewell	6	Off. A breath and a chair are calling.
+shaken	farewell	6	I should go. The shield arm is done.
+shaken	farewell	6	Later. Once my heart slows.
+shaken	farewell	6	Off, friend. I need quiet.
+shaken	farewell	6	Bye. The watch is over for me.
+shaken	farewell	6	I must rest. Bruised but standing.
+shaken	farewell	6	Off. I will be on the wall by dawn.
+shaken	farewell	6	Later. Let me set down the lance.
+shaken	farewell	6	I should sit. The line was long.
+shaken	farewell	6	Off, gently. My legs ache.
+shaken	farewell	6	Bye for now. I need to breathe.
+shaken	farewell	6	Later. Once the helm comes off.
+shaken	farewell	6	Off. I have wounded to see to.
+shaken	farewell	6	I must go. Slowly, slowly.
+shaken	farewell	6	Bye. I will mend by morning.
+shaken	farewell	6	Later. The captain needs the report.
+shaken	farewell	6	Off. The post can spare me an hour.
+shaken	farewell	6	I should rest. My oath holds.
+shaken	farewell	6	Later. Let me wash the blood off.
+shaken	farewell	6	Off. The shield is heavy now.
+shaken	farewell	6	Bye. I need quiet for a while.
+shaken	farewell	6	I must go. To rest, to mend.
+shaken	farewell	6	Later. The line is steady now.
+shaken	farewell	6	Off. My armor needs the stand.
+shaken	farewell	6	I should go. The keep is quiet.
+shaken	farewell	6	Bye. Once my hands stop shaking.
+shaken	farewell	6	Later. I have to sit a bit.
+shaken	farewell	6	Off, slowly. The watch is over.
+shaken	farewell	6	I must rest. I am still here, just.
+shaken	farewell	6	Off. The wall holds without me now.
+shaken	farewell	6	Bye for now. I need the fire.
+shaken	farewell	6	Later. Once the ringing fades.
+shaken	farewell	6	Off. The squires saw me through.
+shaken	farewell	6	I should go. Quietly, this time.
+shaken	chatter	6	The line held. Barely.
+shaken	chatter	6	The shield took the worst of it.
+shaken	chatter	6	My arm is still shaking.
+shaken	chatter	6	The wall stood, somehow.
+shaken	chatter	6	I thought the gate was lost.
+shaken	chatter	6	The line buckled, but did not break.
+shaken	chatter	6	My helm rang for an hour.
+shaken	chatter	6	The squires fought well. Bless them.
+shaken	chatter	6	The captain is hurt, but standing.
+shaken	chatter	6	The breach is sealed. Just.
+shaken	chatter	6	My shield arm will not lift right.
+shaken	chatter	6	The line cost us, but we held.
+shaken	chatter	6	I lost my footing twice.
+shaken	chatter	6	The wall is mended, the gate is shut.
+shaken	chatter	6	My oath kept my feet under me.
+shaken	chatter	6	The horn came late, almost too late.
+shaken	chatter	6	I have not been this rattled in years.
+shaken	chatter	6	The shield split, but it held.
+shaken	chatter	6	The line bent, the line bent and held.
+shaken	chatter	6	My armor needs work after that.
+shaken	chatter	6	The wounded are inside. Most of them.
+shaken	chatter	6	The watch tower took a bad hit.
+shaken	chatter	6	I need a breath. A long one.
+shaken	chatter	6	The keep door barred just in time.
+shaken	chatter	6	The colors fell once, but we raised them.
+shaken	chatter	6	The captain pulled me up by the strap.
+shaken	chatter	6	The post was a near thing.
+shaken	chatter	6	The squires held the inner door alone.
+shaken	chatter	6	The wall walk is half down.
+shaken	chatter	6	I lost my lance somewhere in the mud.
+shaken	chatter	6	The shield wall held, but we are thin.
+shaken	chatter	6	My hands are not steady yet.
+shaken	chatter	6	The line was loud. Too loud.
+shaken	chatter	6	The gate took a beating, the gate held.
+shaken	chatter	6	I am still here. That is something.
+shaken	chatter	6	The bell tower nearly came down.
+shaken	chatter	6	The line cost more than I want to count.
+shaken	chatter	6	My oath felt heavy this hour.
+shaken	chatter	6	The wall is whole. We are not, quite.
+shaken	chatter	6	The post stands. I sit, for once.
+shaken	ask	6	Are you hurt?
+shaken	ask	6	Did the line hold?
+shaken	ask	6	Did the gate stand?
+shaken	ask	6	Are you still standing?
+shaken	ask	6	Is the captain alive?
+shaken	ask	6	Did the wall hold through?
+shaken	ask	6	Are the squires safe?
+shaken	ask	6	Did the keep door bar?
+shaken	ask	6	Are you breathing?
+shaken	ask	6	Did the horn sound in time?
+shaken	ask	6	Is the shield still on your arm?
+shaken	ask	6	Did the bridge fall behind us?
+shaken	ask	6	Are the wounded inside?
+shaken	ask	6	Did the bow line answer back?
+shaken	ask	6	Is the gate barred now?
+shaken	ask	6	Are your hands shaking too?
+shaken	ask	6	Did the colors stay up?
+shaken	ask	6	Is the line whole?
+shaken	ask	6	Did the breach get sealed?
+shaken	ask	6	Are we still on the wall?
+shaken	ask	6	Did the post hold?
+shaken	ask	6	Is the watch tower standing?
+shaken	ask	6	Are you bruised at all?
+shaken	ask	6	Did the rear rank close?
+shaken	ask	6	Is the captain on his feet?
+shaken	ask	6	Did your blade hold?
+shaken	ask	6	Are you alive, friend?
+shaken	ask	6	Did the second horn sound?
+shaken	ask	6	Is the inner gate sound?
+shaken	ask	6	Are your knees still under you?
+shaken	ask	6	Did the squires reach the keep yet?
+shaken	ask	6	Is the wall walk holding?
+shaken	ask	6	Did the postern stay shut?
+shaken	ask	6	Are you steady enough to stand?
+shaken	ask	6	Did the line cost you?
+shaken	ask	6	Is the wall mended yet?
+shaken	ask	6	Are we safe for now?
+shaken	ask	6	Did the helm save you?
+shaken	ask	6	Is the gate hinge whole?
+shaken	ask	6	Are you ready for another hour?
+shaken	answer	6	Yes. Standing. Just.
+shaken	answer	6	No, not hurt. Just rattled.
+shaken	answer	6	Aye, the line held.
+shaken	answer	6	Right. Give me a breath.
+shaken	answer	6	Alive. The shield held.
+shaken	answer	6	Yes. Bruised, not broken.
+shaken	answer	6	No, I kept my feet.
+shaken	answer	6	Aye, the gate stood.
+shaken	answer	6	Yes. The wall is whole.
+shaken	answer	6	No, I did not fall.
+shaken	answer	6	Standing. Honour held.
+shaken	answer	6	Yes. The captain is alive.
+shaken	answer	6	No. The squires are inside.
+shaken	answer	6	Aye, the line cost us.
+shaken	answer	6	Yes. My shield split.
+shaken	answer	6	No. The horn came in time.
+shaken	answer	6	Standing. Just about.
+shaken	answer	6	Yes. The keep door barred.
+shaken	answer	6	No, the colors did not fall.
+shaken	answer	6	Aye, the breach is sealed.
+shaken	answer	6	Yes. Hands shake, but I am here.
+shaken	answer	6	No, the wall held through.
+shaken	answer	6	Standing. Slowly, slowly.
+shaken	answer	6	Yes. The post is mine still.
+shaken	answer	6	No, the gate did not give way.
+shaken	answer	6	Aye, the watch tower stands.
+shaken	answer	6	Yes. Bruised, the helm took it.
+shaken	answer	6	No, I am not broken.
+shaken	answer	6	Standing, by the oath.
+shaken	answer	6	Yes. The line bent and held.
+shaken	answer	6	No, the wounded are clear.
+shaken	answer	6	Aye, the bow line answered.
+shaken	answer	6	Yes. The shield arm is sore.
+shaken	answer	6	Standing. The captain pulled me up.
+shaken	answer	6	No, my blade is whole.
+shaken	answer	6	Aye, the wall walk is half down.
+shaken	answer	6	Yes. Just give me the hour.
+shaken	answer	6	No. Not yet broken.
+shaken	answer	6	Standing. Honour and grit.
+shaken	answer	6	Yes. The line held. We held.
+shaken	refuse	6	No. Not another watch yet.
+shaken	refuse	6	Not now. My arm will not lift.
+shaken	refuse	6	I cannot, my hands shake.
+shaken	refuse	6	No. Give me an hour first.
+shaken	refuse	6	Not yet. I need to breathe.
+shaken	refuse	6	I will not stand the line shaking.
+shaken	refuse	6	No. The shield is too heavy now.
+shaken	refuse	6	Not now. The helm is still ringing.
+shaken	refuse	6	I cannot lift the lance.
+shaken	refuse	6	No. Not until I sit.
+shaken	refuse	6	Not yet. My legs are stone.
+shaken	refuse	6	I will not return until I steady.
+shaken	refuse	6	No. The arm is done for the hour.
+shaken	refuse	6	Not now. I would drop the shield.
+shaken	refuse	6	I cannot, my breath is short.
+shaken	refuse	6	No. Let me set down the helm.
+shaken	refuse	6	Not yet. The wall has me drained.
+shaken	refuse	6	I will not take the watch like this.
+shaken	refuse	6	No. The blade hand will not close.
+shaken	refuse	6	Not now. The line cost me.
+shaken	refuse	6	I cannot, my knees are loose.
+shaken	refuse	6	No. The post can spare me yet.
+shaken	refuse	6	Not yet. I am still ringing.
+shaken	refuse	6	I will not lead the rank shaking.
+shaken	refuse	6	No. Let me mend a moment.
+shaken	refuse	6	Not now. The shield split my grip.
+shaken	refuse	6	I cannot, my eyes still swim.
+shaken	refuse	6	No. The captain said rest.
+shaken	refuse	6	Not yet. Breath first.
+shaken	refuse	6	I will not stand the gate yet.
+shaken	refuse	6	No. The strap cut my hand.
+shaken	refuse	6	Not now. Honour gives me an hour.
+shaken	refuse	6	I cannot, the helm is bent on me.
+shaken	refuse	6	No. Let me sit a beat.
+shaken	refuse	6	Not yet. The line drained me.
+shaken	refuse	6	I will not draw a blade like this.
+shaken	refuse	6	No. The post is in steady hands.
+shaken	refuse	6	Not now. I need quiet first.
+shaken	refuse	6	I cannot. Not this hour.
+shaken	refuse	6	No. Let me find my breath.
+shaken	agree	6	Yes. Slowly. I am with you.
+shaken	agree	6	Aye. Once I find my feet.
+shaken	agree	6	Right. Give me a breath, then yes.
+shaken	agree	6	Agreed. I follow if you lead.
+shaken	agree	6	Yes. Easy steps, easy.
+shaken	agree	6	Aye. The line still has us.
+shaken	agree	6	Right. I am with you, just slow.
+shaken	agree	6	Agreed. We hold together.
+shaken	agree	6	Yes. Hand on my arm, maybe.
+shaken	agree	6	Aye. I keep up, somehow.
+shaken	agree	6	Right. The oath still stands.
+shaken	agree	6	Agreed. Slowly is fine.
+shaken	agree	6	Yes. We move when I steady.
+shaken	agree	6	Aye. The shield is yours to lead.
+shaken	agree	6	Right. I am with you, friend.
+shaken	agree	6	Agreed. One step at a time.
+shaken	agree	6	Yes. Lead, I follow.
+shaken	agree	6	Aye. We mend on the way.
+shaken	agree	6	Right. The line will hold us.
+shaken	agree	6	Agreed. I do my part.
+shaken	agree	6	Yes. Just give me a beat.
+shaken	agree	6	Aye. Honour keeps me upright.
+shaken	agree	6	Right. Together on this.
+shaken	agree	6	Agreed. Slow and steady.
+shaken	agree	6	Yes. I am with you, breath at a time.
+shaken	agree	6	Aye. Lead the rank, I will follow.
+shaken	agree	6	Right. We do this together.
+shaken	agree	6	Agreed. Once I rise.
+shaken	agree	6	Yes. Shield up, slow.
+shaken	agree	6	Aye. The captain would say so.
+shaken	agree	6	Right. I keep up.
+shaken	agree	6	Agreed. The line is enough.
+shaken	agree	6	Yes. Steady steps now.
+shaken	agree	6	Aye. We hold each other up.
+shaken	agree	6	Right. With you, friend.
+shaken	agree	6	Agreed. I find my feet on the way.
+shaken	agree	6	Yes. Lead me to the wall.
+shaken	agree	6	Aye. I will stand when called.
+shaken	agree	6	Right. We are still here.
+shaken	agree	6	Agreed. We hold, you and I.
+shaken	warn	6	Mind the breach. Still soft.
+shaken	warn	6	Watch the wall. The stones loosened.
+shaken	warn	6	Careful at the gate. The hinge bent.
+shaken	warn	6	Mind your step. Blood on the stone.
+shaken	warn	6	Watch the door. The bar cracked.
+shaken	warn	6	Careful. The shield wall thinned.
+shaken	warn	6	Mind the wounded. Step around them.
+shaken	warn	6	Watch the postern. The latch is bent.
+shaken	warn	6	Careful with the helm. It split.
+shaken	warn	6	Mind the floor. Slippery still.
+shaken	warn	6	Watch the watch tower. It leans.
+shaken	warn	6	Careful at the stairs. Loose stone.
+shaken	warn	6	Mind the bridge. It groans.
+shaken	warn	6	Watch the colors. The pole cracked.
+shaken	warn	6	Careful. The keep door is heavy now.
+shaken	warn	6	Mind the lance racks. Most are down.
+shaken	warn	6	Watch the inner gate. Hinge is gone.
+shaken	warn	6	Careful with the strap. Mine snapped.
+shaken	warn	6	Mind the courtyard. Glass underfoot.
+shaken	warn	6	Watch the wall walk. Half is down.
+shaken	warn	6	Careful. My shield arm will not catch you.
+shaken	warn	6	Mind the horses. Spooked still.
+shaken	warn	6	Watch the bell tower. It cracked.
+shaken	warn	6	Careful with the gate key. I dropped it once.
+shaken	warn	6	Mind the chapel door. It groans.
+shaken	warn	6	Watch the stairs to the keep. Slick.
+shaken	warn	6	Careful. The line is thin tonight.
+shaken	warn	6	Mind the wounded by the wall.
+shaken	warn	6	Watch the bow line. Short of arrows.
+shaken	warn	6	Careful with the helm strap. Mine cut me.
+shaken	warn	6	Mind the post. Loose stones.
+shaken	warn	6	Watch the gate. Beam is split.
+shaken	warn	6	Careful. The wall walk sags.
+shaken	warn	6	Mind the bridge rope. Frayed through.
+shaken	warn	6	Watch the squires. They are pale.
+shaken	warn	6	Careful at the breach. Still shifting.
+shaken	warn	6	Mind the south wall. It is yielding.
+shaken	warn	6	Watch the colors when they raise them.
+shaken	warn	6	Careful with the lance. The grip cracked.
+shaken	warn	6	Mind the gate hinge. It will not last.

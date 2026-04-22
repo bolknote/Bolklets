@@ -1,0 +1,264 @@
+/*
+ * bolklets styles.
+ *
+ * bolklets is designed to be dropped into an existing page as a
+ * decorative strip pinned to the bottom of the document.  Every
+ * selector, CSS custom property, and @keyframes name is prefixed
+ * with `bolklets-` so nothing can collide with the host page's own
+ * styles. The stylesheet deliberately does not touch html/body.
+ *
+ * Host page usage:
+ *   <div id="bolklets-stage">
+ *     <canvas id="bolklets-scene" width="800" height="300"></canvas>
+ *     <div id="bolklets-bubbles"></div>
+ *     <div id="bolklets-hud"><span id="bolklets-status"></span></div>
+ *   </div>
+ *
+ * The source is written for readability; build.py runs it through
+ * esbuild's CSS minifier on the way into the bundle.  A few
+ * size-conscious choices are made anyway:
+ *   • The font stack is hoisted into a `--bf` custom property so
+ *     the long literal only appears once instead of three times.
+ *   • The bubble's two arrow pseudo-elements share a rule for the
+ *     properties they have in common, with only the colour / size
+ *     bits split out per-side.
+ *   • The pop-in / fade-out animations use the standalone
+ *     `translate` and `scale` CSS properties so the keyframes
+ *     don't have to repeat the bubble's `translate(-50%,-100%)`
+ *     baseline transform on every frame.
+ */
+
+#bolklets-stage {
+  /* Custom properties live on #bolklets-stage (not :root) so the
+     host page's :root stays clean.  Descendants inherit them. */
+  --bolklets-bubble-bg: #fdf6e3;
+  --bolklets-bubble-ink: #111;
+  --bf: 'Press Start 2P', 'Courier New', monospace;
+
+  /* The strip sits at the end of the document flow as a 300px-tall
+     band that spans the full page width.  It scrolls with the page
+     (not fixed to the viewport) so it acts like a decorative floor
+     under the host page's content. */
+  position: relative;
+  width: 100%;
+  height: 300px;
+  pointer-events: none;
+  background: transparent;
+  font-family: var(--bf);
+  overflow: hidden;
+}
+
+#bolklets-scene {
+  /* Fill the full stage strip.  The canvas's internal pixel size is
+     set from JS to match the stage's real CSS size so each canvas
+     pixel maps to one CSS pixel (no blurry scaling). */
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  image-rendering: pixelated;
+  display: block;
+  background: transparent;
+}
+
+#bolklets-bubbles {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.bolklets-bubble {
+  position: absolute;
+  /* Standalone `translate` (not `transform: translate(...)`) so the
+     pop-in / fade-out keyframes can animate `scale` independently
+     without having to restate the centering offset on every frame. */
+  translate: -50% -100%;
+  background: var(--bolklets-bubble-bg);
+  color: var(--bolklets-bubble-ink);
+  padding: 5px 7px 6px;
+  font-size: 7px;
+  line-height: 1.35;
+  max-width: 120px;
+  min-width: 40px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  font-family: var(--bf);
+  /* Pixel-style chunky border drawn with box-shadow so it stays crisp. */
+  box-shadow:
+    0 0 0 1px var(--bolklets-bubble-ink),
+    0 0 0 3px var(--bolklets-bubble-bg),
+    0 0 0 4px var(--bolklets-bubble-ink),
+    3px 3px 0 4px rgba(0, 0, 0, 0.35);
+  border-radius: 2px;
+  animation: bolklets-pop-in 180ms steps(3, end);
+}
+
+/* Both arrow pseudo-elements share the same pixel placement; only
+   the colour, the bottom offset, and the border thickness differ.
+   Hoisting the shared bits into a single rule cuts the CSS by
+   ~80 bytes versus repeating them in two adjacent rules.
+
+   Arrow position is offset from the bubble's centre by
+   `--bolklets-arrow-x` (set per-bubble by the layout pass in
+   dialog.js).  When two characters stand close enough that their
+   bubbles get pushed sideways to avoid overlapping, the arrow keeps
+   pointing at the original speaker instead of at the centre of the
+   shifted bubble. */
+.bolklets-bubble::after,
+.bolklets-bubble::before {
+  content: "";
+  position: absolute;
+  left: calc(50% + var(--bolklets-arrow-x, 0px));
+  width: 0;
+  height: 0;
+  translate: -50% 0;
+}
+.bolklets-bubble::after {
+  bottom: -5px;
+  border: 4px solid transparent;
+  border-top-color: var(--bolklets-bubble-ink);
+  filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.2));
+}
+.bolklets-bubble::before {
+  bottom: -3px;
+  border: 3px solid transparent;
+  border-top-color: var(--bolklets-bubble-bg);
+}
+
+.bolklets-bubble.bolklets-fade {
+  animation: bolklets-fade-out 200ms steps(3, end) forwards;
+}
+
+/* Robot speaks in a stripped-down "digital readout" bubble.  The
+   look is driven entirely by the LCD-green palette + the chunky
+   green border below — we deliberately do NOT swap font-family
+   here.  Earlier revisions used 'Courier New' so the text would
+   read as "digital terminal", but Courier New is a vector font:
+   at the same nominal `font-size: 7px` as everyone else's
+   'Press Start 2P' bubble (which is a bitmap-style pixel font and
+   actually fills the full 7 px), Courier renders at roughly HALF
+   the perceived size — capital letters end up ~3 px tall instead
+   of 7.  Successive attempts to compensate (6 px override, then
+   inheriting 7 px) all bottomed out on the same problem: same
+   numeric size, very different visual size.  Re-using the cast's
+   font-family is the only invariant that guarantees exact size
+   parity, and the LCD-green palette is more than enough on its
+   own to read the bubble as "robot / digital".  We still keep the
+   font-smoothing knobs (`-webkit-font-smoothing: none`, etc.) to
+   discourage subpixel AA on the green-on-black text, which is
+   where a smoothed vector font would look most out of place. */
+.bolklets-bubble.bolklets-by-robot {
+  background: #0e1614;
+  color: #9bff7a;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  font-smooth: never;
+  text-rendering: optimizeSpeed;
+  box-shadow:
+    0 0 0 1px #9bff7a,
+    0 0 0 3px #0e1614,
+    0 0 0 4px #9bff7a,
+    3px 3px 0 4px rgba(0, 0, 0, 0.55);
+}
+.bolklets-bubble.bolklets-by-robot::after  { border-top-color: #9bff7a; }
+.bolklets-bubble.bolklets-by-robot::before { border-top-color: #0e1614; }
+
+/* Cartoon swear-bubble: smaller, loud yellow with a red ink colour
+   so it reads as a flash of pain and anger, not a conversation. */
+.bolklets-bubble.bolklets-curse {
+  background: #fff0a0;
+  color: #b01020;
+  font-size: 9px;
+  line-height: 1;
+  min-width: 0;
+  max-width: none;
+  padding: 4px 5px 5px;
+  letter-spacing: 0.7px;
+  box-shadow:
+    0 0 0 1px #b01020,
+    0 0 0 3px #fff0a0,
+    0 0 0 4px #b01020,
+    2px 2px 0 4px rgba(0, 0, 0, 0.35);
+}
+.bolklets-bubble.bolklets-curse::after  { border-top-color: #b01020; }
+.bolklets-bubble.bolklets-curse::before { border-top-color: #fff0a0; }
+
+/* "Help!" bubble: same footprint as a normal chat bubble (7 px type,
+   standard chunky border) but hot orange + red ink.  Continuous
+   shake supplies the panic cue — no extra font or frame size.  The
+   shake keyframes only touch `rotate`, which is its own standalone
+   CSS property, so the bubble's base `translate` (used to pin it
+   above the speaker) keeps working untouched. */
+.bolklets-bubble.bolklets-help {
+  background: #ffd040;
+  color: #a01010;
+  font-size: 7px;
+  line-height: 1.35;
+  letter-spacing: 0.3px;
+  padding: 5px 7px 6px;
+  box-shadow:
+    0 0 0 1px #a01010,
+    0 0 0 3px #ffd040,
+    0 0 0 4px #a01010,
+    3px 3px 0 4px rgba(0, 0, 0, 0.35);
+  animation:
+    bolklets-pop-in 180ms steps(3, end),
+    bolklets-help-shake 540ms steps(6, end) 200ms infinite;
+}
+.bolklets-bubble.bolklets-help::after  { border-top-color: #a01010; }
+.bolklets-bubble.bolklets-help::before { border-top-color: #ffd040; }
+
+@keyframes bolklets-help-shake {
+  0%, 100% { rotate: 0deg }
+  20%      { rotate: -4deg }
+  40%      { rotate:  3deg }
+  60%      { rotate: -2deg }
+  80%      { rotate:  2deg }
+}
+
+/* Animations only touch `scale` (and, for fade-out, `opacity` +
+   `translate`) — the bubble's base `translate` keeps it centred
+   for the frames where the keyframe doesn't override translate at
+   all.  Missing 100% in pop-in is intentional: scale falls back to
+   the base value of 1 for the final step, which is what we want. */
+@keyframes bolklets-pop-in {
+  0%  { scale: 0.2 }
+  50% { scale: 1.1 }
+}
+
+@keyframes bolklets-fade-out {
+  to { opacity: 0; translate: -50% -110%; scale: 0.95 }
+}
+
+#bolklets-hud {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  font-size: 9px;
+  padding: 6px 8px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-family: var(--bf);
+}
+
+#bolklets-hud.bolklets-hidden {
+  display: none;
+}
+
+/* Build watermark: tiny translucent label pinned to the bottom-right
+   of the lawn strip.  White-on-grass with low alpha + a faint dark
+   shadow keeps it readable over both light and dark patches of the
+   pre-rendered lawn without ever shouting for attention. */
+#bolklets-build {
+  position: absolute;
+  bottom: 5px;
+  right: 7px;
+  font-family: var(--bf);
+  font-size: 7px;
+  letter-spacing: 0.5px;
+  color: rgba(255, 255, 255, 0.45);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+  pointer-events: none;
+  z-index: 1;
+}

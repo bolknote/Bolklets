@@ -1,0 +1,960 @@
+calm	greet	6	Shadows quiet. You came.
+calm	greet	6	From the rooftop, I saw you.
+calm	greet	6	Hush. Sit. Welcome.
+calm	greet	6	Watch the door. Then sit.
+calm	greet	6	Silent as the wind, hello.
+calm	greet	6	The eaves are clear. Come in.
+calm	greet	6	Quiet hour. Glad you found me.
+calm	greet	6	From the shadows, hello.
+calm	greet	6	The mark is loose. Sit.
+calm	greet	6	Late. Good. Take the perch.
+calm	greet	6	The blade is sheathed. Welcome.
+calm	greet	6	Patient steps brought you here.
+calm	greet	6	Smoke is settled. Sit.
+calm	greet	6	The moon walks slow. You too.
+calm	greet	6	Hush. The rooftops are clear.
+calm	greet	6	Wind brought you in.
+calm	greet	6	Quiet road, I see. Welcome.
+calm	greet	6	The dust says you crossed it.
+calm	greet	6	Rooftop is empty. Come up.
+calm	greet	6	From the perch, I marked you early.
+calm	greet	6	Silent night. Glad you came.
+calm	greet	6	The blade rests. Sit close.
+calm	greet	6	Watch your step on the tiles.
+calm	greet	6	Hush, friend. The roofs are still.
+calm	greet	6	Even the moon is quiet.
+calm	greet	6	The wind told me first.
+calm	greet	6	Found a still corner. Yours.
+calm	greet	6	Smoke is low. Welcome.
+calm	greet	6	Patient as the eaves. Hello.
+calm	greet	6	Glad you walked light.
+calm	greet	6	Shadows leaned your way.
+calm	greet	6	Late, but sure. Good.
+calm	greet	6	The signal said clear. Come.
+calm	greet	6	Hush. Take the dark side.
+calm	greet	6	The watch is mine. Sit.
+calm	greet	6	From above, hello.
+calm	greet	6	The roof tile creaked, then you.
+calm	greet	6	Quiet hands. Quiet face. Welcome.
+calm	greet	6	Walked silent. Good.
+calm	greet	6	Shadows kept you. Come closer.
+calm	farewell	6	Off. The rooftops call.
+calm	farewell	6	Going dark. Catch you later.
+calm	farewell	6	To the shadows. Be well.
+calm	farewell	6	Wind is right. I move.
+calm	farewell	6	The perch waits. Later.
+calm	farewell	6	Quiet steps. Until then.
+calm	farewell	6	From here, I vanish. Bye.
+calm	farewell	6	Sliding off the roof. Later.
+calm	farewell	6	Smoke up. See you.
+calm	farewell	6	Take the back path. I will.
+calm	farewell	6	Stay quiet. I am gone.
+calm	farewell	6	Off to the eaves. Later.
+calm	farewell	6	Walk light. I will too.
+calm	farewell	6	The moon is up. Going.
+calm	farewell	6	Hush. I leave.
+calm	farewell	6	From the shadows, farewell.
+calm	farewell	6	The blade goes back to its sheath.
+calm	farewell	6	Patient steps until next.
+calm	farewell	6	Until the signal. Bye.
+calm	farewell	6	Rooftop bound. Take care.
+calm	farewell	6	Off into the wind.
+calm	farewell	6	Going still. See you.
+calm	farewell	6	The mark is set. I move.
+calm	farewell	6	Slipping out. Stay sharp.
+calm	farewell	6	Bye. Walk soft.
+calm	farewell	6	Going to the dark side of the roof.
+calm	farewell	6	Off, silent. Later.
+calm	farewell	6	The smoke is mine. Bye.
+calm	farewell	6	Be patient. I will return.
+calm	farewell	6	Late hour calls. Off.
+calm	farewell	6	The shadows pull. Going.
+calm	farewell	6	Until next watch. Bye.
+calm	farewell	6	Off, quietly. Be steady.
+calm	farewell	6	Going to the perch. Later.
+calm	farewell	6	Walk well. I vanish.
+calm	farewell	6	Off, quick and quiet.
+calm	farewell	6	The wind opens. Bye.
+calm	farewell	6	To the rooftops. Later.
+calm	farewell	6	Going. Keep low.
+calm	farewell	6	Slipping into the dark. Bye.
+calm	chatter	6	The rooftops are warm tonight.
+calm	chatter	6	Wind is light. Easy walk.
+calm	chatter	6	The smoke pots are full.
+calm	chatter	6	Quiet is its own gift.
+calm	chatter	6	The blade is sharp enough.
+calm	chatter	6	The moon is patient tonight.
+calm	chatter	6	Slow night for marks.
+calm	chatter	6	The eaves smell of rain.
+calm	chatter	6	The dust holds my prints.
+calm	chatter	6	Soft tiles. Soft steps.
+calm	chatter	6	Good night to watch nothing.
+calm	chatter	6	The shadows are honest tonight.
+calm	chatter	6	The wind stays west.
+calm	chatter	6	The perch is mine again.
+calm	chatter	6	The smoke clears clean.
+calm	chatter	6	Patient hands keep their edge.
+calm	chatter	6	The streets are sleeping.
+calm	chatter	6	The blade likes a slow night.
+calm	chatter	6	The mark moved early. Easy.
+calm	chatter	6	Rooftops dry well in this wind.
+calm	chatter	6	The signal is plain.
+calm	chatter	6	Even the dogs are quiet.
+calm	chatter	6	Soft moon, soft work.
+calm	chatter	6	The watch is gentle today.
+calm	chatter	6	The smoke pouch is fresh.
+calm	chatter	6	The dark holds without me.
+calm	chatter	6	Wind tastes of cold stone.
+calm	chatter	6	The perch creaks a little.
+calm	chatter	6	The blade slept well.
+calm	chatter	6	Quiet rooms keep my peace.
+calm	chatter	6	The signal is steady.
+calm	chatter	6	The rooftop is empty for once.
+calm	chatter	6	My breath stays low.
+calm	chatter	6	Patient nights are best.
+calm	chatter	6	The shadows share the eaves.
+calm	chatter	6	Smoke climbs straight tonight.
+calm	chatter	6	The wind hides my step.
+calm	chatter	6	Still water. Still mind.
+calm	chatter	6	The mark walks home. Done.
+calm	chatter	6	The dust settles quiet.
+calm	ask	6	Is the roof clear?
+calm	ask	6	Did the wind shift?
+calm	ask	6	Watch is quiet?
+calm	ask	6	Mark in sight?
+calm	ask	6	Did you take the back lane?
+calm	ask	6	The signal still good?
+calm	ask	6	Anyone on the eaves?
+calm	ask	6	Is the smoke ready?
+calm	ask	6	Is the blade sharp?
+calm	ask	6	Did you walk soft?
+calm	ask	6	Moon still high?
+calm	ask	6	Dust on your boots?
+calm	ask	6	Is the perch open?
+calm	ask	6	Did the mark move?
+calm	ask	6	Quiet on your side?
+calm	ask	6	Wind from the west still?
+calm	ask	6	The rooftop dry?
+calm	ask	6	You spot the patrol?
+calm	ask	6	Did the dogs hear?
+calm	ask	6	The smoke pouch full?
+calm	ask	6	Did the door creak?
+calm	ask	6	Is the alley clean?
+calm	ask	6	Anyone watching the eaves?
+calm	ask	6	The signal sound right?
+calm	ask	6	Did you keep low?
+calm	ask	6	The blade still where I left it?
+calm	ask	6	Mark walking yet?
+calm	ask	6	Did the wind cover you?
+calm	ask	6	Roof tiles loose?
+calm	ask	6	The shadow long enough?
+calm	ask	6	Did the candle stay lit?
+calm	ask	6	Did the lock hold?
+calm	ask	6	The mark alone?
+calm	ask	6	Quiet at the gate?
+calm	ask	6	Did the watch pass?
+calm	ask	6	Is the wind keeping?
+calm	ask	6	Did the smoke clear?
+calm	ask	6	Is the mark steady?
+calm	ask	6	The perch still safe?
+calm	ask	6	Did the signal come twice?
+calm	answer	6	Yes. The roof is clear.
+calm	answer	6	No. The wind turned.
+calm	answer	6	Maybe. The mark slowed.
+calm	answer	6	Yes. The signal held.
+calm	answer	6	No. The smoke was off.
+calm	answer	6	Right. The blade is set.
+calm	answer	6	Yes. Walked soft.
+calm	answer	6	No. Patrol came early.
+calm	answer	6	Mostly. Quiet enough.
+calm	answer	6	Yes. The eaves were empty.
+calm	answer	6	No. The mark turned south.
+calm	answer	6	Yes. Wind covered me.
+calm	answer	6	Right. The perch is open.
+calm	answer	6	Yes. Saw two, lost three.
+calm	answer	6	No. The dogs did not hear.
+calm	answer	6	Yes. The smoke is fresh.
+calm	answer	6	No. The blade stayed sheathed.
+calm	answer	6	Yes. The dust is light.
+calm	answer	6	Right. The watch is two.
+calm	answer	6	Yes. The signal came twice.
+calm	answer	6	No. The lock held.
+calm	answer	6	Yes. The roof carried me.
+calm	answer	6	No. The mark stayed home.
+calm	answer	6	Right. The wind is steady.
+calm	answer	6	Yes. Door did not creak.
+calm	answer	6	No. Patrol passed wide.
+calm	answer	6	Yes. The shadow held.
+calm	answer	6	No. The smoke pouch is dry.
+calm	answer	6	Right. The mark walked north.
+calm	answer	6	Yes. The eaves kept me.
+calm	answer	6	No. Heard nothing strange.
+calm	answer	6	Yes. The moon was kind.
+calm	answer	6	Right. The blade is keen.
+calm	answer	6	Yes. The signal was plain.
+calm	answer	6	No. The patrol missed me.
+calm	answer	6	Yes. The perch is mine.
+calm	answer	6	No. The wind dropped early.
+calm	answer	6	Right. Mark sleeps now.
+calm	answer	6	Yes. Quiet all the way.
+calm	answer	6	No. The dust did not lift.
+calm	refuse	6	No. Not from the roof tonight.
+calm	refuse	6	Not now. The wind is wrong.
+calm	refuse	6	No. The mark is too clean.
+calm	refuse	6	Not this one. Too lit.
+calm	refuse	6	No. The eaves are watched.
+calm	refuse	6	Not yet. The signal lags.
+calm	refuse	6	No. Smoke would show.
+calm	refuse	6	Not tonight. The moon is full.
+calm	refuse	6	No. The blade rests.
+calm	refuse	6	Not from above. Not safe.
+calm	refuse	6	No. The patrol doubled.
+calm	refuse	6	Not there. The tiles loosen.
+calm	refuse	6	No. The dust would mark me.
+calm	refuse	6	Not now. The dogs are out.
+calm	refuse	6	No. The perch is taken.
+calm	refuse	6	Not yet. Wind too thin.
+calm	refuse	6	No. The signal said no.
+calm	refuse	6	Not the alley. Lit lamps.
+calm	refuse	6	No. The shadow is too short.
+calm	refuse	6	Not now. The street is awake.
+calm	refuse	6	No. The mark moved early.
+calm	refuse	6	Not from here. Too open.
+calm	refuse	6	No. The smoke would catch.
+calm	refuse	6	Not yet. The watch is fresh.
+calm	refuse	6	No. Bad angle.
+calm	refuse	6	Not tonight. Wrong moon.
+calm	refuse	6	No. The roof is wet.
+calm	refuse	6	Not that one. He looks up.
+calm	refuse	6	No. The blade is for later.
+calm	refuse	6	Not from the eaves. Too narrow.
+calm	refuse	6	No. The signal never came.
+calm	refuse	6	Not now. The wind drops late.
+calm	refuse	6	No. Lock is too new.
+calm	refuse	6	Not from above. Drop is bad.
+calm	refuse	6	No. The smoke would settle wrong.
+calm	refuse	6	Not yet. The mark waits.
+calm	refuse	6	No. The dust is loud.
+calm	refuse	6	Not the gate. Two guards.
+calm	refuse	6	No. The watch is doubled.
+calm	refuse	6	Not me. Not tonight.
+calm	agree	6	Yes. The roof is good.
+calm	agree	6	Right. The signal is clean.
+calm	agree	6	Agreed. Quiet works.
+calm	agree	6	Yes. Take the eaves.
+calm	agree	6	Sure. The wind covers us.
+calm	agree	6	Yes. Patient is best.
+calm	agree	6	Right. The blade can wait.
+calm	agree	6	Agreed. The smoke goes first.
+calm	agree	6	Yes. The perch is set.
+calm	agree	6	Sure. From the shadow side.
+calm	agree	6	Yes. Mark him from above.
+calm	agree	6	Right. Soft steps win.
+calm	agree	6	Agreed. The moon helps.
+calm	agree	6	Yes. The wind is with us.
+calm	agree	6	Sure. Drop from the eaves.
+calm	agree	6	Yes. Hold the watch.
+calm	agree	6	Right. The signal is set.
+calm	agree	6	Agreed. We move on three.
+calm	agree	6	Yes. Smoke at the door.
+calm	agree	6	Sure. The roof carries.
+calm	agree	6	Yes. Take the back lane.
+calm	agree	6	Right. The dust will hide us.
+calm	agree	6	Agreed. The blade comes last.
+calm	agree	6	Yes. The mark is yours.
+calm	agree	6	Sure. I have the perch.
+calm	agree	6	Yes. Wait for the wind.
+calm	agree	6	Right. The smoke pouch is full.
+calm	agree	6	Agreed. Quiet first, fast after.
+calm	agree	6	Yes. Drop on signal.
+calm	agree	6	Sure. The shadow is long enough.
+calm	agree	6	Yes. From the eaves.
+calm	agree	6	Right. The watch will pass.
+calm	agree	6	Agreed. The moon will help.
+calm	agree	6	Yes. Take the rooftop way.
+calm	agree	6	Sure. The wind is honest.
+calm	agree	6	Yes. Hush and go.
+calm	agree	6	Right. Mark, then move.
+calm	agree	6	Agreed. Patient wins.
+calm	agree	6	Yes. The signal at three.
+calm	agree	6	Sure. The blade goes silent.
+calm	warn	6	Watch the loose tile by the eave.
+calm	warn	6	Mind the dog at the gate.
+calm	warn	6	Keep low at the wall.
+calm	warn	6	Watch the lit window.
+calm	warn	6	Move soft past the door.
+calm	warn	6	Hold the blade close.
+calm	warn	6	Watch the smoke. It carries.
+calm	warn	6	Mind the wind on the roof.
+calm	warn	6	Stay clear of the dust.
+calm	warn	6	Watch the patrol. It doubles.
+calm	warn	6	Mind the loose stone.
+calm	warn	6	Keep to the shadow side.
+calm	warn	6	Watch the eaves at the corner.
+calm	warn	6	Move with the wind, not against.
+calm	warn	6	Hold the smoke pouch dry.
+calm	warn	6	Watch the moon. It shows you.
+calm	warn	6	Mind the perch. The wood gives.
+calm	warn	6	Stay below the lantern.
+calm	warn	6	Watch the mark twice.
+calm	warn	6	Move only on the signal.
+calm	warn	6	Keep your blade clean.
+calm	warn	6	Watch the cat. It tells.
+calm	warn	6	Mind the door. It sticks loud.
+calm	warn	6	Stay off the wet tile.
+calm	warn	6	Watch the candle. It draws eyes.
+calm	warn	6	Move past the dust gently.
+calm	warn	6	Hold the roof line.
+calm	warn	6	Watch the second guard.
+calm	warn	6	Mind the loose ladder.
+calm	warn	6	Keep the wind at your back.
+calm	warn	6	Watch the rope. It frays.
+calm	warn	6	Move through the shadow.
+calm	warn	6	Hold your breath at the lock.
+calm	warn	6	Watch the open shutter.
+calm	warn	6	Mind the bell on the gate.
+calm	warn	6	Stay off the gravel.
+calm	warn	6	Watch the steps. They creak.
+calm	warn	6	Move slow on the tiles.
+calm	warn	6	Hold the signal until clear.
+calm	warn	6	Watch the lamp by the door.
+tense	greet	6	You came. Mark left. Watch.
+tense	greet	6	Down. Behind the cart.
+tense	greet	6	Quick. The eaves are watched.
+tense	greet	6	Move. Patrol incoming.
+tense	greet	6	Sit low. They are close.
+tense	greet	6	Hush. Two on the roof.
+tense	greet	6	Quick, in. The street woke.
+tense	greet	6	Eyes up. They are coming.
+tense	greet	6	From the shadow. Stay there.
+tense	greet	6	Drop. Hold the blade ready.
+tense	greet	6	Move. The dogs are loud.
+tense	greet	6	Get down. Patrol is two streets.
+tense	greet	6	Quiet. They moved early.
+tense	greet	6	In, fast. The mark turned.
+tense	greet	6	Behind me. Stay low.
+tense	greet	6	Hush. The watch tripled.
+tense	greet	6	Quick steps. Trouble at the gate.
+tense	greet	6	Down. Wait. They pass in three.
+tense	greet	6	Move. The wind betrayed me.
+tense	greet	6	Eyes ahead. The guards split.
+tense	greet	6	Quick. The smoke is gone.
+tense	greet	6	Behind the wall. Now.
+tense	greet	6	Cover the door. They are coming.
+tense	greet	6	Move. The mark spotted me.
+tense	greet	6	Down low. Shadows are thin.
+tense	greet	6	Quick. The blade is needed.
+tense	greet	6	Hold the perch. Enemy below.
+tense	greet	6	Drop. Roll. Stay flat.
+tense	greet	6	Quiet. The roof creaks now.
+tense	greet	6	In. The patrol is on us.
+tense	greet	6	Move past the lantern. Fast.
+tense	greet	6	Behind the chimney. Hold.
+tense	greet	6	Quick. The dogs caught a scent.
+tense	greet	6	Hush. Listen for boots.
+tense	greet	6	Move. They closed the lane.
+tense	greet	6	Down. Hold. They walk by.
+tense	greet	6	Quick. The signal failed.
+tense	greet	6	Behind. Watch the eaves.
+tense	greet	6	Move now. The wind dropped.
+tense	greet	6	Hush. Eyes on the roof.
+tense	farewell	6	Go. The mark is moving.
+tense	farewell	6	Run the eaves. Hurry.
+tense	farewell	6	Move. I cover the door.
+tense	farewell	6	Go low. Trouble is close.
+tense	farewell	6	Off. The patrol is on us.
+tense	farewell	6	Go quick. The roof is loud.
+tense	farewell	6	Move. The smoke will hide you.
+tense	farewell	6	Run. The dogs are out.
+tense	farewell	6	Go. The blade is mine now.
+tense	farewell	6	Move. They split. Take the right.
+tense	farewell	6	Off. The wind is wrong, hurry.
+tense	farewell	6	Go fast. The eaves are watched.
+tense	farewell	6	Run flat. Stay below the wall.
+tense	farewell	6	Move. The mark turned my way.
+tense	farewell	6	Off the roof. They saw smoke.
+tense	farewell	6	Go. I draw them west.
+tense	farewell	6	Run. The signal is broken.
+tense	farewell	6	Move. The shadow is shrinking.
+tense	farewell	6	Off. Hide in the alley.
+tense	farewell	6	Go. They are three on the roof.
+tense	farewell	6	Run. Keep the wind at back.
+tense	farewell	6	Move quick. The watch is awake.
+tense	farewell	6	Off. I take the bait.
+tense	farewell	6	Go. The lantern lit too soon.
+tense	farewell	6	Run the back wall. Now.
+tense	farewell	6	Move. They cut the lane.
+tense	farewell	6	Off the perch. Drop hard.
+tense	farewell	6	Go. The mark calls help.
+tense	farewell	6	Run. The smoke is thinning.
+tense	farewell	6	Move. Eyes ahead. Not back.
+tense	farewell	6	Off. Stay below the roof line.
+tense	farewell	6	Go. The blade is loose tonight.
+tense	farewell	6	Run. Keep low past the gate.
+tense	farewell	6	Move. The patrol turned.
+tense	farewell	6	Off, go. The dogs picked me.
+tense	farewell	6	Go. Stay in the shadow line.
+tense	farewell	6	Run. The wind tells.
+tense	farewell	6	Move. The street is full.
+tense	farewell	6	Off. Mark is bringing more.
+tense	farewell	6	Go. The roof is mine to draw.
+tense	chatter	6	The wind dropped. Bad.
+tense	chatter	6	The eaves are crowded.
+tense	chatter	6	The mark is awake.
+tense	chatter	6	The patrol just doubled.
+tense	chatter	6	Smoke pouch is wet.
+tense	chatter	6	The blade caught a glint.
+tense	chatter	6	The dogs are not done.
+tense	chatter	6	The roof tile slid loud.
+tense	chatter	6	The shadow is too thin.
+tense	chatter	6	The signal came late.
+tense	chatter	6	They moved the lantern out.
+tense	chatter	6	The lock is new and slow.
+tense	chatter	6	The mark looks up too much.
+tense	chatter	6	The watch keeps splitting.
+tense	chatter	6	The street is awake early.
+tense	chatter	6	The wind tastes of trouble.
+tense	chatter	6	The smoke went the wrong way.
+tense	chatter	6	The eaves creak under me.
+tense	chatter	6	The dust holds my prints now.
+tense	chatter	6	Two on the rooftop now.
+tense	chatter	6	The blade is heavy tonight.
+tense	chatter	6	The mark hired a guard.
+tense	chatter	6	The signal is jammed.
+tense	chatter	6	The shadow keeps shrinking.
+tense	chatter	6	The lantern shows too much.
+tense	chatter	6	The roof is full of eyes.
+tense	chatter	6	The dogs sniff the wall.
+tense	chatter	6	The wind is loud, not soft.
+tense	chatter	6	The patrol cut the route.
+tense	chatter	6	The mark called for steel.
+tense	chatter	6	The smoke caught a breeze.
+tense	chatter	6	The perch is wet and loud.
+tense	chatter	6	The blade is asking for use.
+tense	chatter	6	The eaves shake too easy.
+tense	chatter	6	The signal post is watched.
+tense	chatter	6	The watch tripled at the gate.
+tense	chatter	6	The shadow above me bent.
+tense	chatter	6	The wind keeps shifting.
+tense	chatter	6	The smoke pot popped early.
+tense	chatter	6	The mark heard a step.
+tense	ask	6	Where is the watch?
+tense	ask	6	How many on the roof?
+tense	ask	6	Did the mark turn back?
+tense	ask	6	Is the eave clear?
+tense	ask	6	Did the patrol split?
+tense	ask	6	Where is the smoke?
+tense	ask	6	Did the signal hold?
+tense	ask	6	Are the dogs loose?
+tense	ask	6	Did the wind drop?
+tense	ask	6	How close are they?
+tense	ask	6	Is the alley cut?
+tense	ask	6	Did the lantern catch us?
+tense	ask	6	How fast are they moving?
+tense	ask	6	Did the blade stick?
+tense	ask	6	Is the perch holding?
+tense	ask	6	Did the door creak loud?
+tense	ask	6	Where did the second guard go?
+tense	ask	6	Did the mark hear that?
+tense	ask	6	Is the rooftop watched?
+tense	ask	6	Did the smoke clear in time?
+tense	ask	6	How many around the corner?
+tense	ask	6	Did the dust lift?
+tense	ask	6	Is the wind at our back?
+tense	ask	6	Did the lock break?
+tense	ask	6	Are they moving now?
+tense	ask	6	Did the roof tile fall?
+tense	ask	6	Is the shadow long enough?
+tense	ask	6	Did the cat run?
+tense	ask	6	How wide is the gap?
+tense	ask	6	Did they call for more?
+tense	ask	6	Is the gate open?
+tense	ask	6	Did the blade catch light?
+tense	ask	6	Are the eaves safe?
+tense	ask	6	Did you mark the second one?
+tense	ask	6	Is the route still clean?
+tense	ask	6	Did the patrol pass yet?
+tense	ask	6	Are they coming up the wall?
+tense	ask	6	Did the dog smell us?
+tense	ask	6	Is the signal still warm?
+tense	ask	6	Did the mark see your shadow?
+tense	answer	6	Yes. Three on the roof.
+tense	answer	6	No. The signal failed.
+tense	answer	6	Two left, one right.
+tense	answer	6	Yes. The mark turned.
+tense	answer	6	No. The eaves are blocked.
+tense	answer	6	Mark is awake. Hurry.
+tense	answer	6	Yes. The dogs are loose.
+tense	answer	6	No. The wind dropped on us.
+tense	answer	6	Two patrols. Cut us off.
+tense	answer	6	Yes. The lantern caught me.
+tense	answer	6	No. The blade stuck.
+tense	answer	6	Watch is split, but coming.
+tense	answer	6	Yes. They saw the smoke.
+tense	answer	6	No. The perch held.
+tense	answer	6	Three on the rooftop now.
+tense	answer	6	Yes. The mark called for guards.
+tense	answer	6	No. Signal never reached us.
+tense	answer	6	Hard run ahead. Move.
+tense	answer	6	Yes. The dogs sniffed us.
+tense	answer	6	No. The shadow is gone.
+tense	answer	6	They closed the alley. Go around.
+tense	answer	6	Yes. The wind betrayed us.
+tense	answer	6	No. The lock broke loud.
+tense	answer	6	Patrol on us in two.
+tense	answer	6	Yes. The mark is armed.
+tense	answer	6	No. The smoke pot misfired.
+tense	answer	6	Two more from the eaves.
+tense	answer	6	Yes. The roof is loud.
+tense	answer	6	No. The signal lags.
+tense	answer	6	Mark cut the rope.
+tense	answer	6	Yes. The dust shows our line.
+tense	answer	6	No. The blade is stuck in wood.
+tense	answer	6	Three coming up the wall.
+tense	answer	6	Yes. They split. Take left.
+tense	answer	6	No. The lantern stayed lit.
+tense	answer	6	Wind shifted. Bad cover.
+tense	answer	6	Yes. The dog caught us.
+tense	answer	6	No. The watch did not see.
+tense	answer	6	Mark is on the move.
+tense	answer	6	Yes. The roof is breaking.
+tense	refuse	6	No. The roof is watched.
+tense	refuse	6	Not now. The wind turned wrong.
+tense	refuse	6	No. The mark sees too well.
+tense	refuse	6	Not from the eaves. Watched.
+tense	refuse	6	No. The signal is dead.
+tense	refuse	6	Not yet. The patrol is close.
+tense	refuse	6	No. The smoke would show.
+tense	refuse	6	Not the alley. They blocked it.
+tense	refuse	6	No. The dogs are loose.
+tense	refuse	6	Not from above. Bad drop.
+tense	refuse	6	No. The lantern is too bright.
+tense	refuse	6	Not now. The shadow is gone.
+tense	refuse	6	No. The roof tile gave.
+tense	refuse	6	Not me. I draw them off.
+tense	refuse	6	No. The blade is stuck.
+tense	refuse	6	Not the gate. Two on watch.
+tense	refuse	6	No. The wind died on us.
+tense	refuse	6	Not yet. They are still on me.
+tense	refuse	6	No. The perch broke.
+tense	refuse	6	Not from there. They look up.
+tense	refuse	6	No. The mark heard us.
+tense	refuse	6	Not now. The watch doubled hard.
+tense	refuse	6	No. The signal never came back.
+tense	refuse	6	Not the wall. They patrol it.
+tense	refuse	6	No. The pouch went out.
+tense	refuse	6	Not from above. They cover the roof.
+tense	refuse	6	No. The dust shows everything.
+tense	refuse	6	Not yet. The street is awake.
+tense	refuse	6	No. The lock is too loud.
+tense	refuse	6	Not the eaves. They moved a guard.
+tense	refuse	6	No. The wind tells them.
+tense	refuse	6	Not now. The mark is armed.
+tense	refuse	6	No. The blade is needed elsewhere.
+tense	refuse	6	Not yet. The patrol is too close.
+tense	refuse	6	No. The roof line is full.
+tense	refuse	6	Not from the perch. Cut off.
+tense	refuse	6	No. The dogs are between us.
+tense	refuse	6	Not now. The lantern just lit.
+tense	refuse	6	No. The signal post is watched.
+tense	refuse	6	Not yet. They are too many.
+tense	agree	6	Yes. Move on three.
+tense	agree	6	Right. Take the back wall.
+tense	agree	6	Agreed. Smoke first.
+tense	agree	6	Yes. Cut the lantern.
+tense	agree	6	Sure. I draw the patrol.
+tense	agree	6	Yes. Strike on signal.
+tense	agree	6	Right. Hide on the roof.
+tense	agree	6	Agreed. Wait for wind.
+tense	agree	6	Yes. Mark left. Strike right.
+tense	agree	6	Sure. Eaves first, then drop.
+tense	agree	6	Yes. Cover the door.
+tense	agree	6	Right. I take the dogs.
+tense	agree	6	Agreed. Cut the rope first.
+tense	agree	6	Yes. Drop on three.
+tense	agree	6	Sure. Hold the perch.
+tense	agree	6	Yes. From the shadow.
+tense	agree	6	Right. The blade goes first.
+tense	agree	6	Agreed. We split. Now.
+tense	agree	6	Yes. Fast and quiet.
+tense	agree	6	Sure. Take the high line.
+tense	agree	6	Yes. Smoke and run.
+tense	agree	6	Right. Hold and drop.
+tense	agree	6	Agreed. Watch the gate. I take roof.
+tense	agree	6	Yes. Move with the patrol.
+tense	agree	6	Sure. From above. Quiet.
+tense	agree	6	Yes. Cover, then strike.
+tense	agree	6	Right. Cut the line. Run.
+tense	agree	6	Agreed. Quick. Clean.
+tense	agree	6	Yes. Eaves to ground.
+tense	agree	6	Sure. Mark, then go.
+tense	agree	6	Yes. Wait on the wind.
+tense	agree	6	Right. The smoke goes first.
+tense	agree	6	Agreed. Take the side door.
+tense	agree	6	Yes. Hold the rooftop.
+tense	agree	6	Sure. Drop. Roll. Move.
+tense	agree	6	Yes. Behind the chimney.
+tense	agree	6	Right. Use the dust cover.
+tense	agree	6	Agreed. Quick draw.
+tense	agree	6	Yes. From the dark side.
+tense	agree	6	Sure. Strike on shadow.
+tense	warn	6	Watch the eaves. Two up there.
+tense	warn	6	Move. The patrol is on you.
+tense	warn	6	Down. Behind the wall.
+tense	warn	6	Drop the smoke now.
+tense	warn	6	Hold. The mark turns this way.
+tense	warn	6	Stay low. Dogs in the lane.
+tense	warn	6	Watch the lantern. It moves.
+tense	warn	6	Move. They cut the alley.
+tense	warn	6	Get behind me. Now.
+tense	warn	6	Hide. The roof is breaking.
+tense	warn	6	Cover the door. Quick.
+tense	warn	6	Run the back. Patrol left.
+tense	warn	6	Stop. Listen. Boots.
+tense	warn	6	Down. The blade is loose.
+tense	warn	6	Move. Wind is wrong.
+tense	warn	6	Watch above. Two on tile.
+tense	warn	6	Hold. The watch passes in three.
+tense	warn	6	Drop low. Lantern coming.
+tense	warn	6	Run. Mark called the guards.
+tense	warn	6	Stay flat. They look up.
+tense	warn	6	Watch your shadow. It shows.
+tense	warn	6	Move. The eaves are watched.
+tense	warn	6	Down. Now. Now.
+tense	warn	6	Cover the perch. They climb.
+tense	warn	6	Stop. Hold breath. Pass.
+tense	warn	6	Hide in the chimney shadow.
+tense	warn	6	Run. The signal cut out.
+tense	warn	6	Move past the dog. Fast.
+tense	warn	6	Watch the rope on the perch.
+tense	warn	6	Hold the blade ready.
+tense	warn	6	Drop the smoke at the door.
+tense	warn	6	Run flat. Stay below tile.
+tense	warn	6	Watch the wind. It betrays.
+tense	warn	6	Move. The roof creaks for them.
+tense	warn	6	Down. The mark heard.
+tense	warn	6	Hide the steel. Quick.
+tense	warn	6	Run. The patrol doubled.
+tense	warn	6	Watch the lock. They wait it.
+tense	warn	6	Move. The lantern catches us.
+tense	warn	6	Stay low. Quick steps.
+shaken	greet	6	You. Smoke saved me.
+shaken	greet	6	Hush. Pulse high.
+shaken	greet	6	Sit. Breath uneven.
+shaken	greet	6	You came. Almost lost it.
+shaken	greet	6	From the shadow. Just made it.
+shaken	greet	6	Quiet. Hands shaking.
+shaken	greet	6	Still. Still here.
+shaken	greet	6	Sit close. Breath is short.
+shaken	greet	6	Made it. Barely.
+shaken	greet	6	Smoke held. I held.
+shaken	greet	6	You came. Edge close tonight.
+shaken	greet	6	Hush. Heart loud.
+shaken	greet	6	Lucky. Sit close.
+shaken	greet	6	Roof gave. I rolled. Alive.
+shaken	greet	6	From above. Almost from below.
+shaken	greet	6	Still alive. Sit.
+shaken	greet	6	Smoke pouch saved me.
+shaken	greet	6	You. I needed a face.
+shaken	greet	6	Sit. The blade slipped.
+shaken	greet	6	Hands wet. But here.
+shaken	greet	6	Quiet. Still rattled.
+shaken	greet	6	Made it. Knees weak.
+shaken	greet	6	Sit. Just breathing.
+shaken	greet	6	Smoke covered me. Just.
+shaken	greet	6	Pulse loud. Sit.
+shaken	greet	6	Edge of the roof took me.
+shaken	greet	6	From the eaves. Hard fall.
+shaken	greet	6	You came. Long second back there.
+shaken	greet	6	Still here. Just.
+shaken	greet	6	Sit close. Hands not steady.
+shaken	greet	6	Lucky shadow. Found me.
+shaken	greet	6	From the smoke. Alive.
+shaken	greet	6	Hush. Need a moment.
+shaken	greet	6	Roof tile broke. I did not.
+shaken	greet	6	Sit. The watch nearly had me.
+shaken	greet	6	Made the eaves. Just.
+shaken	greet	6	Hands shake. Hush.
+shaken	greet	6	From the dark. Quiet now.
+shaken	greet	6	Sit. Breath finding me.
+shaken	greet	6	You came. Glad of it.
+shaken	farewell	6	Off. To breathe.
+shaken	farewell	6	Going to a quiet roof.
+shaken	farewell	6	I need still. Bye.
+shaken	farewell	6	Off. Hands need rest.
+shaken	farewell	6	Going. To gather pulse.
+shaken	farewell	6	Bye. The shadow waits.
+shaken	farewell	6	Off. To find a quiet eave.
+shaken	farewell	6	I should sit. Later.
+shaken	farewell	6	Off, slow. Breath first.
+shaken	farewell	6	Going. The wind helps.
+shaken	farewell	6	Bye. Smoke pouch needs filling.
+shaken	farewell	6	Off. Hands need steadying.
+shaken	farewell	6	Going. To breathe somewhere safe.
+shaken	farewell	6	Bye. I found my pulse.
+shaken	farewell	6	Off, careful. Knees soft.
+shaken	farewell	6	I will rest on the perch.
+shaken	farewell	6	Off. The blade goes home.
+shaken	farewell	6	Going. To wash off the dust.
+shaken	farewell	6	Bye. I am still rattled.
+shaken	farewell	6	Off. Need a still place.
+shaken	farewell	6	Going to mend the smoke pouch.
+shaken	farewell	6	Bye. Let me sit and breathe.
+shaken	farewell	6	Off. Need the dark.
+shaken	farewell	6	I should leave. Slow steps.
+shaken	farewell	6	Off, soft. Pulse loud still.
+shaken	farewell	6	Going. To count my breaths.
+shaken	farewell	6	Bye. Need the quiet roof.
+shaken	farewell	6	Off. To still my hands.
+shaken	farewell	6	Going. The wind will hold me.
+shaken	farewell	6	Bye. I am a thread thin.
+shaken	farewell	6	Off, gentle. Bones tired.
+shaken	farewell	6	Going. The shadow holds me up.
+shaken	farewell	6	Bye. The mark can wait.
+shaken	farewell	6	Off. To find a long breath.
+shaken	farewell	6	Going. To lay the blade down.
+shaken	farewell	6	Bye. Hands need warmth.
+shaken	farewell	6	Off. To find still water.
+shaken	farewell	6	Going. Breath first, then later.
+shaken	farewell	6	Bye for now. Safe and slow.
+shaken	farewell	6	Off. To breathe, just to breathe.
+shaken	chatter	6	Smoke saved me. Pulse loud.
+shaken	chatter	6	Edge close. Breath uneven.
+shaken	chatter	6	The roof tile gave. I held.
+shaken	chatter	6	Almost lost the blade.
+shaken	chatter	6	Made it by a hand.
+shaken	chatter	6	The eaves caught me.
+shaken	chatter	6	The smoke pouch saved my breath.
+shaken	chatter	6	The mark almost saw.
+shaken	chatter	6	The patrol passed an inch off.
+shaken	chatter	6	The wind held. Just.
+shaken	chatter	6	The drop took my knees.
+shaken	chatter	6	The dust filled my throat.
+shaken	chatter	6	The shadow ran out on me.
+shaken	chatter	6	I held my breath too long.
+shaken	chatter	6	The roof line shook under me.
+shaken	chatter	6	The blade slipped once.
+shaken	chatter	6	The dog brushed my leg.
+shaken	chatter	6	The lantern caught my smoke.
+shaken	chatter	6	I lost the perch for a second.
+shaken	chatter	6	The wind tasted of iron.
+shaken	chatter	6	The signal came too late.
+shaken	chatter	6	My hands forgot the rope.
+shaken	chatter	6	The watch came back wrong.
+shaken	chatter	6	The chimney almost gave.
+shaken	chatter	6	The smoke went thin too soon.
+shaken	chatter	6	I saw my own shadow first.
+shaken	chatter	6	The drop was harder than I knew.
+shaken	chatter	6	The mark turned. I froze.
+shaken	chatter	6	The roof tile cracked under me.
+shaken	chatter	6	The wind whispered the wrong way.
+shaken	chatter	6	The blade caught a beam.
+shaken	chatter	6	The eaves bent under my foot.
+shaken	chatter	6	I heard my own breath. Loud.
+shaken	chatter	6	The patrol almost split me.
+shaken	chatter	6	The smoke came thin and slow.
+shaken	chatter	6	My hands are still shaking.
+shaken	chatter	6	The shadow shrank and held.
+shaken	chatter	6	The mark almost called my name.
+shaken	chatter	6	The roof breathed with me.
+shaken	chatter	6	The dust held my last print.
+shaken	ask	6	Are you alright?
+shaken	ask	6	Did the smoke hold?
+shaken	ask	6	Did you make the eaves?
+shaken	ask	6	Are your hands shaking too?
+shaken	ask	6	Did the blade catch you?
+shaken	ask	6	Did you make the drop?
+shaken	ask	6	Are you breathing?
+shaken	ask	6	Did the patrol see?
+shaken	ask	6	Did the dog reach you?
+shaken	ask	6	Did the lantern catch you?
+shaken	ask	6	Did you find the perch?
+shaken	ask	6	Are you hurt?
+shaken	ask	6	Did the wind hold for you?
+shaken	ask	6	Did the smoke pouch fire?
+shaken	ask	6	Did you keep the blade?
+shaken	ask	6	Are you whole?
+shaken	ask	6	Did the roof give?
+shaken	ask	6	Are you steady?
+shaken	ask	6	Did the shadow hold?
+shaken	ask	6	Did the mark see you?
+shaken	ask	6	Are you safe now?
+shaken	ask	6	Did the rope hold?
+shaken	ask	6	Did the eaves carry you?
+shaken	ask	6	Are you still with me?
+shaken	ask	6	Did the dust hide you?
+shaken	ask	6	Are your knees alright?
+shaken	ask	6	Did the signal save you?
+shaken	ask	6	Did the wall give?
+shaken	ask	6	Are you moving still?
+shaken	ask	6	Did the dog find you?
+shaken	ask	6	Did the smoke break for you?
+shaken	ask	6	Are you breathing easy?
+shaken	ask	6	Did the patrol cross you?
+shaken	ask	6	Did the perch hold?
+shaken	ask	6	Are you here?
+shaken	ask	6	Did the watch miss you?
+shaken	ask	6	Did the blade slip?
+shaken	ask	6	Did the wind cover you well?
+shaken	ask	6	Did you almost go?
+shaken	ask	6	Are we both alive?
+shaken	answer	6	Yes. Alive. Just.
+shaken	answer	6	No. Not hurt. Shaken.
+shaken	answer	6	Through. Barely standing.
+shaken	answer	6	Yes. Smoke saved me.
+shaken	answer	6	No. Blade slipped, missed me.
+shaken	answer	6	Almost. Pulse high.
+shaken	answer	6	Yes. Roof held.
+shaken	answer	6	No. Patrol missed me.
+shaken	answer	6	Lucky. The wind covered.
+shaken	answer	6	Yes. Hands work. Slow.
+shaken	answer	6	No. The dog turned.
+shaken	answer	6	Got to the eaves. Just.
+shaken	answer	6	Yes. Breathing again.
+shaken	answer	6	No. The smoke went wide.
+shaken	answer	6	Alive. That is enough.
+shaken	answer	6	Yes. Knees soft. Standing.
+shaken	answer	6	No. The blade stayed in the sheath.
+shaken	answer	6	Yes. Drop was hard.
+shaken	answer	6	No. The mark did not turn.
+shaken	answer	6	Lucky. The lantern blinked.
+shaken	answer	6	Yes. Pulse slowing.
+shaken	answer	6	No. The shadow held me.
+shaken	answer	6	Made it through. Tired.
+shaken	answer	6	Yes. The perch held.
+shaken	answer	6	No. The dust forgave me.
+shaken	answer	6	Alive. Hands shaking.
+shaken	answer	6	Yes. The smoke saved my breath.
+shaken	answer	6	No. The wind held last second.
+shaken	answer	6	Lucky. Roof did not give.
+shaken	answer	6	Yes. Heard my pulse loud.
+shaken	answer	6	No. The signal saved me.
+shaken	answer	6	Almost lost the blade for good.
+shaken	answer	6	Yes. Eaves carried me.
+shaken	answer	6	No. The patrol turned.
+shaken	answer	6	Lucky shadow. Long enough.
+shaken	answer	6	Yes. Quiet now.
+shaken	answer	6	No. The mark missed me.
+shaken	answer	6	Made the drop. Knees ache.
+shaken	answer	6	Yes. Still breathing.
+shaken	answer	6	No. The wind held. Just.
+shaken	refuse	6	No. Hands shake.
+shaken	refuse	6	Not yet. Pulse loud.
+shaken	refuse	6	No. The blade would slip.
+shaken	refuse	6	Not now. Need a breath.
+shaken	refuse	6	No. Knees are soft.
+shaken	refuse	6	Not the roof. Not yet.
+shaken	refuse	6	No. The smoke pouch is empty.
+shaken	refuse	6	Not now. Eyes blur.
+shaken	refuse	6	No. The drop almost broke me.
+shaken	refuse	6	Not yet. Hands not steady.
+shaken	refuse	6	No. The shadow used me up.
+shaken	refuse	6	Not the eaves. Not now.
+shaken	refuse	6	No. Need to sit a moment.
+shaken	refuse	6	Not yet. Breath uneven.
+shaken	refuse	6	No. The blade is slick.
+shaken	refuse	6	Not now. Pulse too loud.
+shaken	refuse	6	No. The wind is wrong inside me.
+shaken	refuse	6	Not the perch. Knees gave.
+shaken	refuse	6	No. Smoke saved me once tonight.
+shaken	refuse	6	Not yet. Hands still wet.
+shaken	refuse	6	No. The shadow is short.
+shaken	refuse	6	Not now. The patrol is near.
+shaken	refuse	6	No. I cannot move yet.
+shaken	refuse	6	Not the rope. Hands slip.
+shaken	refuse	6	No. Smoke pouch is dry.
+shaken	refuse	6	Not yet. Pulse high.
+shaken	refuse	6	No. The blade stays sheathed.
+shaken	refuse	6	Not the alley. Knees soft.
+shaken	refuse	6	No. The drop broke me.
+shaken	refuse	6	Not now. Need still.
+shaken	refuse	6	No. The eaves are watched still.
+shaken	refuse	6	Not yet. Edge too close.
+shaken	refuse	6	No. The mark almost took me.
+shaken	refuse	6	Not now. Hands forgot the rope.
+shaken	refuse	6	No. Breath is short.
+shaken	refuse	6	Not the rooftop. Tiles slid.
+shaken	refuse	6	No. Pulse not slowed.
+shaken	refuse	6	Not yet. The shock holds.
+shaken	refuse	6	No. The wind ran out.
+shaken	refuse	6	Not now. Just sit with me.
+shaken	agree	6	Yes. Slow steps.
+shaken	agree	6	Right. If you lead.
+shaken	agree	6	Agreed. Once I breathe.
+shaken	agree	6	Yes. Hand on my shoulder.
+shaken	agree	6	Sure. Soft steps.
+shaken	agree	6	Yes. Just give a moment.
+shaken	agree	6	Right. Quiet way back.
+shaken	agree	6	Agreed. Slowly, slowly.
+shaken	agree	6	Yes. We go gentle.
+shaken	agree	6	Sure. Stay close.
+shaken	agree	6	Yes. From the dark eaves.
+shaken	agree	6	Right. After a breath.
+shaken	agree	6	Agreed. We rest first.
+shaken	agree	6	Yes. I trust the shadow.
+shaken	agree	6	Sure. Lead me out.
+shaken	agree	6	Yes. Hold the smoke ready.
+shaken	agree	6	Right. Wait for my pulse.
+shaken	agree	6	Agreed. Soft and slow.
+shaken	agree	6	Yes. The roof will hold.
+shaken	agree	6	Sure. Take it easy.
+shaken	agree	6	Yes. One step then another.
+shaken	agree	6	Right. We move quiet.
+shaken	agree	6	Agreed. Stay near me.
+shaken	agree	6	Yes. The wind will hide us.
+shaken	agree	6	Sure. The blade stays down.
+shaken	agree	6	Yes. Lead. I follow.
+shaken	agree	6	Right. I can manage.
+shaken	agree	6	Agreed. Together, then.
+shaken	agree	6	Yes. Slow eaves first.
+shaken	agree	6	Sure. Drop low and walk.
+shaken	agree	6	Yes. Hold my arm.
+shaken	agree	6	Right. After this breath.
+shaken	agree	6	Agreed. Quiet route.
+shaken	agree	6	Yes. Smoke if we must.
+shaken	agree	6	Sure. The shadow with us.
+shaken	agree	6	Yes. Breathe, then move.
+shaken	agree	6	Right. We keep low.
+shaken	agree	6	Agreed. Patient steps.
+shaken	agree	6	Yes. Together is better.
+shaken	agree	6	Sure. The roof can wait.
+shaken	warn	6	Watch my hands. They shake.
+shaken	warn	6	Mind the blade. I dropped it.
+shaken	warn	6	Hold me a moment.
+shaken	warn	6	Move slow. I lag.
+shaken	warn	6	Stay close. Pulse loud.
+shaken	warn	6	Watch the eaves. I cannot.
+shaken	warn	6	Mind the smoke. It went thin.
+shaken	warn	6	Keep low. Knees soft.
+shaken	warn	6	Stay near me. Edge close.
+shaken	warn	6	Watch the roof. It bent.
+shaken	warn	6	Mind the rope. Hands slip.
+shaken	warn	6	Hold the perch. I cannot.
+shaken	warn	6	Move quiet. Breath loud.
+shaken	warn	6	Stay still. I need a moment.
+shaken	warn	6	Watch the patrol. I lost track.
+shaken	warn	6	Mind the lantern. Eyes blur.
+shaken	warn	6	Keep the blade. I cannot grip.
+shaken	warn	6	Move careful. Knees go.
+shaken	warn	6	Stay below. Pulse rings.
+shaken	warn	6	Watch the dog. I missed it.
+shaken	warn	6	Mind the wind. It tells.
+shaken	warn	6	Hold the smoke. I dropped one.
+shaken	warn	6	Move slow past the door.
+shaken	warn	6	Stay back. Hands wet.
+shaken	warn	6	Watch the eaves. I slipped.
+shaken	warn	6	Mind the tile. Loose under me.
+shaken	warn	6	Keep the signal. I cannot whistle.
+shaken	warn	6	Move quiet. I am loud.
+shaken	warn	6	Stay low past the wall.
+shaken	warn	6	Watch the perch. I shook it.
+shaken	warn	6	Mind the chimney. Edge soft.
+shaken	warn	6	Hold my arm a moment.
+shaken	warn	6	Move easy. Pulse high.
+shaken	warn	6	Stay near. Shadow short.
+shaken	warn	6	Watch the mark. I lost track of him.
+shaken	warn	6	Mind the rope. I cut it wrong.
+shaken	warn	6	Keep watch. Breath uneven.
+shaken	warn	6	Move careful. Roof creaks.
+shaken	warn	6	Stay back from the lantern.
+shaken	warn	6	Watch the shutter. I rattled it.

@@ -1,0 +1,6 @@
+pillow
+numpy
+scipy
+scikit-learn
+rjsmin
+csscompressor

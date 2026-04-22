@@ -1,0 +1,960 @@
+calm	greet	6	Hello friend. Warm here.
+calm	greet	6	Mmm. Friend back. Good.
+calm	greet	6	Uh. Hello. Friend sit.
+calm	greet	6	Hi friend. You smell nice.
+calm	greet	6	Hello. Belly quiet now.
+calm	greet	6	Mmm. Glad friend come.
+calm	greet	6	Hello small one. Sit close.
+calm	greet	6	Friend. Walk in slow.
+calm	greet	6	Hi. Sun warm. Good.
+calm	greet	6	Uh. Hello. All quiet.
+calm	greet	6	Mmm. Warm one here. Nice.
+calm	greet	6	Hello friend. Long sleep done.
+calm	greet	6	Friend back. Sit slow.
+calm	greet	6	Hi tall one. Welcome.
+calm	greet	6	Mmm. Smell fresh here.
+calm	greet	6	Hello. Day soft.
+calm	greet	6	Friend. Warm hand. Sit.
+calm	greet	6	Hi small one. Good to see.
+calm	greet	6	Uh. Friend close. Nice.
+calm	greet	6	Hello. Warm day. Good.
+calm	greet	6	Mmm. Friend found me.
+calm	greet	6	Hi. You came back.
+calm	greet	6	Hello friend. Slow walk here.
+calm	greet	6	Uh. Happy to see you.
+calm	greet	6	Mmm. You smell okay.
+calm	greet	6	Hello. Sit with me.
+calm	greet	6	Hi. Long time. Good.
+calm	greet	6	Friend here. Good.
+calm	greet	6	Uh. Hello. Rest now.
+calm	greet	6	Mmm. Glad you here.
+calm	greet	6	Hello warm one. Sit down.
+calm	greet	6	Hi friend. Happy.
+calm	greet	6	Uh. You came. Nice.
+calm	greet	6	Mmm. Good to see friend.
+calm	greet	6	Hello. Come slow. Safe.
+calm	greet	6	Hi. You look well.
+calm	greet	6	Friend here. All good.
+calm	greet	6	Uh. Hello tall one.
+calm	greet	6	Mmm. Friend found home.
+calm	greet	6	Hello. Good you came.
+calm	farewell	6	Bye friend. Walk slow.
+calm	farewell	6	Mmm. See you soon.
+calm	farewell	6	Uh. Go safe.
+calm	farewell	6	Bye. Come back.
+calm	farewell	6	Friend go. Good walk.
+calm	farewell	6	Mmm. Later friend.
+calm	farewell	6	Uh. Bye tall one.
+calm	farewell	6	Go safe. Come back soon.
+calm	farewell	6	Bye small one. Walk warm.
+calm	farewell	6	Mmm. Bye bye.
+calm	farewell	6	Uh. See you next time.
+calm	farewell	6	Go well friend.
+calm	farewell	6	Mmm. Until later.
+calm	farewell	6	Bye. Stay safe out there.
+calm	farewell	6	Uh. Good walk friend.
+calm	farewell	6	See you soon warm one.
+calm	farewell	6	Bye bye. Come back.
+calm	farewell	6	Mmm. Friend go slow.
+calm	farewell	6	Uh. Walk safe.
+calm	farewell	6	Bye friend. Be warm.
+calm	farewell	6	Go slow. I wait here.
+calm	farewell	6	Mmm. Later tall one.
+calm	farewell	6	Uh. Bye for now.
+calm	farewell	6	Friend leave. Come back.
+calm	farewell	6	Bye. Sleep well tonight.
+calm	farewell	6	Mmm. See you later.
+calm	farewell	6	Uh. Go. I rest.
+calm	farewell	6	Bye warm one. Take care.
+calm	farewell	6	Mmm. Bye friend.
+calm	farewell	6	Go safe. Eat something.
+calm	farewell	6	Uh. Until next time.
+calm	farewell	6	Bye. Good day to you.
+calm	farewell	6	Mmm. Go slow and safe.
+calm	farewell	6	Bye friend. All good.
+calm	farewell	6	Uh. See you around.
+calm	farewell	6	Go. I sit here.
+calm	farewell	6	Mmm. Bye bye friend.
+calm	farewell	6	Uh. Come back safe.
+calm	farewell	6	Bye. Walk warm path.
+calm	farewell	6	Mmm. Later. Be good.
+calm	chatter	6	Warm day. Nice.
+calm	chatter	6	Belly full. Good.
+calm	chatter	6	Mmm. Quiet here now.
+calm	chatter	6	Sun on face. Good.
+calm	chatter	6	Slow day. Like it.
+calm	chatter	6	Mmm. Nothing loud. Nice.
+calm	chatter	6	Uh. Soft ground here.
+calm	chatter	6	Warm stones. Good to sit.
+calm	chatter	6	Mmm. Everything calm today.
+calm	chatter	6	Nothing wrong. Good.
+calm	chatter	6	Uh. Nice day.
+calm	chatter	6	Belly happy. Good.
+calm	chatter	6	Mmm. Slow walk. Nice.
+calm	chatter	6	Warm wind. Like it.
+calm	chatter	6	Uh. All quiet now.
+calm	chatter	6	Mmm. No loud sounds. Good.
+calm	chatter	6	Good smell today.
+calm	chatter	6	Warm here. Stay warm.
+calm	chatter	6	Uh. Full and happy.
+calm	chatter	6	Mmm. Quiet is nice.
+calm	chatter	6	Slow day. Rest after.
+calm	chatter	6	Good sun. Good day.
+calm	chatter	6	Uh. Soft air today.
+calm	chatter	6	Mmm. Happy now.
+calm	chatter	6	Nothing hurt. Good.
+calm	chatter	6	Uh. Belly not empty.
+calm	chatter	6	Warm place. Like it.
+calm	chatter	6	Mmm. No trouble now.
+calm	chatter	6	Good rest last night.
+calm	chatter	6	Uh. Day easy today.
+calm	chatter	6	Mmm. Everything okay.
+calm	chatter	6	Sun warm. Sit here.
+calm	chatter	6	Uh. Smell nice today.
+calm	chatter	6	Good ground. Solid.
+calm	chatter	6	Mmm. Not tired now.
+calm	chatter	6	Uh. All good here.
+calm	chatter	6	Warm fire. Nice.
+calm	chatter	6	Mmm. Slow walk today.
+calm	chatter	6	Nothing loud. Good day.
+calm	chatter	6	Uh. Calm is good.
+calm	ask	6	Friend hungry?
+calm	ask	6	You okay?
+calm	ask	6	Warm enough?
+calm	ask	6	Where you go?
+calm	ask	6	You come back?
+calm	ask	6	Sleep well?
+calm	ask	6	You eat today?
+calm	ask	6	Friend tired?
+calm	ask	6	All good out there?
+calm	ask	6	You smell trouble?
+calm	ask	6	Sit with me?
+calm	ask	6	You rest well?
+calm	ask	6	Friend need food?
+calm	ask	6	Where you been?
+calm	ask	6	You okay today?
+calm	ask	6	Warm where you walk?
+calm	ask	6	You find good things?
+calm	ask	6	You want sit here?
+calm	ask	6	Friend feel good?
+calm	ask	6	All quiet for you?
+calm	ask	6	You want stay close?
+calm	ask	6	Belly full?
+calm	ask	6	You like it here?
+calm	ask	6	You walk far today?
+calm	ask	6	Anything bad out there?
+calm	ask	6	You smell something nice?
+calm	ask	6	You still tired?
+calm	ask	6	Friend come back soon?
+calm	ask	6	You see anything good?
+calm	ask	6	You feel safe here?
+calm	ask	6	Warm enough inside?
+calm	ask	6	You need anything?
+calm	ask	6	Friend okay now?
+calm	ask	6	You want to rest?
+calm	ask	6	All safe out there?
+calm	ask	6	You come this way often?
+calm	ask	6	You hear anything wrong?
+calm	ask	6	You walk slow today?
+calm	ask	6	Friend doing well?
+calm	ask	6	You want sit down?
+calm	answer	6	Yes. Good.
+calm	answer	6	No. Not now.
+calm	answer	6	Maybe. Wait and see.
+calm	answer	6	Mmm. Think so.
+calm	answer	6	Uh. Yes. Good.
+calm	answer	6	No. Not that.
+calm	answer	6	Yes. Belly says so.
+calm	answer	6	Maybe later. Rest now.
+calm	answer	6	Mmm. Probably yes.
+calm	answer	6	No. Stay here.
+calm	answer	6	Yes. Quiet here.
+calm	answer	6	Uh. Think yes.
+calm	answer	6	No. Not today.
+calm	answer	6	Mmm. Yes. Good.
+calm	answer	6	Yes. All calm.
+calm	answer	6	No. Wait a bit.
+calm	answer	6	Uh. Yes. Okay.
+calm	answer	6	Maybe. Look slow.
+calm	answer	6	Yes. Warm here.
+calm	answer	6	No. Not right.
+calm	answer	6	Mmm. Yes. Very.
+calm	answer	6	Uh. Not sure. Okay.
+calm	answer	6	Yes. Good plan.
+calm	answer	6	No. Stay put.
+calm	answer	6	Mmm. Probably good.
+calm	answer	6	Yes. I think so.
+calm	answer	6	Uh. No. Bad idea.
+calm	answer	6	Maybe. Belly uncertain.
+calm	answer	6	Yes. That feel right.
+calm	answer	6	No. Try again later.
+calm	answer	6	Mmm. Yes. Do it.
+calm	answer	6	Uh. Good. Agreed.
+calm	answer	6	Yes. Go slow.
+calm	answer	6	No. Different way.
+calm	answer	6	Mmm. Yes. Okay.
+calm	answer	6	Uh. No. Stay here.
+calm	answer	6	Yes. Smell says yes.
+calm	answer	6	Maybe. Not sure yet.
+calm	answer	6	Yes. All good.
+calm	answer	6	No. Wait more.
+calm	refuse	6	No. Too much today.
+calm	refuse	6	Uh. No. Sit instead.
+calm	refuse	6	Mmm. No. Too tired.
+calm	refuse	6	No. Not for zombie.
+calm	refuse	6	Not now. Rest first.
+calm	refuse	6	Uh. No thank you.
+calm	refuse	6	Mmm. Not right now.
+calm	refuse	6	No. Belly not ready.
+calm	refuse	6	Not today. Maybe later.
+calm	refuse	6	Uh. No. Too much.
+calm	refuse	6	No. Not what I want.
+calm	refuse	6	Mmm. Not now friend.
+calm	refuse	6	No. Stay and rest.
+calm	refuse	6	Uh. No. Slow day.
+calm	refuse	6	Not now. Too warm.
+calm	refuse	6	Mmm. No. Belly full.
+calm	refuse	6	No. Not for me.
+calm	refuse	6	Uh. No. Tired now.
+calm	refuse	6	Not this time. Sorry.
+calm	refuse	6	Mmm. No. Not feeling it.
+calm	refuse	6	No. Want to sit.
+calm	refuse	6	Uh. No. Too soon.
+calm	refuse	6	Not now. Another time.
+calm	refuse	6	Mmm. No. Legs sore.
+calm	refuse	6	No. Maybe tomorrow.
+calm	refuse	6	Uh. Not now. Rest.
+calm	refuse	6	No. Just sit here.
+calm	refuse	6	Mmm. No thank you.
+calm	refuse	6	Not now. Still eating.
+calm	refuse	6	Uh. No. Wrong time.
+calm	refuse	6	No. Want quiet.
+calm	refuse	6	Mmm. Not for zombie.
+calm	refuse	6	No. Not my kind.
+calm	refuse	6	Uh. No. Too far.
+calm	refuse	6	Not now. Slow day.
+calm	refuse	6	Mmm. No. Not here.
+calm	refuse	6	No. I pass.
+calm	refuse	6	Uh. No. Rather sit.
+calm	refuse	6	Not now. Belly says no.
+calm	refuse	6	Mmm. No. Later maybe.
+calm	agree	6	Yes. Good idea.
+calm	agree	6	Mmm. Yes. Do that.
+calm	agree	6	Uh. Okay. Good.
+calm	agree	6	Yes. Like that plan.
+calm	agree	6	Good. Let go.
+calm	agree	6	Mmm. Yes yes.
+calm	agree	6	Uh. Sounds right.
+calm	agree	6	Yes. Together. Good.
+calm	agree	6	Mmm. Okay. Do it.
+calm	agree	6	Uh. Yes. Fine by me.
+calm	agree	6	Yes. We go together.
+calm	agree	6	Mmm. Agree. Let go.
+calm	agree	6	Uh. Yes. Good plan.
+calm	agree	6	Yes. Belly says yes.
+calm	agree	6	Good. We do that.
+calm	agree	6	Mmm. Yes. Happy with that.
+calm	agree	6	Uh. Okay. Good idea.
+calm	agree	6	Yes. Sounds warm.
+calm	agree	6	Mmm. Yes. Go slow.
+calm	agree	6	Uh. Fine. Good.
+calm	agree	6	Yes. I follow.
+calm	agree	6	Mmm. That works.
+calm	agree	6	Uh. Yes yes.
+calm	agree	6	Yes. I go with you.
+calm	agree	6	Good idea. Yes.
+calm	agree	6	Mmm. Okay okay.
+calm	agree	6	Uh. Agree. Walk together.
+calm	agree	6	Yes. Feels right.
+calm	agree	6	Mmm. Do it. Good.
+calm	agree	6	Uh. Yes. Now go.
+calm	agree	6	Yes. Good plan friend.
+calm	agree	6	Mmm. Yes. Ready.
+calm	agree	6	Uh. Agree. Together.
+calm	agree	6	Yes. That sounds good.
+calm	agree	6	Mmm. Okay. Moving.
+calm	agree	6	Uh. Yes. Fine with me.
+calm	agree	6	Yes. Let do it.
+calm	agree	6	Mmm. Agreed. Go.
+calm	agree	6	Uh. Yes. Good call.
+calm	agree	6	Yes. I with you.
+calm	warn	6	Careful. Step slow here.
+calm	warn	6	Mind the wet rock.
+calm	warn	6	Do not run. Slip.
+calm	warn	6	Watch step. Uneven.
+calm	warn	6	Careful by the water.
+calm	warn	6	Mind the hole there.
+calm	warn	6	Do not touch that.
+calm	warn	6	Watch the sharp stone.
+calm	warn	6	Careful. Loud here.
+calm	warn	6	Mind the low branch.
+calm	warn	6	Do not go there. Bad smell.
+calm	warn	6	Watch the mud patch.
+calm	warn	6	Careful. Hot spot there.
+calm	warn	6	Mind the big rock.
+calm	warn	6	Do not lean on that wall.
+calm	warn	6	Watch the gap in floor.
+calm	warn	6	Careful by the edge.
+calm	warn	6	Mind the loose ground.
+calm	warn	6	Do not touch the red thing.
+calm	warn	6	Watch the roots here.
+calm	warn	6	Careful. Cold spot.
+calm	warn	6	Mind the puddle there.
+calm	warn	6	Do not step on that.
+calm	warn	6	Watch your head. Low.
+calm	warn	6	Careful near the drop.
+calm	warn	6	Mind the slippery stones.
+calm	warn	6	Do not rush here.
+calm	warn	6	Watch the broken fence.
+calm	warn	6	Careful. Ground soft.
+calm	warn	6	Mind the pointy bit.
+calm	warn	6	Do not go past that tree.
+calm	warn	6	Watch the slope. Steep.
+calm	warn	6	Careful. Wet leaves.
+calm	warn	6	Mind the narrow part.
+calm	warn	6	Do not touch broken wood.
+calm	warn	6	Watch the loose stone.
+calm	warn	6	Careful by the bush.
+calm	warn	6	Mind the dark corner.
+calm	warn	6	Do not stand there. Wobbly.
+calm	warn	6	Watch out. Slippery here.
+tense	greet	6	Friend here. Good. Bad things coming.
+tense	greet	6	Uh. You came. Smell wrong out there.
+tense	greet	6	Hello. Bad smell. Stay close.
+tense	greet	6	Mmm. You here. Good. Run things near.
+tense	greet	6	Friend. Trouble coming. Glad you here.
+tense	greet	6	Uh. You found me. Something bad out there.
+tense	greet	6	Hello. Good you here. Danger near.
+tense	greet	6	Mmm. Friend here. Eyes open now.
+tense	greet	6	You came. Bad smell on wind.
+tense	greet	6	Uh. Hello. Quiet but wrong quiet.
+tense	greet	6	Hello friend. Stay. Things move out there.
+tense	greet	6	Mmm. You here. Good. Stay close.
+tense	greet	6	Friend here. Trouble smell strong.
+tense	greet	6	Uh. You came fast. Good.
+tense	greet	6	Hello. Something out there. Stay near.
+tense	greet	6	Mmm. Friend back. Not safe now.
+tense	greet	6	You here. Good. Scary things close.
+tense	greet	6	Uh. Hello. Bad coming. You here.
+tense	greet	6	Hello. Glad you here. Danger near.
+tense	greet	6	Mmm. Friend here. Fight time soon.
+tense	greet	6	You came. Smell danger. Eyes open.
+tense	greet	6	Uh. Hello. Things move in dark.
+tense	greet	6	Hello friend. Trouble near. Stay.
+tense	greet	6	Mmm. Glad you here. Bad things.
+tense	greet	6	You came. Not safe alone out there.
+tense	greet	6	Uh. You here. Smell trouble.
+tense	greet	6	Hello. Fast come. Danger close.
+tense	greet	6	Mmm. Friend here. Watch out now.
+tense	greet	6	You made it. Bad smell everywhere.
+tense	greet	6	Uh. Hello. Stay close. Things move.
+tense	greet	6	Hello friend. Careful now.
+tense	greet	6	Mmm. You here. Not good out there.
+tense	greet	6	Friend came. Good. Eyes up.
+tense	greet	6	Uh. You here. Dangerous now.
+tense	greet	6	Hello. Trouble smell. You here. Good.
+tense	greet	6	Mmm. Glad you came. Bad things near.
+tense	greet	6	Friend here. Stay. Fight coming.
+tense	greet	6	Uh. You here. Scary smell.
+tense	greet	6	Hello. Good you came. Danger close.
+tense	greet	6	Mmm. Friend here. Together now.
+tense	farewell	6	Go fast. Stay safe.
+tense	farewell	6	Uh. Run. Come back.
+tense	farewell	6	Bye. Move quick.
+tense	farewell	6	Mmm. Go now. Hurry.
+tense	farewell	6	Friend go. Watch out.
+tense	farewell	6	Uh. Later. Go fast.
+tense	farewell	6	Go. I follow soon.
+tense	farewell	6	Mmm. Bye. Eyes open.
+tense	farewell	6	Run now. Talk later.
+tense	farewell	6	Uh. Go safe. Quick.
+tense	farewell	6	Bye friend. Hurry.
+tense	farewell	6	Mmm. Move. Come back safe.
+tense	farewell	6	Go. Bad things near.
+tense	farewell	6	Uh. Later. Stay fast.
+tense	farewell	6	Friend go. Be careful.
+tense	farewell	6	Mmm. Go quick. Eyes up.
+tense	farewell	6	Bye. Run to safe spot.
+tense	farewell	6	Uh. Go fast now.
+tense	farewell	6	Move. I come behind.
+tense	farewell	6	Mmm. Go. Be safe.
+tense	farewell	6	Bye friend. Watch back.
+tense	farewell	6	Uh. Run. No stop.
+tense	farewell	6	Go now. Trouble close.
+tense	farewell	6	Mmm. Bye. Quick steps.
+tense	farewell	6	Friend run. I too.
+tense	farewell	6	Uh. Go. No wait.
+tense	farewell	6	Bye. Watch the path.
+tense	farewell	6	Mmm. Later. Run now.
+tense	farewell	6	Go fast. Not slow.
+tense	farewell	6	Uh. Bye. Quick.
+tense	farewell	6	Run friend. I behind you.
+tense	farewell	6	Mmm. Go. Danger near.
+tense	farewell	6	Bye. Stay ahead.
+tense	farewell	6	Uh. Later. Move fast.
+tense	farewell	6	Go. Watch for things.
+tense	farewell	6	Mmm. Bye bye. Run.
+tense	farewell	6	Friend go. Come back.
+tense	farewell	6	Uh. Go fast. Stay safe.
+tense	farewell	6	Bye. Not too far.
+tense	farewell	6	Mmm. Go. I follow.
+tense	chatter	6	Bad smell. Strong now.
+tense	chatter	6	Something move out there.
+tense	chatter	6	Mmm. Wrong quiet today.
+tense	chatter	6	Danger near. Belly says.
+tense	chatter	6	Uh. Hear that?
+tense	chatter	6	Bad things close. Smell them.
+tense	chatter	6	Mmm. Not safe out there.
+tense	chatter	6	Something watching. Feel it.
+tense	chatter	6	Uh. Bad quiet. Scary.
+tense	chatter	6	Smell wrong. Move slow.
+tense	chatter	6	Mmm. Things in dark.
+tense	chatter	6	Danger smell coming in.
+tense	chatter	6	Uh. Hear that sound?
+tense	chatter	6	Bad. Close. Eyes up.
+tense	chatter	6	Mmm. Not calm today.
+tense	chatter	6	Something out there. Bad.
+tense	chatter	6	Uh. Wrong smell. Wrong.
+tense	chatter	6	Scary things move near.
+tense	chatter	6	Mmm. Danger on wind.
+tense	chatter	6	Stay close. Bad near.
+tense	chatter	6	Uh. Trouble coming. Know it.
+tense	chatter	6	Bad smell all around.
+tense	chatter	6	Mmm. Fight coming soon.
+tense	chatter	6	Something loud coming.
+tense	chatter	6	Uh. Scary quiet.
+tense	chatter	6	Bad things near. Watch.
+tense	chatter	6	Mmm. Not safe now.
+tense	chatter	6	Hear the noise? Bad.
+tense	chatter	6	Uh. Smell danger here.
+tense	chatter	6	Things move in dark places.
+tense	chatter	6	Mmm. Wrong. All wrong.
+tense	chatter	6	Belly say danger. Trust it.
+tense	chatter	6	Uh. Trouble on wind.
+tense	chatter	6	Bad close. Very close.
+tense	chatter	6	Mmm. Eyes open. Things near.
+tense	chatter	6	Smell says run. Wait first.
+tense	chatter	6	Uh. Danger coming this way.
+tense	chatter	6	Bad smell stays.
+tense	chatter	6	Mmm. Stay awake. Trouble near.
+tense	chatter	6	Something big out there.
+tense	ask	6	You smell that?
+tense	ask	6	Bad thing near?
+tense	ask	6	You hear noise too?
+tense	ask	6	Where danger come from?
+tense	ask	6	We run now?
+tense	ask	6	How many bad things?
+tense	ask	6	You see it move?
+tense	ask	6	We fight together?
+tense	ask	6	Which way trouble come?
+tense	ask	6	You hear that sound?
+tense	ask	6	Bad thing coming fast?
+tense	ask	6	We go now or wait?
+tense	ask	6	You smell danger too?
+tense	ask	6	How close bad thing?
+tense	ask	6	We stay here?
+tense	ask	6	You see it?
+tense	ask	6	Many bad things or one?
+tense	ask	6	We hide or fight?
+tense	ask	6	Danger still coming?
+tense	ask	6	You hear it nearby?
+tense	ask	6	Which way to safe?
+tense	ask	6	Bad thing chase us?
+tense	ask	6	We run together?
+tense	ask	6	You see the danger?
+tense	ask	6	How long until trouble?
+tense	ask	6	We move now?
+tense	ask	6	Bad smell from where?
+tense	ask	6	You know how many?
+tense	ask	6	We go that way?
+tense	ask	6	Danger on the path?
+tense	ask	6	You smell something bad?
+tense	ask	6	We wait or go?
+tense	ask	6	Bad thing see us?
+tense	ask	6	We fight or run?
+tense	ask	6	You scared too?
+tense	ask	6	Which way to run?
+tense	ask	6	Bad things everywhere?
+tense	ask	6	We stay low?
+tense	ask	6	You feel it coming?
+tense	ask	6	Danger pass yet?
+tense	answer	6	Yes. Smell it too.
+tense	answer	6	No. Not alone. Stay.
+tense	answer	6	Maybe. Wait first.
+tense	answer	6	Mmm. Yes. Move now.
+tense	answer	6	Uh. Yes. Eyes open.
+tense	answer	6	No. Stay low.
+tense	answer	6	Yes. And close.
+tense	answer	6	Maybe. Smell says so.
+tense	answer	6	Mmm. Yes. Go together.
+tense	answer	6	No. That way bad.
+tense	answer	6	Yes. Hear it too.
+tense	answer	6	Uh. Yes. Move quiet.
+tense	answer	6	No. Not that way.
+tense	answer	6	Mmm. Yes. Fast now.
+tense	answer	6	Yes. All smell wrong.
+tense	answer	6	No. Wait here first.
+tense	answer	6	Uh. Yes. Bad near.
+tense	answer	6	Maybe. Not sure now.
+tense	answer	6	Yes. And fast.
+tense	answer	6	No. Big bad near.
+tense	answer	6	Mmm. Yes. We stay together.
+tense	answer	6	Uh. Yes. Move.
+tense	answer	6	No. Stay right here.
+tense	answer	6	Yes. Danger smell strong.
+tense	answer	6	Mmm. No. Danger still.
+tense	answer	6	Yes. Run now.
+tense	answer	6	Uh. No. Wait.
+tense	answer	6	Maybe. Check first.
+tense	answer	6	Yes. Go low.
+tense	answer	6	No. Too many bad things.
+tense	answer	6	Mmm. Yes. Stay together.
+tense	answer	6	Uh. Yes. Fight coming.
+tense	answer	6	No. Other way safer.
+tense	answer	6	Yes. Move now.
+tense	answer	6	Mmm. Maybe. Check first.
+tense	answer	6	Yes. Feel it coming.
+tense	answer	6	Uh. No. Bad route.
+tense	answer	6	Maybe. Smell says yes.
+tense	answer	6	Yes. Very close.
+tense	answer	6	No. Hold on.
+tense	refuse	6	No. Too many out there.
+tense	refuse	6	Uh. No. Wrong.
+tense	refuse	6	Not now. Danger close.
+tense	refuse	6	Mmm. No. Not out there.
+tense	refuse	6	No. Bad smell that way.
+tense	refuse	6	Uh. No. Too scary.
+tense	refuse	6	Not now. Things near.
+tense	refuse	6	Mmm. No. Wait here.
+tense	refuse	6	No. Bad things out there.
+tense	refuse	6	Uh. No. Too risky.
+tense	refuse	6	Not going alone there.
+tense	refuse	6	Mmm. No. Danger near.
+tense	refuse	6	No. Smell says no.
+tense	refuse	6	Uh. No. Stay low.
+tense	refuse	6	Not now. Too dangerous.
+tense	refuse	6	Mmm. No. Smell says bad.
+tense	refuse	6	No. Stay together.
+tense	refuse	6	Uh. No. Belly says no.
+tense	refuse	6	Not that way. Bad.
+tense	refuse	6	Mmm. No. Too loud there.
+tense	refuse	6	No. Not splitting up.
+tense	refuse	6	Uh. No. Stay close.
+tense	refuse	6	Not now. Hide first.
+tense	refuse	6	Mmm. No. Wait.
+tense	refuse	6	No. Too many things.
+tense	refuse	6	Uh. No. Wrong direction.
+tense	refuse	6	Not now. Smell says no.
+tense	refuse	6	Mmm. No. Keep low.
+tense	refuse	6	No. Not leaving you.
+tense	refuse	6	Uh. No. Scary.
+tense	refuse	6	Not going that way.
+tense	refuse	6	Mmm. No. Too open.
+tense	refuse	6	No. Hold here.
+tense	refuse	6	Uh. No. Bad timing.
+tense	refuse	6	Not now. Things see us.
+tense	refuse	6	Mmm. No. Stay still.
+tense	refuse	6	No. Not good.
+tense	refuse	6	Uh. No. Risk too big.
+tense	refuse	6	Not going there. No.
+tense	refuse	6	Mmm. No. Not yet.
+tense	agree	6	Yes. Together now.
+tense	agree	6	Mmm. Yes. Go now.
+tense	agree	6	Uh. Okay. Stay close.
+tense	agree	6	Yes. Move fast. Go.
+tense	agree	6	Good. Let go quick.
+tense	agree	6	Mmm. Yes yes. Move.
+tense	agree	6	Uh. Okay. Good call.
+tense	agree	6	Yes. Together. Fast.
+tense	agree	6	Mmm. Okay. Now.
+tense	agree	6	Uh. Yes. Fight.
+tense	agree	6	Yes. Go low together.
+tense	agree	6	Mmm. Agree. No wait.
+tense	agree	6	Uh. Yes. Right plan.
+tense	agree	6	Yes. Move on three.
+tense	agree	6	Good. Do now.
+tense	agree	6	Mmm. Yes. Fast and quiet.
+tense	agree	6	Uh. Okay. Go fast.
+tense	agree	6	Yes. Smell says yes too.
+tense	agree	6	Mmm. Yes. Stay close go.
+tense	agree	6	Uh. Fine. Move.
+tense	agree	6	Yes. I follow you.
+tense	agree	6	Mmm. That right. Go.
+tense	agree	6	Uh. Yes yes. Now.
+tense	agree	6	Yes. We do together.
+tense	agree	6	Good idea. Go fast.
+tense	agree	6	Mmm. Okay okay. Now.
+tense	agree	6	Uh. Agree. Go quick.
+tense	agree	6	Yes. Feels right. Move.
+tense	agree	6	Mmm. Yes. Ready. Go.
+tense	agree	6	Uh. Yes. Run now.
+tense	agree	6	Yes. Good plan. Run.
+tense	agree	6	Mmm. Yes. Together fast.
+tense	agree	6	Uh. Agree. Now.
+tense	agree	6	Yes. Short move. Go.
+tense	agree	6	Mmm. Okay. Moving now.
+tense	agree	6	Uh. Yes fine. Go.
+tense	agree	6	Yes. No more wait.
+tense	agree	6	Mmm. Agreed. Go together.
+tense	agree	6	Uh. Yes. Good call. Move.
+tense	agree	6	Yes. I with you. Go.
+tense	warn	6	Watch out. Something near.
+tense	warn	6	Mind the noise. Things hear.
+tense	warn	6	Do not move yet. Wait.
+tense	warn	6	Eyes open. Danger near.
+tense	warn	6	Mind the dark. Bad things.
+tense	warn	6	Hold still. Something coming.
+tense	warn	6	Watch the back. Not safe.
+tense	warn	6	Careful. Bad smell that way.
+tense	warn	6	Do not run. Walk slow.
+tense	warn	6	Mind the shadow. It move.
+tense	warn	6	Stay low. Things above.
+tense	warn	6	Watch the side. Something there.
+tense	warn	6	Careful. Too loud here.
+tense	warn	6	Do not separate. Stay close.
+tense	warn	6	Eyes on dark spot there.
+tense	warn	6	Hold. Smell says wait.
+tense	warn	6	Watch behind you. Now.
+tense	warn	6	Mind the path. Bad.
+tense	warn	6	Do not shout. Things listen.
+tense	warn	6	Stay here. Not safe outside.
+tense	warn	6	Watch the movement. That way.
+tense	warn	6	Careful by the open space.
+tense	warn	6	Do not go ahead. Bad.
+tense	warn	6	Mind what snapped that branch.
+tense	warn	6	Keep close. I stay too.
+tense	warn	6	Watch the noise from dark.
+tense	warn	6	Careful. Something out there.
+tense	warn	6	Do not go alone now.
+tense	warn	6	Eyes down. Move slow.
+tense	warn	6	Hold on. Bad smell.
+tense	warn	6	Stay together. Not safe alone.
+tense	warn	6	Watch right side now.
+tense	warn	6	Mind the step. Loud.
+tense	warn	6	Do not cross open ground.
+tense	warn	6	Watch what moved in dark.
+tense	warn	6	Mind the bad smell ahead.
+tense	warn	6	Careful. Danger close.
+tense	warn	6	Do not run yet. Wait.
+tense	warn	6	Watch where things are looking.
+tense	warn	6	Mind the path behind.
+shaken	greet	6	Uh. Friend. You okay?
+shaken	greet	6	Mmm. You here. Good. Hurt.
+shaken	greet	6	Hello. That was bad.
+shaken	greet	6	Uh. You made it. Good.
+shaken	greet	6	Friend here. Sit with me.
+shaken	greet	6	Mmm. That was too close.
+shaken	greet	6	Hello. Shaking. You?
+shaken	greet	6	Uh. You here. Good.
+shaken	greet	6	Friend back. Sit down.
+shaken	greet	6	Mmm. Glad you alive.
+shaken	greet	6	Hello. Barely made it.
+shaken	greet	6	Uh. You here. Good good.
+shaken	greet	6	Friend. Sit. Breathe.
+shaken	greet	6	Mmm. You alive. Good.
+shaken	greet	6	Hello friend. That hurt.
+shaken	greet	6	Uh. You came. Sit close.
+shaken	greet	6	Friend here. Rest now.
+shaken	greet	6	Mmm. Bad time. But here.
+shaken	greet	6	Hello. Legs still shaking.
+shaken	greet	6	Uh. Glad you here.
+shaken	greet	6	Friend. Good to see you.
+shaken	greet	6	Mmm. That was scary.
+shaken	greet	6	Hello. You okay?
+shaken	greet	6	Uh. You made it. Sit.
+shaken	greet	6	Friend here. Good. Rest.
+shaken	greet	6	Mmm. You alive. Very glad.
+shaken	greet	6	Hello. Need to sit.
+shaken	greet	6	Uh. You here. Breathe.
+shaken	greet	6	Friend back. Good. Rest now.
+shaken	greet	6	Mmm. Glad you found me.
+shaken	greet	6	Hello friend. That was much.
+shaken	greet	6	Uh. You here. That bad.
+shaken	greet	6	Friend here. Sit and breathe.
+shaken	greet	6	Mmm. You made it. Good.
+shaken	greet	6	Hello. Still shaking a bit.
+shaken	greet	6	Uh. You here now. Good.
+shaken	greet	6	Friend back. Rest together.
+shaken	greet	6	Mmm. Glad. Very glad.
+shaken	greet	6	Hello. Bad time. You okay?
+shaken	greet	6	Uh. You came. Good. Sit.
+shaken	farewell	6	Bye friend. Go slow.
+shaken	farewell	6	Uh. Later. Rest well.
+shaken	farewell	6	Mmm. Bye. Take care.
+shaken	farewell	6	Go slow. Come back.
+shaken	farewell	6	Friend go. Walk careful.
+shaken	farewell	6	Uh. See you when better.
+shaken	farewell	6	Bye. I rest here.
+shaken	farewell	6	Mmm. Later. Be warm.
+shaken	farewell	6	Go gentle. Come back.
+shaken	farewell	6	Uh. Bye friend. Rest soon.
+shaken	farewell	6	See you after rest.
+shaken	farewell	6	Mmm. Bye bye. Walk soft.
+shaken	farewell	6	Go safe. Walk slow.
+shaken	farewell	6	Uh. Later. Stay safe.
+shaken	farewell	6	Bye. Eat something warm.
+shaken	farewell	6	Mmm. Friend go. Come back.
+shaken	farewell	6	Bye. I sit a while.
+shaken	farewell	6	Uh. Go slow. Rest after.
+shaken	farewell	6	Bye friend. I okay.
+shaken	farewell	6	Mmm. Later. Walk warm path.
+shaken	farewell	6	Go. Come back soon.
+shaken	farewell	6	Uh. Bye. Sleep tonight.
+shaken	farewell	6	Bye. I need quiet.
+shaken	farewell	6	Mmm. See you next time.
+shaken	farewell	6	Friend go. I here.
+shaken	farewell	6	Uh. Bye bye. Be safe.
+shaken	farewell	6	Go rest. I too.
+shaken	farewell	6	Mmm. Bye. All okay.
+shaken	farewell	6	Bye. Walk careful.
+shaken	farewell	6	Uh. Later. Take care.
+shaken	farewell	6	Bye friend. Rest well.
+shaken	farewell	6	Mmm. Go slow. See you.
+shaken	farewell	6	Bye. Come find me after.
+shaken	farewell	6	Uh. Later. Be good.
+shaken	farewell	6	Go gentle. I rest.
+shaken	farewell	6	Mmm. Bye. Walk easy.
+shaken	farewell	6	Friend go. I stay warm.
+shaken	farewell	6	Uh. Bye. Soft steps.
+shaken	farewell	6	See you when we better.
+shaken	farewell	6	Mmm. Bye. Rest up.
+shaken	chatter	6	Uh. That was bad.
+shaken	chatter	6	Mmm. Legs still shaky.
+shaken	chatter	6	Hurt. But here. Good.
+shaken	chatter	6	Uh. Too close. Too close.
+shaken	chatter	6	Belly still upset.
+shaken	chatter	6	Mmm. Smell of fear on me.
+shaken	chatter	6	Still shaking a little.
+shaken	chatter	6	Uh. Almost not here.
+shaken	chatter	6	That was very scary.
+shaken	chatter	6	Mmm. Need to sit more.
+shaken	chatter	6	Hurt in the side. Small.
+shaken	chatter	6	Uh. Heart still loud.
+shaken	chatter	6	Mmm. Scary time now past.
+shaken	chatter	6	Legs not sure yet.
+shaken	chatter	6	Uh. That shook me.
+shaken	chatter	6	Mmm. Too close for comfort.
+shaken	chatter	6	Still trembling. Give time.
+shaken	chatter	6	Uh. That was big bad.
+shaken	chatter	6	Need rest. Long rest.
+shaken	chatter	6	Mmm. Glad still here.
+shaken	chatter	6	Uh. Hands not steady.
+shaken	chatter	6	That was worst in while.
+shaken	chatter	6	Mmm. Quiet now. Good.
+shaken	chatter	6	Uh. Belly still scared.
+shaken	chatter	6	Almost did not make it.
+shaken	chatter	6	Mmm. Sit now. Long sit.
+shaken	chatter	6	Uh. Not forget that fast.
+shaken	chatter	6	Heart slowing down now.
+shaken	chatter	6	Mmm. Body not happy yet.
+shaken	chatter	6	Uh. Need warm. Need rest.
+shaken	chatter	6	That left a mark. Small.
+shaken	chatter	6	Mmm. Belly loud with worry.
+shaken	chatter	6	Still here. That enough.
+shaken	chatter	6	Uh. Really really scary.
+shaken	chatter	6	Mmm. Rest first. Then talk.
+shaken	chatter	6	Uh. Very close that was.
+shaken	chatter	6	Still breathing. That counts.
+shaken	chatter	6	Mmm. Bad time. Now better.
+shaken	chatter	6	Uh. Grateful. Very grateful.
+shaken	chatter	6	Mmm. Hurt small. But here.
+shaken	ask	6	You okay? Hurt?
+shaken	ask	6	Friend hurt anywhere?
+shaken	ask	6	You need to sit?
+shaken	ask	6	We safe now?
+shaken	ask	6	You shaking too?
+shaken	ask	6	Bad things gone?
+shaken	ask	6	You need something warm?
+shaken	ask	6	We okay now?
+shaken	ask	6	You hurt bad?
+shaken	ask	6	Friend need rest?
+shaken	ask	6	Danger past now?
+shaken	ask	6	You need to breathe?
+shaken	ask	6	Others all okay?
+shaken	ask	6	You see what that was?
+shaken	ask	6	Still scared?
+shaken	ask	6	You need quiet too?
+shaken	ask	6	We safe here?
+shaken	ask	6	You feeling better?
+shaken	ask	6	Anyone else hurt?
+shaken	ask	6	You legs okay?
+shaken	ask	6	Heart still loud?
+shaken	ask	6	You need sit down?
+shaken	ask	6	That scare you too?
+shaken	ask	6	We gonna be okay?
+shaken	ask	6	You want to stay here?
+shaken	ask	6	Bad thing come back?
+shaken	ask	6	You need help walking?
+shaken	ask	6	Friends all made it?
+shaken	ask	6	You want me stay close?
+shaken	ask	6	All safe now?
+shaken	ask	6	You need warm spot?
+shaken	ask	6	That hurt you?
+shaken	ask	6	Still shaking?
+shaken	ask	6	You okay after that?
+shaken	ask	6	We rest now?
+shaken	ask	6	You need to sleep?
+shaken	ask	6	Danger really gone?
+shaken	ask	6	You eat anything today?
+shaken	ask	6	Friends around?
+shaken	ask	6	That was bad for you too?
+shaken	answer	6	Yes. Alive. Just hurt.
+shaken	answer	6	No. Not bad. Shaking.
+shaken	answer	6	Maybe. Sit first.
+shaken	answer	6	Mmm. Yes. But sore.
+shaken	answer	6	Uh. Yes. Still here.
+shaken	answer	6	No. Okay. Just scared.
+shaken	answer	6	Yes. Barely. Here.
+shaken	answer	6	Maybe. Hard to tell.
+shaken	answer	6	Mmm. Yes. Slowly.
+shaken	answer	6	No. Just need rest.
+shaken	answer	6	Yes. And legs shaking.
+shaken	answer	6	Uh. Yes. Give time.
+shaken	answer	6	No. Just rattled bad.
+shaken	answer	6	Mmm. Yes. Okay now.
+shaken	answer	6	Yes. All still here.
+shaken	answer	6	No. Just very scared.
+shaken	answer	6	Uh. Yes. Getting better.
+shaken	answer	6	Maybe. Need moment.
+shaken	answer	6	Yes. Heart loud. Loud.
+shaken	answer	6	No hurt bad. Just shaken.
+shaken	answer	6	Mmm. Yes. Slowly good.
+shaken	answer	6	Uh. Yes. Okay I think.
+shaken	answer	6	No. Belly says rest.
+shaken	answer	6	Yes. Almost fall.
+shaken	answer	6	Mmm. No big hurt. Good.
+shaken	answer	6	Yes. Still here. Good.
+shaken	answer	6	Uh. Yes. Very close.
+shaken	answer	6	Maybe. Check later.
+shaken	answer	6	Yes. Stand okay now.
+shaken	answer	6	No. Very scared. That all.
+shaken	answer	6	Mmm. Yes. Breathing now.
+shaken	answer	6	Uh. Yes. Sore but here.
+shaken	answer	6	No. Made it. Good.
+shaken	answer	6	Yes. Legs coming back.
+shaken	answer	6	Mmm. Maybe. Rest first.
+shaken	answer	6	Yes. Need sit long.
+shaken	answer	6	Uh. No. Just shaky.
+shaken	answer	6	Maybe. Ask again after.
+shaken	answer	6	Yes. Alive. That enough.
+shaken	answer	6	No bad hurt. Just shaken.
+shaken	refuse	6	No. Too tired now.
+shaken	refuse	6	Uh. No. Need rest.
+shaken	refuse	6	Not now. Still scared.
+shaken	refuse	6	Mmm. No. Too much.
+shaken	refuse	6	No. Legs say no.
+shaken	refuse	6	Uh. No. Still shaking.
+shaken	refuse	6	Not now. Belly upset.
+shaken	refuse	6	Mmm. No. Rest first.
+shaken	refuse	6	No. Too soon.
+shaken	refuse	6	Uh. No. Not ready.
+shaken	refuse	6	Not now. Heart still loud.
+shaken	refuse	6	Mmm. No. Need quiet.
+shaken	refuse	6	No. Very tired.
+shaken	refuse	6	Uh. No. Please.
+shaken	refuse	6	Not now. Body says no.
+shaken	refuse	6	Mmm. No. Too soon.
+shaken	refuse	6	No. Not safe to move.
+shaken	refuse	6	Uh. No. Can not.
+shaken	refuse	6	Not yet. Scared still.
+shaken	refuse	6	Mmm. No. Need time.
+shaken	refuse	6	No. Too wobbly.
+shaken	refuse	6	Uh. No. Sit more.
+shaken	refuse	6	Not now. Too much.
+shaken	refuse	6	Mmm. No. Belly says no.
+shaken	refuse	6	No. Need warm first.
+shaken	refuse	6	Uh. No. Rest now.
+shaken	refuse	6	Not today. Very tired.
+shaken	refuse	6	Mmm. No. Not strong enough.
+shaken	refuse	6	No. Not that. Not now.
+shaken	refuse	6	Uh. No. Tomorrow maybe.
+shaken	refuse	6	Not now. Still hurt.
+shaken	refuse	6	Mmm. No. Legs no good.
+shaken	refuse	6	No. Need sit more.
+shaken	refuse	6	Uh. No. Can not move.
+shaken	refuse	6	Not now. Too scared.
+shaken	refuse	6	Mmm. No. Brain too loud.
+shaken	refuse	6	No. Just rest with me.
+shaken	refuse	6	Uh. No. Give time.
+shaken	refuse	6	Not now. Maybe after.
+shaken	refuse	6	Mmm. No. Scared still.
+shaken	agree	6	Yes. Okay. Slow.
+shaken	agree	6	Mmm. Yes. If you help.
+shaken	agree	6	Uh. Okay. Slowly.
+shaken	agree	6	Yes. Try. Go slow.
+shaken	agree	6	Good. Together. Soft.
+shaken	agree	6	Mmm. Yes yes. Careful.
+shaken	agree	6	Uh. Okay. With you.
+shaken	agree	6	Yes. If short.
+shaken	agree	6	Mmm. Okay. Slow step.
+shaken	agree	6	Uh. Yes. Fine.
+shaken	agree	6	Yes. Go soft together.
+shaken	agree	6	Mmm. Agree. Careful.
+shaken	agree	6	Uh. Yes. If you with me.
+shaken	agree	6	Yes. Belly says maybe.
+shaken	agree	6	Good. Go easy.
+shaken	agree	6	Mmm. Yes. You lead.
+shaken	agree	6	Uh. Okay. Very slow.
+shaken	agree	6	Yes. If rest after.
+shaken	agree	6	Mmm. Yes. Gentle.
+shaken	agree	6	Uh. Fine. Together.
+shaken	agree	6	Yes. I follow slow.
+shaken	agree	6	Mmm. That okay. Yes.
+shaken	agree	6	Uh. Yes yes. Careful.
+shaken	agree	6	Yes. Not too far.
+shaken	agree	6	Good. But slow please.
+shaken	agree	6	Mmm. Okay okay. Soft.
+shaken	agree	6	Uh. Agree. Go easy.
+shaken	agree	6	Yes. Feels okay. Try.
+shaken	agree	6	Mmm. Yes. Do careful.
+shaken	agree	6	Uh. Yes. Ready. Slow.
+shaken	agree	6	Yes. Good. Slow start.
+shaken	agree	6	Mmm. Yes. Short steps.
+shaken	agree	6	Uh. Agree. Together soft.
+shaken	agree	6	Yes. That sound okay.
+shaken	agree	6	Mmm. Okay. Moving slow.
+shaken	agree	6	Uh. Yes fine. Easy.
+shaken	agree	6	Yes. No rush. Agree.
+shaken	agree	6	Mmm. Agreed. Go gentle.
+shaken	agree	6	Uh. Yes. Stay with me.
+shaken	agree	6	Yes. I with you. Slow.
+shaken	warn	6	Careful. I not steady.
+shaken	warn	6	Mind the step. Legs bad.
+shaken	warn	6	Do not pull me fast.
+shaken	warn	6	Watch out. I wobble.
+shaken	warn	6	Mind the sharp thing. I missed it.
+shaken	warn	6	Careful here. Not sure.
+shaken	warn	6	Do not go too fast. Wait.
+shaken	warn	6	Watch me. Legs still shaky.
+shaken	warn	6	Careful. My grip weak now.
+shaken	warn	6	Do not lean on me yet.
+shaken	warn	6	Watch the hole there.
+shaken	warn	6	Mind the loud noise. Hurts.
+shaken	warn	6	Careful by the drop.
+shaken	warn	6	Do not leave me alone.
+shaken	warn	6	Watch where you step. Careful.
+shaken	warn	6	Mind the wet stone.
+shaken	warn	6	Careful. Arms not strong now.
+shaken	warn	6	Do not rush me. Please.
+shaken	warn	6	Watch the edge. I scared.
+shaken	warn	6	Mind the low branch. My head.
+shaken	warn	6	Careful. Still a bit dizzy.
+shaken	warn	6	Do not ask too much now.
+shaken	warn	6	Watch the ground. Soft.
+shaken	warn	6	Mind the gap there.
+shaken	warn	6	Careful. I need slow.
+shaken	warn	6	Do not walk away fast.
+shaken	warn	6	Watch my step for me.
+shaken	warn	6	Mind the noise. Head loud.
+shaken	warn	6	Careful. Not all here yet.
+shaken	warn	6	Do not let go my hand.
+shaken	warn	6	Watch out. I unsteady.
+shaken	warn	6	Mind the slope. Slippery.
+shaken	warn	6	Careful with me. Still shaking.
+shaken	warn	6	Do not run. I fall.
+shaken	warn	6	Watch the root. I tripped before.
+shaken	warn	6	Mind my pace. It slow.
+shaken	warn	6	Careful. Need to stop a moment.
+shaken	warn	6	Do not startle me now.
+shaken	warn	6	Watch the uneven ground here.
+shaken	warn	6	Mind the noise above. Still scared.
