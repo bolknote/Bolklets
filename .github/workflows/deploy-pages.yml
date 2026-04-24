@@ -39,11 +39,8 @@ jobs:
       - name: Install terser
         run: npm i -g terser
 
-      - name: Install build dependencies
-        run: make deps
-
-      - name: Build bundle
-        run: make bundle
+      - name: Build all artifacts
+        run: make all
 
       - name: Prepare Pages artifact
         run: |
