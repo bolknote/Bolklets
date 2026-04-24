@@ -33,7 +33,7 @@ deps:
 	    echo "ok: esbuild found.  'npm i -g terser' would shave another ~1-2 KB on the packed PNG via top-level mangling." || \
 	    echo "warning: neither terser nor esbuild found.  Install one ('npm i -g terser' for best, or 'brew install esbuild') for proper JS minification; rjsmin will be used as a whitespace-only fallback.")
 
-sprites: $(SPRITES) static-sprites
+sprites: $(SPRITES_STAMP) static-sprites
 
 # GNU Make 4.3+ supports `targets &:` (one recipe -> many outputs).
 # macOS still ships Make 3.81, which parses `&:` as a literal extra
@@ -77,7 +77,7 @@ payload: web/bolklets_code.png
 # The payload image now also carries the minified bolklets runtime as
 # its "js" section, so it has to rebuild whenever any source JS /
 # stylesheet changes — not just when the model or sprites change.
-web/bolklets_code.png: tools/build.py web/style.css build/dialog_model.json $(JS_SRC) $(SPRITES) $(STATIC_SPRITES)
+web/bolklets_code.png: tools/build.py web/style.css build/dialog_model.json $(JS_SRC) $(SPRITES_STAMP) $(STATIC_SPRITES)
 	$(PYTHON) tools/build.py
 
 bundle: dist/bolklets.js
@@ -88,7 +88,7 @@ bundle: dist/bolklets.js
 # mangling and multi-pass compression, falling back to esbuild for
 # whitespace + local mangling, then rjsmin for whitespace only) and the
 # CSS (csscompressor) before writing dist/bolklets.js.
-dist/bolklets.js: tools/build.py web/style.css build/dialog_model.json $(JS_SRC) $(SPRITES) $(STATIC_SPRITES)
+dist/bolklets.js: tools/build.py web/style.css build/dialog_model.json $(JS_SRC) $(SPRITES_STAMP) $(STATIC_SPRITES)
 	$(PYTHON) tools/build.py
 
 # Serve from the repo root so both the dev page (web/index.html) and
