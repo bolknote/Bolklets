@@ -36,8 +36,10 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install terser
-        run: npm i -g terser
+      - name: Install compression tools
+        run: |
+          sudo apt-get install -y zopfli optipng
+          npm i -g terser
 
       - name: Build all artifacts
         run: make all
