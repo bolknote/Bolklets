@@ -825,9 +825,14 @@ def encode_payload_image(
     """
     packed = pack_payload(sections)
 
+    # Keep the payload byte layout grayscale-only for cache compatibility.
+    # Older bootstraps only read one byte per pixel; if a browser has an
+    # old bolklets.js cached while Pages serves a freshly built RGB payload,
+    # the decoded runtime becomes corrupted and can fail with syntax errors
+    # such as "Unexpected token 'continue'".  The RGB path is only about
+    # 1 KB smaller on current builds, so the robustness win is worth it.
     variants = [
         ("L", FORMAT_GRAY),
-        ("RGB", FORMAT_RGB),
     ]
 
     trial_args: list[tuple[bytes, str, int, str]] = []
