@@ -64,7 +64,7 @@ $(STATIC_SPRITES): $(STATIC_SPRITES_STAMP)
 
 model: build/dialog_model.json
 
-DIALOG_SOURCES := tools/train_dialog.py corpus/dialog_domain_lines.tsv \
+DIALOG_SOURCES := tools/train_dialog.py \
   $(wildcard corpus/golden_seeds/*.tsv)
 
 build/dialog_model.json: $(DIALOG_SOURCES)
