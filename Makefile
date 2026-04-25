@@ -64,7 +64,10 @@ $(STATIC_SPRITES): $(STATIC_SPRITES_STAMP)
 
 model: build/dialog_model.json
 
-build/dialog_model.json: tools/train_dialog.py
+DIALOG_SOURCES := tools/train_dialog.py corpus/dialog_domain_lines.tsv \
+  $(wildcard corpus/golden_seeds/*.tsv)
+
+build/dialog_model.json: $(DIALOG_SOURCES)
 	$(PYTHON) tools/train_dialog.py
 
 # Both the dialogue model AND every character sprite get packed into a
