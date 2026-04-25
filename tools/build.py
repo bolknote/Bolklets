@@ -825,14 +825,9 @@ def encode_payload_image(
     """
     packed = pack_payload(sections)
 
-    # Keep the payload byte layout grayscale-only for cache compatibility.
-    # Older bootstraps only read one byte per pixel; if a browser has an
-    # old bolklets.js cached while Pages serves a freshly built RGB payload,
-    # the decoded runtime becomes corrupted and can fail with syntax errors
-    # such as "Unexpected token 'continue'".  The RGB path is only about
-    # 1 KB smaller on current builds, so the robustness win is worth it.
     variants = [
         ("L", FORMAT_GRAY),
+        ("RGB", FORMAT_RGB),
     ]
 
     trial_args: list[tuple[bytes, str, int, str]] = []
@@ -1066,7 +1061,7 @@ def build_bootstrap_js(css_text: str) -> tuple[str, str]:
   async function boot() {{
     ensureStage();
     try {{
-      await loadPayload(BOLKLETS_BASE + 'bolklets_code.png');
+      await loadPayload(BOLKLETS_BASE + 'bolklets_code.png?v={BUILD_STAMP}');
     }} catch (err) {{
       console.error('bolklets: failed to load payload', err);
       return;
@@ -1204,7 +1199,7 @@ def main() -> None:
     load.</p>
     <p>Scroll to the bottom of the page to see the pixel strip.</p>
   </main>
-  <script async src="{BUNDLE_NAME}"></script>
+  <script async src="{BUNDLE_NAME}?v={BUILD_STAMP}"></script>
 </body>
 </html>
 """
